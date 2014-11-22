@@ -1,0 +1,35 @@
+commit 097a11a899dde567c16b90accc78aec773f9fd5f
+Author: elinformatico <donoe1985@gmail.com>
+Date:   Fri Nov 21 23:09:51 2014 -0600
+
+    Agrege mi portafolio
+
+commit 7f646a7c0f3870f2a39ba292ce0dba7251fabf83
+Author: elinformatico <donoe1985@gmail.com>
+Date:   Fri Nov 21 23:07:19 2014 -0600
+
+    Agrege description
+
+commit 4f9bbf6b1c557d44275fbd7d29187a8a887e5fee
+Author: elinformatico <donoe1985@gmail.com>
+Date:   Fri Nov 21 23:04:57 2014 -0600
+
+    Se agregaron redes sociales
+
+commit 9f529b3ee611c671a9266303ffe7e5ceea9301a4
+Author: elinformatico <donoe1985@gmail.com>
+Date:   Fri Nov 21 14:33:40 2014 -0600
+
+    Se agrego mi perfil Web profesional
+
+commit d8cbac23b73a8e90146f7613fe2811bba78fe28c
+Author: elinformatico <donoe1985@gmail.com>
+Date:   Fri Nov 21 14:29:57 2014 -0600
+
+    Se agrego el nombre y foto de perfil
+
+commit 0ed30167332cf1b63d44d6c01827aec06899c515
+Author: elinformatico <donoe1985@gmail.com>
+Date:   Fri Nov 21 13:54:07 2014 -0600
+
+    Estos son los archivos bases para iniciar el portafolio
