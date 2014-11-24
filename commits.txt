@@ -1,0 +1,35 @@
+commit 0ee2e29d232d729ec8977c54ddda96316d701428
+Author: adrianarroyoceja <shadow_red_link@hotmail.com>
+Date:   Thu Nov 20 06:19:30 2014 -0600
+
+    Salve mi portafolio
+
+commit c949623ed64d82c6fef9c7624a62077a407cd654
+Author: adrianarroyoceja <shadow_red_link@hotmail.com>
+Date:   Thu Nov 20 06:16:15 2014 -0600
+
+    Agregue descripcion
+
+commit 6d7386d7b1afbf764a784926b188041e8bd7e55c
+Author: adrianarroyoceja <shadow_red_link@hotmail.com>
+Date:   Thu Nov 20 06:14:26 2014 -0600
+
+    Agregue redes sociales
+
+commit b23d632d6727032383ce3ea3abc8ba6f83c8ea4c
+Author: adrianarroyoceja <shadow_red_link@hotmail.com>
+Date:   Thu Nov 20 06:09:58 2014 -0600
+
+    Perfil web escrito
+
+commit e7e9f2b68ff627c674c16177ea31aa9a7327a0be
+Author: adrianarroyoceja <shadow_red_link@hotmail.com>
+Date:   Thu Nov 20 06:07:29 2014 -0600
+
+    Subí foto de perfil y mi nombre
+
+commit fa2a223b3a1e4b61a9b593e7e7685ca94480b59a
+Author: adrianarroyoceja <shadow_red_link@hotmail.com>
+Date:   Thu Nov 20 06:02:44 2014 -0600
+
+    Estos son los archivos bases de mi portafolio
