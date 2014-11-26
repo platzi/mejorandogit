@@ -56,6 +56,7 @@ body
 {
  background: rgb(22, 21, 20);
  font-size: 16px;
+ font-family: 'Roboto', sans-serif;
 }
 
 a
@@ -128,6 +129,7 @@ header.sidebar
   top: 0;
   vertical-align: top;
   width: 30%;
+
 }
 
 section.sidebar_information
@@ -199,6 +201,7 @@ div.layout-principal
 {
   bottom: 0;  
   overflow-x: auto;
+  overflow-y: hidden;
   padding: 0% 6.5%;
   position: absolute; 
   right: 0; 
@@ -211,10 +214,16 @@ div.bloque
   margin: 5% 0 0;
 }
 
+div.bloque h3 strong
+{
+  font-family: 'Yellowtail', cursive;
+}
+
 div.bloque p
 {
   color: rgb(255, 255, 255);
   line-height: 1.9em;
+  font-weight: 300;
 }
 
 div.bloque a
