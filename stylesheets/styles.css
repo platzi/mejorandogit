@@ -217,22 +217,13 @@ div.bloque p
   line-height: 1.9em;
 }
 
-div.bloque p a
+div.bloque a
 {
   color: #2375d1;
+  display: inline-block;
 }
 
-div.bloque p a:hover
-{
-  color: #d12b63;
-}
-
-div.bloque a p
-{
-  color: #2375d1;
-}
-
-div.bloque a p:hover
+div.bloque a:hover
 {
   color: #d12b63;
 }
@@ -259,9 +250,9 @@ div.bloque a p:hover
   header.sidebar
   {
     height: 100%;
-    left: -90%;
+    left: -80%;
     position: relative;
-    width: 90%;
+    width: 80%;
     z-index: 4;
     -moz-transition: 0.3s;
     -ms-transition: 0.3s;
@@ -290,7 +281,7 @@ div.bloque a p:hover
   {
     color: white;
     font-size: 23px;
-    position: absolute;
+    position: fixed;
     right: 5px;
     top: 10px;
   }

@@ -1,35 +1,18 @@
-commit f7f8663523b28080580edbc9a0f3c3a2760ecba3
+commit b49bc78d8b8d5b93a55f04fc3a759e58ff36ae36
 Author: Filiberto Martínez <fili06604@gmail.com>
-Date:   Mon Nov 24 23:24:37 2014 -0600
+Date:   Tue Nov 25 17:29:47 2014 -0600
 
-    Agregando Portafolio
+    Haciendo Cambios
+    
+    Se aplico lo siguiente:
+    
+    - Responsive Design
+    - Gestos Touch
+    - Off Canvas
+    - Fuentes de iconos
 
-commit 75971a0230d20fd48284aeda579bafa6f7457e8f
-Author: Filiberto Martínez <fili06604@gmail.com>
-Date:   Mon Nov 24 23:20:34 2014 -0600
+commit ea4e4a0439213ac10ae3d3aebe62590d0c0ff980
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Nov 17 10:14:38 2014 -0500
 
-    Agregando descripcion
-
-commit dcadcdf8ecaa376e032d99dcc6f3f9e73944aab0
-Author: Filiberto Martínez <fili06604@gmail.com>
-Date:   Mon Nov 24 23:14:18 2014 -0600
-
-    Redes sociales
-
-commit 85fd3abe66164f628d1a1401bdd303dea568cc8d
-Author: Filiberto Martínez <fili06604@gmail.com>
-Date:   Mon Nov 24 23:05:48 2014 -0600
-
-    Perfil Web escrito
-
-commit 28fb93293a41aedfe2450ce1e91f08fe05231c08
-Author: Filiberto Martínez <fili06604@gmail.com>
-Date:   Mon Nov 24 22:58:01 2014 -0600
-
-    Subi foto de perfil y mi nombre
-
-commit 40555d3ed364960518e7dff2236198f0e97892bb
-Author: Filiberto Martínez <fili06604@gmail.com>
-Date:   Mon Nov 24 22:42:06 2014 -0600
-
-    Estos son archivos base
+    Inicio de portafolio
