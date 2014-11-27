@@ -1,0 +1,35 @@
+commit 12ec997c4f0101d655cf7d2e0e5af5925393f939
+Author: lmruiz <luis.ruiz.pichardo@gmail.com>
+Date:   Mon Nov 17 20:21:01 2014 -0600
+
+    Agregue Portafolio
+
+commit ab4847dfbeeb297ea6e58c66e04818e659b1db21
+Author: lmruiz <luis.ruiz.pichardo@gmail.com>
+Date:   Mon Nov 17 20:20:04 2014 -0600
+
+    Agregue Descripcion
+
+commit bffe0b552b5dd3557beaef2428779583338726f8
+Author: lmruiz <luis.ruiz.pichardo@gmail.com>
+Date:   Mon Nov 17 20:18:42 2014 -0600
+
+    Agregue Redes Sociales
+
+commit eea2692d50efc5a8ca1251a6bab76f1912ce0a85
+Author: lmruiz <luis.ruiz.pichardo@gmail.com>
+Date:   Mon Nov 17 20:16:53 2014 -0600
+
+    Perfil web escrito
+
+commit c1fb3b4eb43903714779a16a6cf1aed20d4d899a
+Author: lmruiz <luis.ruiz.pichardo@gmail.com>
+Date:   Mon Nov 17 20:14:41 2014 -0600
+
+    subi foto de perfil y mi nombre
+
+commit f5dea1d937fae7800d8741c3310989a8d667cdf4
+Author: lmruiz <luis.ruiz.pichardo@gmail.com>
+Date:   Mon Nov 17 20:10:13 2014 -0600
+
+    Estos son los archivos base de mi portafolio
