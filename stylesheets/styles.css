@@ -135,7 +135,7 @@ text-align: center;
 
 div.nombre p
 {
-  color: rgb(255, 255, 255)
+  color: red;
 }
 
 div.layout-principal
