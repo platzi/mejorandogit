@@ -1,0 +1,155 @@
+Date:   Mon Nov 17 14:13:25 2014 -0500
+
+    Relacionado con el portafolio
+
+commit 3b68e96ed3a5a488ccecf1e6fdee1e1ae4cb68c2
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:10:47 2014 -0500
+
+    nueva descripcion
+
+commit fe97e018ca6e4ccb625f806e11a21a4bc8a996ea
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:09:23 2014 -0500
+
+    añadí redes sociales
+
+commit a38651a951c5cd82ce00585d7bf96f395e85194a
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:07:09 2014 -0500
+
+    Ya puse mi perfil web
+
+commit 9057e0afb1ef53b39b55be11aae5135fbd9516bc
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:04:23 2014 -0500
+
+:...skipping...
+commit 437d1cd80eedfb390a22b123e5b4d208a0a8dfea
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:13:25 2014 -0500
+
+    Relacionado con el portafolio
+
+commit 3b68e96ed3a5a488ccecf1e6fdee1e1ae4cb68c2
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:10:47 2014 -0500
+
+    nueva descripcion
+
+commit fe97e018ca6e4ccb625f806e11a21a4bc8a996ea
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:09:23 2014 -0500
+
+    añadí redes sociales
+
+commit a38651a951c5cd82ce00585d7bf96f395e85194a
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:07:09 2014 -0500
+
+    Ya puse mi perfil web
+
+commit 9057e0afb1ef53b39b55be11aae5135fbd9516bc
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:04:23 2014 -0500
+
+    Ya le puse mi nombre
+:...skipping...
+commit 437d1cd80eedfb390a22b123e5b4d208a0a8dfea
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:13:25 2014 -0500
+
+    Relacionado con el portafolio
+
+commit 3b68e96ed3a5a488ccecf1e6fdee1e1ae4cb68c2
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:10:47 2014 -0500
+
+    nueva descripcion
+
+commit fe97e018ca6e4ccb625f806e11a21a4bc8a996ea
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:09:23 2014 -0500
+
+    añadí redes sociales
+
+commit a38651a951c5cd82ce00585d7bf96f395e85194a
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:07:09 2014 -0500
+
+    Ya puse mi perfil web
+
+commit 9057e0afb1ef53b39b55be11aae5135fbd9516bc
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:04:23 2014 -0500
+
+    Ya le puse mi nombre
+
+:...skipping...
+commit 437d1cd80eedfb390a22b123e5b4d208a0a8dfea
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:13:25 2014 -0500
+
+    Relacionado con el portafolio
+
+commit 3b68e96ed3a5a488ccecf1e6fdee1e1ae4cb68c2
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:10:47 2014 -0500
+
+    nueva descripcion
+
+commit fe97e018ca6e4ccb625f806e11a21a4bc8a996ea
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:09:23 2014 -0500
+
+    añadí redes sociales
+
+commit a38651a951c5cd82ce00585d7bf96f395e85194a
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:07:09 2014 -0500
+
+    Ya puse mi perfil web
+
+commit 9057e0afb1ef53b39b55be11aae5135fbd9516bc
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:04:23 2014 -0500
+
+    Ya le puse mi nombre
+
+commit 8fc0f42a4c5f6db65eed1e0382d727d5a17b328a
+:...skipping...
+commit 437d1cd80eedfb390a22b123e5b4d208a0a8dfea
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:13:25 2014 -0500
+
+    Relacionado con el portafolio
+
+commit 3b68e96ed3a5a488ccecf1e6fdee1e1ae4cb68c2
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:10:47 2014 -0500
+
+    nueva descripcion
+
+commit fe97e018ca6e4ccb625f806e11a21a4bc8a996ea
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:09:23 2014 -0500
+
+    añadí redes sociales
+
+commit a38651a951c5cd82ce00585d7bf96f395e85194a
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:07:09 2014 -0500
+
+    Ya puse mi perfil web
+
+commit 9057e0afb1ef53b39b55be11aae5135fbd9516bc
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:04:23 2014 -0500
+
+    Ya le puse mi nombre
+
+commit 8fc0f42a4c5f6db65eed1e0382d727d5a17b328a
+Author: Jorge Durango <djorge.ivan97@gmail.com>
+Date:   Mon Nov 17 14:00:24 2014 -0500
+
+    Esta es la base de nuestros archivos
