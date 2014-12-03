@@ -77,12 +77,15 @@ section.sidebar_information
   color: white;
 }
 
+<<<<<<< HEAD
 .sidebar_information_title{
   width: 200px;
   text-align: left;
   margin-left: -8px;
 }
 
+=======
+>>>>>>> origin/master
 div.sidebar_userimage
 {
   cursor: pointer;
@@ -141,8 +144,12 @@ text-align: center;
 
 div.nombre p
 {
+<<<<<<< HEAD
   color: rgb(255, 255, 255);
   font-size:24px;
+=======
+  color: rgb(255, 255, 255)
+>>>>>>> origin/master
 }
 
 div.layout-principal
