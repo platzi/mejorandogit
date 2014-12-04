@@ -1,7 +1,7 @@
 body
 {
- background: black;
- font-size: 16px;
+  background: rgb(22, 21, 20);
+  font-size: 16px;
 }
 
 a
@@ -125,12 +125,12 @@ div.logo img
 
 div.nombre
 {
-display: inline-block;
-vertical-align: top;
-padding: 0;
-margin: 0% 33%;
-font-size: 27px;
-text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  padding: 0;
+  margin: 0% 33%;
+  font-size: 27px;
+  text-align: center;
 }
 
 div.nombre p
