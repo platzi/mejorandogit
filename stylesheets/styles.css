@@ -77,6 +77,14 @@ section.sidebar_information
   color: white;
 }
 
+
+.sidebar_information_title{
+  width: 200px;
+  text-align: left;
+  margin-left: -8px;
+}
+
+
 div.sidebar_userimage
 {
   cursor: pointer;
@@ -135,7 +143,10 @@ text-align: center;
 
 div.nombre p
 {
-  color: rgb(255, 255, 255)
+
+  color: rgb(255, 255, 255);
+  font-size:24px;
+
 }
 
 div.layout-principal
