@@ -1,0 +1,35 @@
+commit c737da235173fb30e969b2bc8c2000185d6ef7be
+Author: José Mariñas <jamc17@gmail.com>
+Date:   Tue Nov 25 16:09:46 2014 -0500
+
+    Creado portafolio
+
+commit 92086c35161c37e4078290679be56491a537f6db
+Author: José Mariñas <jamc17@gmail.com>
+Date:   Tue Nov 25 16:08:06 2014 -0500
+
+    Agregado descripcion
+
+commit 0e35c040d7991a772cd311b2ee061cb62db5d8a1
+Author: José Mariñas <jamc17@gmail.com>
+Date:   Tue Nov 25 16:06:34 2014 -0500
+
+    Configuradas redes sociales
+
+commit c375ee29913f13eb74422bc24ae230c46b807500
+Author: José Mariñas <jamc17@gmail.com>
+Date:   Tue Nov 25 15:54:27 2014 -0500
+
+    Perfil web configurado
+
+commit 9968d8c1c1b54238e8eb9d8d7e5db195508d4525
+Author: José Mariñas <jamc17@gmail.com>
+Date:   Tue Nov 25 15:52:07 2014 -0500
+
+    Foto y Nombre de perfil configurados
+
+commit f3e77c8725f49ed82075cd925a52805f37a523e4
+Author: José Mariñas <jamc17@gmail.com>
+Date:   Tue Nov 25 15:37:13 2014 -0500
+
+    Archivos base del portafolio
