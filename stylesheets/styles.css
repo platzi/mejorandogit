@@ -159,7 +159,7 @@ div.sidebar_userimage img
 
 div.comunidad-autoria
 {
-  background: #19171a;
+  background: #4393fa;
   border-bottom: solid 1px white;
   border-top: solid 1px white;
   margin: 12% 0;
@@ -194,7 +194,7 @@ vertical-align: top;
 
 div.nombre p
 {
-  color: #4393fa;
+  color: black;
 }
 
 div.layout-principal
