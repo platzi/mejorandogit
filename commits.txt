@@ -1,0 +1,35 @@
+commit 962ef3b99644b5bafc74fb0d85dfaff9daa090ac
+Author: Milton <milton1792@gmail.com>
+Date:   Tue Dec 9 11:54:47 2014 -0500
+
+    Agrege un item al portafolio
+
+commit d716229d54c85ce647c4dfe7c6c10878687fadab
+Author: Milton <milton1792@gmail.com>
+Date:   Tue Dec 9 11:53:17 2014 -0500
+
+    agrege presentacion
+
+commit ebf166dfb967f53c1a74cfc62e1a01f3e3fd0d9a
+Author: Milton <milton1792@gmail.com>
+Date:   Tue Dec 9 11:52:00 2014 -0500
+
+    Agrege rredes sociales
+
+commit e9f345bab2d32257f8002bc7bf2cd011cc117d25
+Author: Milton <milton1792@gmail.com>
+Date:   Tue Dec 9 11:49:17 2014 -0500
+
+    Se agrego un perfil
+
+commit 7fd28b39f4637f9beab373944d0da5cf6c45edc6
+Author: Milton <milton1792@gmail.com>
+Date:   Tue Dec 9 11:47:03 2014 -0500
+
+    Cambio Fto Perfil y nombre
+
+commit 4d779929d9b1bfd7f1063c179597fcdf12d93241
+Author: Milton <milton1792@gmail.com>
+Date:   Tue Dec 9 11:37:18 2014 -0500
+
+    Estos son los archivos base de mi portafolio
