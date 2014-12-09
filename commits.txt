@@ -1,0 +1,41 @@
+commit a444ff8deafb5a2114b54f7c0b1640fbac95abd2
+Author: Stefany Zapata Naranjo <speculator.netdraw@gmail.com>
+Date:   Wed Nov 19 21:40:28 2014 -0500
+
+    Portafolio salvado
+
+commit b33746209ddc2c387da19dbdf3bbfc419c13d2f6
+Author: Stefany Zapata Naranjo <speculator.netdraw@gmail.com>
+Date:   Wed Nov 19 21:23:47 2014 -0500
+
+    anexo de mi descripcion profesional
+
+commit c6235db4b8279538d63fbc539150ad6c304050af
+Author: Stefany Zapata Naranjo <speculator.netdraw@gmail.com>
+Date:   Wed Nov 19 21:20:25 2014 -0500
+
+    agregue redes sociales
+
+commit c5c3a4d86f844ecd1b252ba112472aa77cc79b73
+Author: Stefany Zapata Naranjo <speculator.netdraw@gmail.com>
+Date:   Wed Nov 19 21:13:32 2014 -0500
+
+    perfil web anexado
+
+commit bc8670f91281ff332faf6caaaa796e845d5a8b4b
+Author: Stefany Zapata Naranjo <speculator.netdraw@gmail.com>
+Date:   Wed Nov 19 21:11:12 2014 -0500
+
+    subi photo de perfil y mi nombre
+
+commit 67623edf959dea481ac543f65417d4b3e6b5be60
+Author: Stefany Zapata Naranjo <speculator.netdraw@gmail.com>
+Date:   Wed Nov 19 20:47:08 2014 -0500
+
+    Estos son los archivos base de mi portafolio
+
+commit ee62ff7b8a4556731d5bf3732e56eaf677c4c498
+Author: stefany zapata <speculator.netdraw@gmail.com>
+Date:   Mon Nov 17 15:17:47 2014 -0500
+
+    Agregamos el primer commit
