@@ -1,5 +1,7 @@
 body
 {
+ background: black;
+ font-size: 23px;
  background: rgb(22, 21, 20);
  font-size: 16px;
 }
@@ -11,6 +13,7 @@ a
 
 ul
 {
+  margin: 50% 0 0% 0%;
   margin: 20% 0 0% 0%;
 }
 
@@ -129,6 +132,7 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
+font-size: 20px;
 font-size: 15px;
 text-align: center;
 }
