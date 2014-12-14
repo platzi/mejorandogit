@@ -1,1 +1,3 @@
-llegué aquí sin morir en el intento, estoy agonizando...
+
+Ejemplo autoreferente:
+http://estebanrfp.github.io/mejorandogit/
