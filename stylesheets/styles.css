@@ -1,7 +1,7 @@
 body
 {
- background: rgb(22, 21, 20);
- font-size: 16px;
+ background: rgb(52, 95, 95);
+ font-size: 21px;
 }
 
 a
@@ -11,7 +11,7 @@ a
 
 ul
 {
-  margin: 20% 0 0% 0%;
+  margin: 50% 0 0% 0%;
 }
 
 ul li
@@ -55,7 +55,7 @@ h3
   font-size: 13px;
   line-height: 32px;
   border-bottom: 1px #eee solid;
-  color: #FFF7F7;
+  color: #57BEA7;
   margin-bottom: 2.5em;
   padding-bottom: .5em;
 }
@@ -129,13 +129,13 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
-font-size: 15px;
+font-size: 27px;
 text-align: center;
 }
 
 div.nombre p
 {
-  color: rgb(255, 255, 255)
+  color: rgb(75, 200, 191);
 }
 
 div.layout-principal
