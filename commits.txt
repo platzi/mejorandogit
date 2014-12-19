@@ -1,0 +1,18 @@
+commit b49bc78d8b8d5b93a55f04fc3a759e58ff36ae36
+Author: Filiberto Martínez <fili06604@gmail.com>
+Date:   Tue Nov 25 17:29:47 2014 -0600
+
+    Haciendo Cambios
+    
+    Se aplico lo siguiente:
+    
+    - Responsive Design
+    - Gestos Touch
+    - Off Canvas
+    - Fuentes de iconos
+
+commit ea4e4a0439213ac10ae3d3aebe62590d0c0ff980
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Nov 17 10:14:38 2014 -0500
+
+    Inicio de portafolio

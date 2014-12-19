@@ -8,83 +8,108 @@
   <meta name="description" content="Mejorandogit - Cursos Mejorando.la">
   <meta name="author" content="Mejorando.la" />
   <meta name="robots" content="all">
-
 <!-- Mobile Specific Metas
  ================================================== --> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
 <!-- CSS
   ================================================== -->
   <link rel="stylesheet" href="stylesheets/normalize.css">
   <link rel="stylesheet" href="stylesheets/styles.css">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-<!-- Favicons
+  <!-- Google Fonts
   ================================================== -->
-
+  <link href='http://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Yellowtail' rel='stylesheet' type='text/css'>
+  <!-- Favicons
+  ================================================== -->
 <link rel="shortcut icon" href="https://mejorando.la/static/images/favicon.ico">
 </head>
-
 <body>
-
-  <header class="sidebar">
+  <header class="sidebar" id="sidebar">
     <section class="sidebar_information">
       <div class="sidebar_userimage">
          <!-- 1º Commit Tu nombre y foto -->
-        <img src="images/git.jpg">
+        <img src="https://pbs.twimg.com/profile_images/521393296350789632/lgg2ACDZ_400x400.png">
         <h1 class="sidebar_information_title">
-          Escribe tu nombre
+          Filiberto Martínez
         </h1>
       </div>
       <div class="comunidad-autoria">
         <div class="nombre">
           <!-- 2º Commit - Tu perfil Web -->
-          <p>Escribe tu perfil web</p>
+          <p>Soy de todo un poco :)</p>
         </div>
       </div>
     </section>
     <ul>
       <li>
-        <a href="#" target="_blank">
+        <a href="https://www.facebook.com/FiliSantillan " target="_blank" class="icon-faceb">
           <!-- 3º Commit - Redes Sociales -->
-          <p>Facebook</p>
+          <p class="icon-facebook facebook">Facebook</p>
+        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/FiliMX?lang=es" target="_blank">
+          <p class="icon-twitter twitter">Twitter</p>
         </a>
       </li>
       <li>
         <a href="#" target="_blank">
-          <p>Twitter</p>
+          <p class="icon-linkedin linkedin">LinkedIN</p>
         </a>
       </li>
       <li>
-        <a href="#" target="_blank">
-          <p>LinkedIN</p>
-        </a>
-      </li>
-      <li>
-        <a href="#" target="_blank">
-          <p>GitHub</p>
+        <a href="https://github.com/FiliMX" target="_blank">
+          <p class="icon-github">GitHub</p>
         </a>
       </li>
     </ul>
   </header>
-
   <div class="layout-principal">
     <div class="bloque">
       <!-- 4º Commit - Tu presentación -->
-      <h3>¡Hola! Bienvenido</h3>
-      <p>Tu descripción</p>
+      <h3 class="icon-happy"><strong>¡Hola! Bienvenido</strong></h3>
+      <p class="p">Soy un profesional web que crea contenido para el mundo de Internet gracias a <a href="https://mejorando.la/">Mejorando.la</a> y <a href="https://twitter.com/mikenieva?lang=es">Mike Nieva</a></p>
     </div>
-
     <div class="bloque">
       <!-- 5º Commit - Tu portafolio -->
-      <h3>Tu portafolio</h3>
-      <a href="#"><p>Nombre de tu sitio</p></a>
-      <a href="#"><p>Nombre de tu sitio</p></a>
-      <a href="#"><p>Nombre de tu sitio</p></a>
-      <a href="#"><p>Nombre de tu sitio</p></a>
+      <h3 class="icon-happy"><strong>Portafolio</strong></h3>
+      <a href="http://filimx.github.io/">FiliMX.github.io</a>
+    </div>
+    <div class="bloque">
+      <!-- 5º Commit - Tu portafolio -->
+      <h3 class="icon-happy"><strong>Sobre mí</strong></h3>
+      <p>Tengo 18 años, vivo en México, un poco sociable y con muchas ganas de emprender.</p>
+      <p>Esto es un cambio de prueba ! :D ! #mejorandolaposada</p>
     </div>
   </div>
-    
+  <a href="#" class="icon-right button is-active" id="right"></a>
+  <a href="#" class="icon-left button" id="left"></a>
 </body>
+<script src="js/hammer.min.js"></script>
+<script>
+  var $buttonShow = document.getElementById('right');
+  var $buttonHide = document.getElementById('left');
+  var $sidebar = document.getElementById('sidebar');
+  var $body = document.querySelector('body');
+  var body = new Hammer($body);
+
+  var mostrar_menu = function(){
+    $buttonShow.classList.remove('is-active');
+    $buttonHide.classList.add('is-active');
+    $sidebar.classList.add('is-active');
+  };
+
+  var ocultar_menu = function(){
+    $buttonShow.classList.add('is-active');
+    $buttonHide.classList.remove('is-active');
+    $sidebar.classList.remove('is-active');
+  }
+
+  $buttonShow.addEventListener('click',mostrar_menu);
+  $buttonHide.addEventListener('click',ocultar_menu);
+  body.on('panright', mostrar_menu);
+  body.on('panleft', ocultar_menu);
+</script>
 </html>
