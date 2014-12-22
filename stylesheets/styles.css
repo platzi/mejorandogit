@@ -1,7 +1,7 @@
 body
 {
- background: black;
- font-size: 21px;
+ background: rgb(22, 21, 20);
+ font-size: 16px;
 }
 
 a
@@ -11,6 +11,7 @@ a
 
 ul
 {
+
   margin: 30% 0 0% 0%;
 }
 
@@ -134,7 +135,6 @@ text-align: center;
 }
 
 div.nombre p
-
 {
   color: rgb(229, 210, 13)
 }
