@@ -1,0 +1,35 @@
+commit dd776ed1f8e98c97b7f9e35ea8b89a3d2c2d6d5e
+Author: Lester Fibla Saavedra <lesterfibla@gmail.com>
+Date:   Wed Dec 24 20:02:28 2014 -0300
+
+    Agregados mis portafolios
+
+commit b6b12428f48947f7de3ecb13f9d4f3f63c66859b
+Author: Lester Fibla Saavedra <lesterfibla@gmail.com>
+Date:   Wed Dec 24 20:01:05 2014 -0300
+
+    Agregé mi descripción
+
+commit f89cce620431d31b2e519a9a23b9b75832c57f77
+Author: Lester Fibla Saavedra <lesterfibla@gmail.com>
+Date:   Wed Dec 24 19:59:36 2014 -0300
+
+    Agregué los links de redes sociales
+
+commit 60fc5eb6dcc0b85aca75cdb4206b452b34d76b2f
+Author: Lester Fibla Saavedra <lesterfibla@gmail.com>
+Date:   Wed Dec 24 19:57:33 2014 -0300
+
+    Agregué mi perfil profesional
+
+commit 6a4542009fb5e8d956a93bb5e3506519ffa31cf4
+Author: Lester Fibla Saavedra <lesterfibla@gmail.com>
+Date:   Wed Dec 24 19:55:54 2014 -0300
+
+    Agregado nombre y avatar
+
+commit dc4738e4f2539e1850b103dde432ed18d2369a3d
+Author: Lester Fibla Saavedra <lesterfibla@gmail.com>
+Date:   Wed Dec 24 19:50:46 2014 -0300
+
+    Commit inicial
