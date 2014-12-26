@@ -1,7 +1,12 @@
 body
 {
+<<<<<<< HEAD
  background: rgb(90, 90, 90);
  font-size: 20px;
+=======
+ background: rgb(22, 21, 20);
+ font-size: 16px;
+>>>>>>> upstream/master
 }
 
 a
@@ -49,11 +54,14 @@ h1
   color: black;
 }
 
+<<<<<<< HEAD
 h2
 {
   margin: 0px 0px 0px 40px;
 }
 
+=======
+>>>>>>> upstream/master
 h3
 {
   text-transform: uppercase;
