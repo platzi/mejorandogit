@@ -49,6 +49,11 @@ h1
   color: black;
 }
 
+h2
+{
+  margin: 0px 0px 0px 40px;
+}
+
 h3
 {
   text-transform: uppercase;
