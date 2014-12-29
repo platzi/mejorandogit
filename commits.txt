@@ -1,0 +1,35 @@
+commit 535b35f13b7aefafa50c282b0cbe639782315beb
+Author: Alejandro Arce <alejandroarcealzate@hotmail.com>
+Date:   Wed Dec 24 11:57:19 2014 -0500
+
+    se agregaron sitios
+
+commit 127ed14c916773ef801c7f6395514916b30af81a
+Author: Alejandro Arce <alejandroarcealzate@hotmail.com>
+Date:   Wed Dec 24 11:56:19 2014 -0500
+
+    agragada descripcion
+
+commit c1c282e2b663b915dedccc8bdf2676f7f9652b10
+Author: Alejandro Arce <alejandroarcealzate@hotmail.com>
+Date:   Wed Dec 24 11:54:21 2014 -0500
+
+    Agregadas redes sociales
+
+commit c73e1a1c6da8c53299335d67dac14734ec781bbe
+Author: Alejandro Arce <alejandroarcealzate@hotmail.com>
+Date:   Wed Dec 24 11:51:29 2014 -0500
+
+    perfil web escrito
+
+commit 2564486b8c7aabb0b92343537512c12e80d8c95b
+Author: Alejandro Arce <alejandroarcealzate@hotmail.com>
+Date:   Wed Dec 24 11:49:01 2014 -0500
+
+    Subi foto de perfil y nombre
+
+commit 69fbba6ac5bd9fa0ea399c85ef88d7049a028680
+Author: Alejandro Arce <alejandroarcealzate@hotmail.com>
+Date:   Wed Dec 24 11:44:28 2014 -0500
+
+    Estos son los archivos base del proyecto de ejemplo
