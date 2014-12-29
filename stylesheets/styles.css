@@ -1,6 +1,6 @@
 body
 {
- background: rgb(22, 21, 20);
+ background: rgb(94, 90, 85);
  font-size: 16px;
 }
 
@@ -156,6 +156,6 @@ div.bloque
 
 div.bloque p
 {
-  color: rgb(255, 255, 255);
+  color: rgb(92, 234, 175);
   line-height: 1.9em;
 }
