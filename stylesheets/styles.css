@@ -1,7 +1,7 @@
 body
 {
  background: black;
- font-size: 25px;
+ font-size: 16px;
 }
 
 a
@@ -11,7 +11,7 @@ a
 
 ul
 {
-  margin: 60% 0 0% 0%;
+  margin: 20% 0 0% 0%;
 }
 
 ul li
