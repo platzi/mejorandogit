@@ -1,0 +1,35 @@
+commit c8d8aee757740f7e51a9b34578e7c47d446d4ad2
+Author: Arturo-MR <arturo10.mr@gmail.com>
+Date:   Wed Dec 31 12:39:26 2014 -0600
+
+    URLS
+
+commit dbf1aa1ebd9316131f3579910f1d2fc2388ebf39
+Author: Arturo-MR <arturo10.mr@gmail.com>
+Date:   Wed Dec 31 12:38:22 2014 -0600
+
+    Descripcion
+
+commit aae5731705e71efd9a518cd44145c195c8a7847a
+Author: Arturo-MR <arturo10.mr@gmail.com>
+Date:   Tue Dec 30 16:50:12 2014 -0600
+
+    Redes sociales
+
+commit eef99270a04a176fbd72a5508dafcea0255156ff
+Author: Arturo-MR <arturo10.mr@gmail.com>
+Date:   Tue Dec 30 16:46:45 2014 -0600
+
+    Cambie perfil profesional
+
+commit 14fcfad3e99eb6c89ad3c15365ead912c933ead6
+Author: Arturo-MR <arturo10.mr@gmail.com>
+Date:   Tue Dec 30 16:39:38 2014 -0600
+
+    Subi foto de perfil y mi nombre
+
+commit 6500782194e0b708ac362e1b78b9b0a7be5e0e5a
+Author: Arturo-MR <arturo10.mr@gmail.com>
+Date:   Tue Dec 30 16:34:31 2014 -0600
+
+    Estos son los archivos base de mi proyecto
