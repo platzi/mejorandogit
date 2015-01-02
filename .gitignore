@@ -1,0 +1,4 @@
+git-utils
+*.sh
+*.ignore
+workingAreaFile-only.txt
