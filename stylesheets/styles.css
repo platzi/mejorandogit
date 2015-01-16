@@ -45,6 +45,28 @@
   content: "\eac8";
 }
 /* Fin de icon fonts */
+article
+{
+  padding: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+article p
+{
+  font-size: 0.8em;
+}
+
+article figure
+{
+ float: left;
+ margin: 0.5em 0.5em;
+ width: 25%;
+}
+
+article figure img
+{
+  width: 100%;
+}
 
 body
 {
