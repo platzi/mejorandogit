@@ -1,22 +1,96 @@
+/* icon fonts */
+@font-face {
+  font-family: 'icomoon';
+  src:url('fonts/icomoon.eot?-4jsqnh');
+  src:url('fonts/icomoon.eot?#iefix-4jsqnh') format('embedded-opentype'),
+    url('fonts/icomoon.woff?-4jsqnh') format('woff'),
+    url('fonts/icomoon.ttf?-4jsqnh') format('truetype'),
+    url('fonts/icomoon.svg?-4jsqnh#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  font-size: 1.2em;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mail:before {
+  content: "\6d";
+}
+
+.icon-facebook:before {
+  content: "\face";
+}
+
+.icon-twitter:before {
+  content: "\ea92";
+}
+
+.icon-github:before {
+  content: "\eab1";
+}
+
+.icon-linkedin:before {
+  content: "\eac8";
+}
+/* Fin de icon fonts */
+article
+{
+  padding: 0.5em;
+  margin-bottom: 2em;
+}
+
+article p
+{
+  font-size: 0.8em;
+}
+
+article figure
+{
+ float: left;
+ margin: 0.5em 0.5em;
+ width: 25%;
+ max-width: 150px;
+}
+
+article figure img
+{
+  width: 100%;
+}
+
 body
 {
  background: rgb(22, 21, 20);
+ font-family: 'Open Sans', sans-serif;
  font-size: 16px;
 }
 
-a
+a,a:visited,a:active 
 {
   text-decoration: none;
+  color: blue;
 }
 
 ul
 {
-  margin: 20% 0 0% 0%;
+  margin: 20% 0% 0% 0%;
 }
 
 ul li
 {
   list-style: none;
+  text-align: center;
 }
 
 ul li a
@@ -26,7 +100,6 @@ ul li a
 
 ul li a p
 {
-  width: 75%;
   list-style-type: none;
   background: #E94016;
   border-bottom: solid thin white;
@@ -34,8 +107,9 @@ ul li a p
   text-decoration: none;
   color: white;
   font-size: 13px;
+  border-radius: 5px;
+  width: 75%;
 }
-
 
 h1
 {
@@ -59,6 +133,7 @@ h3
   margin-bottom: 2.5em;
   padding-bottom: .5em;
 }
+
 
 header.sidebar
 {
@@ -158,4 +233,65 @@ div.bloque p
 {
   color: rgb(255, 255, 255);
   line-height: 1.9em;
+}
+
+@media screen and (max-width: 500px) {
+    ul
+    {
+      padding: 0px;
+      margin: 0px;
+    }
+    ul li
+    {
+      display: inline-block;
+      margin: 0px;
+      margin-right: -4px;
+      width: 25%;
+    }
+    ul li a p
+    {
+      border-radius: 0px;
+      border-bottom: none;
+      font-size: 1.5em;
+      padding: 0;
+      line-height: 2em;
+      margin: 0px;
+      width: 100%;
+    }
+    ul li a p .nombre
+    {
+      display: none;
+    }
+    header.sidebar
+    {
+      display: block;
+      position: relative;
+      width: 100%;
+    }
+    header section div.comunidad-autoria
+    {
+      border-bottom: none;
+      border-top: none;
+      padding: 0px;
+      margin: 0px;
+    }
+    header section div.sidebar_userimage
+    {
+      padding: 0px;
+      margin: 0px;
+    }
+    div.layout-principal
+    {
+      padding: 0px;
+      position: relative;
+      width: 100%;
+    }
+    div.sidebar_userimage img
+    {
+      margin-top: 1em;
+    }
+    div.bloque
+    {
+      padding: 0.5em;
+    }
 }
