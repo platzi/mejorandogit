@@ -1,7 +1,12 @@
 body
 {
+<<<<<<< HEAD
  background: black;
  font-size: 21px;
+=======
+ background: rgb(22, 21, 20);
+ font-size: 16px;
+>>>>>>> origin/master
 }
 
 a
@@ -33,7 +38,11 @@ ul li a p
   padding: .3em 1em .3em;
   text-decoration: none;
   color: white;
+<<<<<<< HEAD
   font-size: 15px;
+=======
+  font-size: 13px;
+>>>>>>> origin/master
 }
 
 
@@ -129,7 +138,11 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
+<<<<<<< HEAD
 font-size: 20px;
+=======
+font-size: 15px;
+>>>>>>> origin/master
 text-align: center;
 }
 
