@@ -1,0 +1,29 @@
+commit bfac103ee959b2f0ef7c1bcae1b672dc534ccb7c
+Author: Javier Ocampo <ferroxido@gmail.com>
+Date:   Tue Jan 13 15:06:36 2015 -0300
+
+    Agregue descripción
+
+commit 28145b5928df96d19904afff8c11e9b3bf148d66
+Author: Javier Ocampo <ferroxido@gmail.com>
+Date:   Tue Jan 13 14:38:02 2015 -0300
+
+    Agregue redes sociales
+
+commit 5c2d45697666077213cad9770a6c55d815cd9a79
+Author: Javier Ocampo <ferroxido@gmail.com>
+Date:   Tue Jan 13 14:34:51 2015 -0300
+
+    Perfil web escrito
+
+commit febab083cfc74dd3c6dd1d72dbf0d077569289c4
+Author: Javier Ocampo <ferroxido@gmail.com>
+Date:   Tue Jan 13 14:15:58 2015 -0300
+
+    Subi foto de perfil y mi nombre
+
+commit f5ffa7b201d27b9344add517fc9ff5b43f23f222
+Author: Javier Ocampo <ferroxido@gmail.com>
+Date:   Tue Jan 13 13:26:30 2015 -0300
+
+    Estos son los archivos base de mi portafolio
