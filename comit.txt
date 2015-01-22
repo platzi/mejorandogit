@@ -1,0 +1,35 @@
+commit 00e7424b04e55a9e596aba5ee8da47271f82b9d6
+Author: Alejandro Galvan <alexgalvanchez@gmail.com>
+Date:   Mon Jan 12 19:05:12 2015 -0600
+
+    Portafolio
+
+commit f3a56bb2de0fde1c20127596c1f9f0027fdffb44
+Author: Alejandro Galvan <alexgalvanchez@gmail.com>
+Date:   Mon Jan 12 19:02:16 2015 -0600
+
+    Presentacion  y bienvenida
+
+commit 687114a407fab7555bb5d2f511864c5638379747
+Author: Alejandro Galvan <alexgalvanchez@gmail.com>
+Date:   Mon Jan 12 18:58:49 2015 -0600
+
+    Cuentas de Facebook, Twetter, Github
+
+commit 560ede9e8a726f28a5e58a6aa714433b8be328e2
+Author: Alejandro Galvan <alexgalvanchez@gmail.com>
+Date:   Mon Jan 12 18:39:55 2015 -0600
+
+    Perfil web script
+
+commit 1cf1bf2d8cd54e195ada3cb2d30ba77eea22a480
+Author: Alejandro Galvan <alexgalvanchez@gmail.com>
+Date:   Mon Jan 12 18:36:14 2015 -0600
+
+    Se agrego foto de perfil y nombre
+
+commit 1d2e2e3f0fda0552ae8efecc1837559b9b839089
+Author: Alejandro Galvan <alexgalvanchez@gmail.com>
+Date:   Mon Jan 12 17:18:46 2015 -0600
+
+    Estos son los archivos que vamos a trabajar
