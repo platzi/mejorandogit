@@ -1,0 +1,35 @@
+﻿commit 8b98a4f14cae5bd3f0ace78cfa2a639974be8b73
+Author: Israel Moreno <israel.moreno.91@gmail.com>
+Date:   Sat Jan 17 19:36:02 2015 +0100
+
+    Puse mi web personal
+
+commit 6bee3e0aa3a80bd2a5e83942b680dd083b36bb84
+Author: Israel Moreno <israel.moreno.91@gmail.com>
+Date:   Sat Jan 17 19:35:18 2015 +0100
+
+    Puse presentacion
+
+commit 85867230f69736617083307f1bd4ec3f21750ac1
+Author: Israel Moreno <israel.moreno.91@gmail.com>
+Date:   Sat Jan 17 19:34:15 2015 +0100
+
+    Añadi redes sociales
+
+commit b2fdc9f0bd8bb4a084d917dd94b6d7a113165031
+Author: Israel Moreno <israel.moreno.91@gmail.com>
+Date:   Sat Jan 17 19:32:29 2015 +0100
+
+    Perfil web actualizado
+
+commit c9352eb0ea44c28f96f01c95d7f09558cce50260
+Author: Israel Moreno <israel.moreno.91@gmail.com>
+Date:   Sat Jan 17 19:30:03 2015 +0100
+
+    Cambio de foto de perfil y nombre
+
+commit a66ae52d7736f828fc388d48464c030586f6541b
+Author: Israel Moreno <israel.moreno.91@gmail.com>
+Date:   Sat Jan 17 19:25:43 2015 +0100
+
+    Estos son los archivos base de mi portafolio
