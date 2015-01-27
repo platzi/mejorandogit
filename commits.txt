@@ -1,0 +1,35 @@
+commit e5740d58b2deb8cebcb3432e0d833045ce824ec9
+Author: Miguel Gutierrez <miguel.gutierrez@inngeniate.com>
+Date:   Sat Jan 24 18:14:23 2015 -0500
+
+    Agregue las paginas de portafolio
+
+commit 6f6c916b8fde0116c2e14154d35bd4ca89de4257
+Author: Miguel Gutierrez <miguel.gutierrez@inngeniate.com>
+Date:   Sat Jan 24 18:11:18 2015 -0500
+
+    Agregue la descripcion
+
+commit e9d0bcd5d5b5e556e4567289cc71f140172c229f
+Author: Miguel Gutierrez <miguel.gutierrez@inngeniate.com>
+Date:   Sat Jan 24 18:09:10 2015 -0500
+
+    Agregue ls articulos
+
+commit 90254a832fa7f35c84189ab48d4e4dd386f87802
+Author: Miguel Gutierrez <miguel.gutierrez@inngeniate.com>
+Date:   Sat Jan 24 18:02:16 2015 -0500
+
+    Perfil Web escrito
+
+commit f054396f35e19b45a2dd816c524d716a7bdd051e
+Author: Miguel Gutierrez <miguel.gutierrez@inngeniate.com>
+Date:   Sat Jan 24 17:58:41 2015 -0500
+
+    Subi foto de perfil y nombre
+
+commit 552686c63008604da2d39e1d6f08d9a0e0f043de
+Author: Miguel Gutierrez <miguel.gutierrez@inngeniate.com>
+Date:   Sat Jan 24 17:47:41 2015 -0500
+
+    Estos son los archivos base del portafolio
