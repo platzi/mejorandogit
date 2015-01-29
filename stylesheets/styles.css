@@ -11,7 +11,8 @@ a
 
 ul
 {
-  margin: 20% 0 0% 0%;
+  margin: 0% 0% 0% 0%;
+
 }
 
 ul li
@@ -30,7 +31,7 @@ ul li a p
   list-style-type: none;
   background: #E94016;
   border-bottom: solid thin white;
-  padding: .3em 1em .3em;
+  padding: .3em .3em .3em;
   text-decoration: none;
   color: white;
   font-size: 13px;
@@ -39,7 +40,7 @@ ul li a p
 
 h1
 {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
   border-bottom: none;
   font-size: 16px;
   margin: 0;
@@ -62,8 +63,8 @@ h3
 
 header.sidebar
 {
-  background-color: #EEEEEE;
-  width: 30%;
+  background-color: #ffffff;
+  width: 25%;
   background-size: cover;
   display: inline-block;
   vertical-align: top;
@@ -104,7 +105,7 @@ div.comunidad-autoria
   background: black;
   border-top: solid 1px white;
   padding: 3% 0;
-  margin: 12% 0;
+  margin: 6% 0;
 }
 
 div.logo
@@ -125,10 +126,8 @@ div.logo img
 
 div.nombre
 {
-display: inline-block;
-vertical-align: top;
 padding: 0;
-margin: 0% 33%;
+margin: 0% 0% 0% 0%;
 font-size: 15px;
 text-align: center;
 }
@@ -145,7 +144,7 @@ div.layout-principal
   right: 0; 
   bottom: 0;  
   overflow-x: auto;
-  width: 55%;
+  width: 65%;
   padding: 0% 6.5%;
 }
 
