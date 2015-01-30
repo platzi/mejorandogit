@@ -55,7 +55,7 @@ h3
   text-transform: uppercase;
   font-size: 13px;
   line-height: 32px;
-  border-bottom: 1px #eee solid;
+  border-bottom: 1px #E94016 solid;
   color: #FFF7F7;
   margin-bottom: 2.5em;
   padding-bottom: .5em;
@@ -155,6 +155,6 @@ div.bloque
 
 div.bloque p
 {
-  color: rgb(255, 255, 255);
+  color: #FFE4C4 ;
   line-height: 1.9em;
 }
