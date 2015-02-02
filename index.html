@@ -27,7 +27,48 @@
 </head>
 
 <body>
+<!-- Menu fade
+  ================================================== -->
+<div id="nav">
+            <ul>
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+                <li><a href="#">Link 3</a></li>
+                <li><a>Link 4</a></li>
+                <li><a>Link 5</a></li>
+                <li><a>Link 6</a></li>
+            </ul>
+        </div> 
+        <script type="text/javascript" src="jquery-1.3.2.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                $(window).scroll(function(){
+          var scrollTop = $(window).scrollTop();
+          if(scrollTop != 0)
+            $('#nav').stop().animate({'opacity':'0.2'},400);
+          else  
+            $('#nav').stop().animate({'opacity':'1'},400);
+        });
+        
+        $('#nav').hover(
+          function (e) {
+            var scrollTop = $(window).scrollTop();
+            if(scrollTop != 0){
+              $('#nav').stop().animate({'opacity':'1'},400);
+            }
+          },
+          function (e) {
+            var scrollTop = $(window).scrollTop();
+            if(scrollTop != 0){
+              $('#nav').stop().animate({'opacity':'0.2'},400);
+            }
+          }
+        );
+            });
+        </script>
 
+  <!-- Header
+  ================================================== -->
   <header class="sidebar">
     <section class="sidebar_information">
       <div class="sidebar_userimage">
