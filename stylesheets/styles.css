@@ -29,7 +29,7 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
-  background: #E94016;
+  background: rgb(22, 21, 20);
   border-bottom: solid thin white;
   padding: .3em .3em .3em;
   text-decoration: none;
@@ -102,7 +102,7 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
-  background: black;
+  background: rgb(22, 21, 20);
   border-top: solid 1px white;
   padding: 3% 0;
   margin: 6% 0;
