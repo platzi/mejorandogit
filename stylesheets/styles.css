@@ -9,33 +9,6 @@ a
   text-decoration: none;
 }
 
-ul
-{
-  margin: 0% 0% 0% 0%;
-
-}
-
-ul li
-{
-  list-style: none;
-}
-
-ul li a
-{
- text-decoration: none; 
-}
-
-ul li a p
-{
-  width: 75%;
-  list-style-type: none;
-  background: #E94016;
-  border-bottom: solid thin white;
-  padding: .3em .3em .3em;
-  text-decoration: none;
-  color: white;
-  font-size: 13px;
-}
 
 
 h1
@@ -158,7 +131,7 @@ div.bloque p
   color: #FFE4C4 ;
   line-height: 1.9em;
 }
-nav{
+#nav{
     height:35px;
     border-bottom:1px solid #ddd;
     position:fixed;
@@ -175,7 +148,7 @@ nav{
 }
 #nav ul li{
     display:inline;
-    float:right;
+    float:left;
     margin:0px 2px;
 }
 #nav a{
