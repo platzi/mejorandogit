@@ -1,0 +1,35 @@
+commit a9266156c48c9bb3c51d6f8a84b60518f0be5a9c
+Author: alexisvines <alexis.freire.leiva@gmail.com>
+Date:   Tue Feb 3 01:19:35 2015 -0300
+
+    se agrega portafolio
+
+commit f8c2653c07debe84458c038e106ce7b22e612c37
+Author: alexisvines <alexis.freire.leiva@gmail.com>
+Date:   Tue Feb 3 01:18:32 2015 -0300
+
+    subo descripcion profesional
+
+commit 972fa6cd71dd6e87f2e227fc656bd24fbb322293
+Author: alexisvines <alexis.freire.leiva@gmail.com>
+Date:   Tue Feb 3 01:17:05 2015 -0300
+
+    Agrege redes sociales
+
+commit c9142de56e99de07a2098ef3425fc80b7d80e7f8
+Author: alexisvines <alexis.freire.leiva@gmail.com>
+Date:   Tue Feb 3 01:14:11 2015 -0300
+
+    Se sube el perfil web
+
+commit 8068d8f0942d27dd286a71886f344edb2014726f
+Author: alexisvines <alexis.freire.leiva@gmail.com>
+Date:   Tue Feb 3 01:11:47 2015 -0300
+
+    Se sube foto de perfil y nombre
+
+commit c8972cc2a29211a3f1cdb13a3596f883a91381b1
+Author: alexisvines <alexis.freire.leiva@gmail.com>
+Date:   Tue Feb 3 01:03:26 2015 -0300
+
+    Estos son los archivos bases del portafolio
