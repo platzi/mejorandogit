@@ -1,0 +1,35 @@
+commit f5d8412420ecd8f7cc79699610489777bcaae4c5
+Author: Alphyon <alphyon21@yahoo.es>
+Date:   Sat Feb 7 10:11:11 2015 -0600
+
+    protafolio real
+
+commit ec926088ba782a002b009d854444f8f80560b1c4
+Author: Alphyon <alphyon21@yahoo.es>
+Date:   Sat Feb 7 09:45:25 2015 -0600
+
+    Descripcion y portafolio
+
+commit 8c40074071866e15c8d53fde92272b9ca14e4a6b
+Author: Alphyon <alphyon21@yahoo.es>
+Date:   Sat Feb 7 09:40:01 2015 -0600
+
+    Agregadas Redes Sociales
+
+commit 23d5afe646560ff6f20e64baf5a6b14ea1814b77
+Author: Alphyon <alphyon21@yahoo.es>
+Date:   Sat Feb 7 09:27:51 2015 -0600
+
+    Perfil Web escrito
+
+commit 7cdc9ba3d36b6d86b165a2afcb71da3e40c337ec
+Author: Alphyon <alphyon21@yahoo.es>
+Date:   Sat Feb 7 09:24:25 2015 -0600
+
+    Agregado foto y nombre
+
+commit c5dbed236a68f6eda986f29a50c4e3c0e8bba441
+Author: Alphyon <alphyon21@yahoo.es>
+Date:   Sat Feb 7 09:19:22 2015 -0600
+
+    archivos base
