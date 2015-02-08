@@ -1,14 +1,11 @@
 body
 {
-<<<<<<< HEAD
+
 
  background: #222222;
  font-size: 16px;
  font-family: 'Oswald', sans-serif;
-=======
- background: rgb(22, 21, 20);
- font-size: 16px;
->>>>>>> e78bdb5beec7bf4fbd5ce113f4951da9365d215c
+
 }
 
 a
@@ -35,11 +32,9 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
-<<<<<<< HEAD
+
   background: #4E814E;
-=======
-  background: #E94016;
->>>>>>> e78bdb5beec7bf4fbd5ce113f4951da9365d215c
+
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;
@@ -52,20 +47,17 @@ h1
 {
   padding-bottom: 2em;
   border-bottom: none;
-<<<<<<< HEAD
+
   font-size: 25px;
-=======
-  font-size: 16px;
->>>>>>> e78bdb5beec7bf4fbd5ce113f4951da9365d215c
+
   margin: 0;
   padding: 5px 0 .3em;
   line-height: 32px;
   text-align: center;
   color: black;
-<<<<<<< HEAD
+
   font-family: 'Pacifico', cursive;
-=======
->>>>>>> e78bdb5beec7bf4fbd5ce113f4951da9365d215c
+
 }
 
 h3
@@ -74,22 +66,18 @@ h3
   font-size: 13px;
   line-height: 32px;
   border-bottom: 1px #eee solid;
-<<<<<<< HEAD
+
   color: #9CFFFA;
-=======
-  color: #FFF7F7;
->>>>>>> e78bdb5beec7bf4fbd5ce113f4951da9365d215c
+
   margin-bottom: 2.5em;
   padding-bottom: .5em;
 }
 
 header.sidebar
 {
-<<<<<<< HEAD
+
   background-color: #B39C4D;
-=======
-  background-color: #EEEEEE;
->>>>>>> e78bdb5beec7bf4fbd5ce113f4951da9365d215c
+
   width: 30%;
   background-size: cover;
   display: inline-block;
@@ -104,10 +92,7 @@ section.sidebar_information
   color: white;
 }
 
-<<<<<<< HEAD
 
-=======
->>>>>>> e78bdb5beec7bf4fbd5ce113f4951da9365d215c
 div.sidebar_userimage
 {
   cursor: pointer;
@@ -185,17 +170,11 @@ div.bloque
   margin: 5% 0 0;
 }
 
-div.bloque p
-{
-<<<<<<< HEAD
-  color: #F79F79;
-  line-height: 1.9em;
-}
+
 
 div.bloque a p{
-  color: #4E814E
-=======
-  color: rgb(255, 255, 255);
+  color: #4E814E;
+
   line-height: 1.9em;
->>>>>>> e78bdb5beec7bf4fbd5ce113f4951da9365d215c
+
 }
