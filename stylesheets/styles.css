@@ -1,7 +1,11 @@
 body
 {
- background: rgb(22, 21, 20);
+
+
+ background: #222222;
  font-size: 16px;
+ font-family: 'Oswald', sans-serif;
+
 }
 
 a
@@ -28,7 +32,9 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
-  background: #E94016;
+
+  background: #4E814E;
+
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;
@@ -41,12 +47,17 @@ h1
 {
   padding-bottom: 2em;
   border-bottom: none;
-  font-size: 16px;
+
+  font-size: 25px;
+
   margin: 0;
   padding: 5px 0 .3em;
   line-height: 32px;
   text-align: center;
   color: black;
+
+  font-family: 'Pacifico', cursive;
+
 }
 
 h3
@@ -55,14 +66,18 @@ h3
   font-size: 13px;
   line-height: 32px;
   border-bottom: 1px #eee solid;
-  color: #FFF7F7;
+
+  color: #9CFFFA;
+
   margin-bottom: 2.5em;
   padding-bottom: .5em;
 }
 
 header.sidebar
 {
-  background-color: #EEEEEE;
+
+  background-color: #B39C4D;
+
   width: 30%;
   background-size: cover;
   display: inline-block;
@@ -76,6 +91,7 @@ section.sidebar_information
 {
   color: white;
 }
+
 
 div.sidebar_userimage
 {
@@ -154,8 +170,11 @@ div.bloque
   margin: 5% 0 0;
 }
 
-div.bloque p
-{
-  color: rgb(255, 255, 255);
+
+
+div.bloque a p{
+  color: #4E814E;
+
   line-height: 1.9em;
+
 }
