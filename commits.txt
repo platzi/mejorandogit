@@ -1,0 +1,36 @@
+commit dca6adb4d064cc019c8ec41db04e24781837c06e
+Merge: 5b6d5c8 c952604
+Author: Jefferson Gomez <jgg0218@gmail.com>
+Date:   Tue Feb 10 16:41:00 2015 -0500
+
+    Merge branch 'experimental'
+
+commit c952604cc89466e6e7c0b3ca9f591141ddabdd9b
+Author: Jefferson Gomez <jgg0218@gmail.com>
+Date:   Tue Feb 10 16:23:21 2015 -0500
+
+    Cambie el color background a: rgb(92, 51, 10);
+
+commit fe5a66958939cf4c6ef6b027d79567795a55fc26
+Author: Jefferson Gomez <jgg0218@gmail.com>
+Date:   Tue Feb 10 16:20:08 2015 -0500
+
+    Cambie el background a cafe
+
+commit 5b6d5c8586134c54f536b184e0e9fe1a05c2c18f
+Author: Jefferson Gomez <jgg0218@gmail.com>
+Date:   Tue Feb 10 16:15:33 2015 -0500
+
+    LLenado de portafolios
+
+commit e18d5df188a79d55cdec9b67fb89357322460c2f
+Author: Jefferson Gomez <jgg0218@gmail.com>
+Date:   Tue Feb 10 15:14:08 2015 -0500
+
+    cambio el titulo
+
+commit e81438f9ecb02b5652dddf5ee777bdcc4a32047e
+Author: Jefferson Gomez <jgg0218@gmail.com>
+Date:   Tue Feb 10 15:02:56 2015 -0500
+
+    Commit Inicial
