@@ -1,0 +1,35 @@
+commit ced6c7c7d0ecc019dfde5f2d90064828fd976dda
+Author: Pablo O Galindo <mannschaft.engel@gmail.com>
+Date:   Wed Feb 11 01:04:29 2015 -0600
+
+    Salve portafolio
+
+commit 3bd17198da86d3b2d97d645c7a5c5e402d528392
+Author: Pablo O Galindo <mannschaft.engel@gmail.com>
+Date:   Wed Feb 11 01:03:07 2015 -0600
+
+    Modificacion de descripcion
+
+commit 966ca686097248137d452abf322616fa044af039
+Author: Pablo O Galindo <mannschaft.engel@gmail.com>
+Date:   Wed Feb 11 01:01:06 2015 -0600
+
+    Redes sociales
+
+commit b900bf62c971d191453ced37dea112f9800fa92f
+Author: Pablo O Galindo <mannschaft.engel@gmail.com>
+Date:   Wed Feb 11 00:53:02 2015 -0600
+
+    Modifique perfil web
+
+commit 04128112c6d31cf6362dc0d45f5b613f7a7a57d5
+Author: Pablo O Galindo <mannschaft.engel@gmail.com>
+Date:   Wed Feb 11 00:50:07 2015 -0600
+
+    Modifique foto de perfil y nombre
+
+commit 423f23ff9a139fb87326c9b273ed0f87481db817
+Author: Pablo O Galindo <mannschaft.engel@gmail.com>
+Date:   Wed Feb 11 00:43:30 2015 -0600
+
+    Estos son los archivos base de mi portafolio
