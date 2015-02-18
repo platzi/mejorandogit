@@ -1,0 +1,35 @@
+commit 12409e1ec59c4677c2d2945635a224f5447f5f71
+Author: Adrian GM <adriangmweb@gmail.com>
+Date:   Wed Feb 18 19:11:45 2015 +0000
+
+    añadido portafolio
+
+commit e98b05bd75ff18104966c578ec01f979e0940df6
+Author: Adrian GM <adriangmweb@gmail.com>
+Date:   Wed Feb 18 19:10:27 2015 +0000
+
+    descripcion añadida
+
+commit d9c70de288cfd66354ee504be61238fcb1a58bc2
+Author: Adrian GM <adriangmweb@gmail.com>
+Date:   Wed Feb 18 19:08:31 2015 +0000
+
+    Añadidos links
+
+commit e436623c1c397f66b303bddd5e80458eeb6a799e
+Author: Adrian GM <adriangmweb@gmail.com>
+Date:   Wed Feb 18 17:14:58 2015 +0000
+
+    Perfil de Anacleto puesto
+
+commit 032488b2cc18aa41155394f36eb4dfa365aa4e67
+Author: Adrian GM <adriangmweb@gmail.com>
+Date:   Wed Feb 18 17:12:40 2015 +0000
+
+    Añadidos imagen y nombre de Anacleto
+
+commit 45beb858d334c325598232eb388a2c481f6665d4
+Author: Adrian GM <adriangmweb@gmail.com>
+Date:   Wed Feb 18 17:04:08 2015 +0000
+
+    Archivos base
