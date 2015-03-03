@@ -1,7 +1,7 @@
 body
 {
  background: #34495b;
- font-size: 20px;
+ font-size: 100%;
 }
 
 a
@@ -129,13 +129,14 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
-font-size: 25px;
+font-size: 1.5em;
 text-align: center;
 }
 
-div.nombre p
-{
+
+ div.nombre p{
   color: rgb(255, 255, 255)
+
 }
 
 div.layout-principal
@@ -158,4 +159,14 @@ div.bloque p
 {
   color: rgb(80, 176, 53);
   line-height: 1.9em;
+}
+@media screen and (max-width:700px){
+  header.sidebar {
+    width:100%;
+  }
+}
+@media screen and (max-width:700px){
+  div.layout-principal {
+    width:100%;
+  }
 }
