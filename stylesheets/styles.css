@@ -160,12 +160,12 @@ div.bloque p
   color: rgb(80, 176, 53);
   line-height: 1.9em;
 }
-@media screen and (max-width:700px){
+@media screen and (max-width:1000px){
   header.sidebar {
     width:100%;
   }
 }
-@media screen and (max-width:700px){
+@media screen and (max-width:1000px){
   div.layout-principal {
     width:100%;
   }
