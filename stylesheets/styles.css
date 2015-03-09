@@ -1,7 +1,12 @@
 body
 {
+<<<<<<< HEAD
  background: black;
  font-size: 21px;
+=======
+ background: rgb(22, 21, 20);
+ font-size: 16px;
+>>>>>>> upstream/master
 }
 
 a
@@ -11,7 +16,11 @@ a
 
 ul
 {
+<<<<<<< HEAD
   margin: 50% 0 0% 0%;
+=======
+  margin: 20% 0 0% 0%;
+>>>>>>> upstream/master
 }
 
 ul li
@@ -129,7 +138,11 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
+<<<<<<< HEAD
 font-size: 27px;
+=======
+font-size: 15px;
+>>>>>>> upstream/master
 text-align: center;
 }
 
