@@ -1,6 +1,6 @@
 body
 {
- background: rgb(22, 21, 20);
+ background: #251D32;
  font-size: 16px;
 }
 
@@ -28,7 +28,7 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
-  background: #E94016;
+  background: #31B9C4;
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;
