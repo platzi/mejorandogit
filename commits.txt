@@ -1,3 +1,59 @@
+commit 95051eb4fd96f3e6f8c70aee83b04b206fa95d3d
+Merge: 4e61d7c 762d78c
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sun Mar 15 16:50:41 2015 -0500
+
+    Merge branch 'font'
+
+commit 762d78c9701a2bfd4b4cbefb36ef4ced220540c6
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sun Mar 15 16:50:08 2015 -0500
+
+    ConsAumento a 21 px font
+
+commit 4e61d7cb60745cd23c1814b22c6a4b4bff854598
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sun Mar 15 16:47:14 2015 -0500
+
+    Cambiamos el facebook
+
+commit 0531f3131ecf65ec333121fad89d76c8ce731cb6
+Merge: cd9b184 5e5a083
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sun Mar 15 16:27:15 2015 -0500
+
+    Merge branch 'experimental'
+
+commit cd9b184b676e8e419e686d1eb956188f19116490
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sun Mar 15 16:25:14 2015 -0500
+
+    cambios index y commits ..>.<
+
+commit 5e5a083d9efbf350949b16e4f65396c8955245e2
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sat Mar 14 21:40:18 2015 -0500
+
+    Cambio de links a azul y background a morado más oscuro
+
+commit b0ea9bed623ad0360d87bc5da91500b67974ac80
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sat Mar 14 21:32:52 2015 -0500
+
+    cambio de portafolio
+
+commit a1dde5c1b1b7aafaa1b2311afec4208502e59d48
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sat Mar 14 21:30:01 2015 -0500
+
+    Cambio de background a morado
+
+commit f0705322003aedbd51d2056d4a8adb964a44ef52
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sat Mar 14 21:21:54 2015 -0500
+
+    Agregamos archivo commits.txt
+
 commit b70a22b05024cf123adaf28f199ba2449fd6da49
 Author: Angela Pulido <angelapulido.design@gmail.com>
 Date:   Sun Mar 8 19:44:33 2015 -0500
