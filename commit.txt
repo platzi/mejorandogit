@@ -1,0 +1,35 @@
+commit b70a22b05024cf123adaf28f199ba2449fd6da49
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sun Mar 8 19:44:33 2015 -0500
+
+    Agregue portafolio
+
+commit 5e92b73c1332c7d01382acabee4c9bf816dcdc2b
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sun Mar 8 19:40:25 2015 -0500
+
+    Agregue la presentación
+
+commit 3effc7ab24739b887adc3ecb61d2518edcde82bc
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sun Mar 8 19:38:01 2015 -0500
+
+    Agregue redes sociales
+
+commit fec9dee7f9135554a09be5b73b5ea3653e11262e
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sun Mar 8 19:23:42 2015 -0500
+
+    Perfil web escrito
+
+commit ef7567f4a3c3f998015952ee16e2cb5d158f4647
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sun Mar 8 19:11:12 2015 -0500
+
+    Subi foto de perfil y mi nombre
+
+commit 624db246f6d517b35ec4d8a1b85d525731dbbb6e
+Author: Angela Pulido <angelapulido.design@gmail.com>
+Date:   Sun Mar 8 19:03:41 2015 -0500
+
+    Estos son los archivos base de mi portafolio
