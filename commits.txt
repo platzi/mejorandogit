@@ -1,35 +1,13 @@
-commit a480891f3b504e7d0591c2cb53ef7a5dcd6dc77b
-Author: kevinSC <kevineitor22@gmail.com>
-Date:   Fri Mar 20 17:41:42 2015 -0500
-
-    agrege mis paginas y proyectos
-
-commit 42eb3b017b76ee1f4a51cd5f4ab76d0132fb7d1e
-Author: kevinSC <kevineitor22@gmail.com>
-Date:   Fri Mar 20 17:38:59 2015 -0500
-
-    Escribi mi info
-
-commit 378158235284476aff06f1db94bc71f7111f6f48
-Author: kevinSC <kevineitor22@gmail.com>
-Date:   Fri Mar 20 17:37:08 2015 -0500
-
-    Ecribi mis redes
-
-commit bf38acce464b55a8d00658a256f29cc240ac0f0c
-Author: kevinSC <kevineitor22@gmail.com>
-Date:   Fri Mar 20 17:31:53 2015 -0500
-
-    escribi mi perfil
-
-commit b906c3732ea9d0450f57a7edcaa403544e8e4340
-Author: kevinSC <kevineitor22@gmail.com>
-Date:   Fri Mar 20 17:28:36 2015 -0500
-
-    Subi la foto y mi nombre
-
-commit 0a9621a2f5b564397c8a9af908e736b30c96a94d
-Author: kevinSC <kevineitor22@gmail.com>
-Date:   Fri Mar 20 17:20:43 2015 -0500
-
-    estos son los archivos base de mi repo
+*   36b142d Merge branch 'experimental'
+|\  
+| * 7b5eb41 cambio de foto
+| * 8d731af cambio de background a verde oscuro
+| * 25d6907 Cambio de background a azul apestoso
+* | 20ec1ba cambios en portafolio
+|/  
+* a480891 agrege mis paginas y proyectos
+* 42eb3b0 Escribi mi info
+* 3781582 Ecribi mis redes
+* bf38acc escribi mi perfil
+* b906c37 Subi la foto y mi nombre
+* 0a9621a estos son los archivos base de mi repo
