@@ -1,0 +1,131 @@
+Git por terminal:
+
+git config --global user.name "Emilio Nuñez" 
+//--global indica para todos los usuarios del pc o por proyecto 
+Si "ejecuto config --global user.name" solo lo que esta dentro de las comillas. En este casp responde Emilio Nuñez
+
+git config --global user.email "emiliojes@gmail.com" 
+Para agregar el correo en este caso.
+
+git config --global color.ui true
+Lo que habilita el comando es una interfaz de colores.
+
+git config --global --list
+Muestra la historia de los comandos.
+
+--------------------------------
+
+Existen 3 niveles en tu computadora donde se desarrolla registros de configuración de GIT
+
+Que se usan Localmente en tu computadora
+
+		System	-->  git config --system
+			Es una configuración para todos los usuarios de tu computadora. En la práctica, lo ideal es que no trabajes en este nivel realmente. Al crear preferencias de GIT en System, afectará todo el entorno de tu área local.
+			Regularmente es un archivo que se encuentra, dependiendo del sistema operativo, en:
+			etc/gitconfig
+			o en:
+			/usr/local/git/etc/gitconfig
+			Para hacer modificaciones al registro de GIT en System, debes utilizar en terminal:
+			git config --system [variable] “[descripción de variable]"
+
+		user    -->  git config --global
+			Esta configuración es la más usada y recomendada. Aplica para el usuario de tu computadora, específicamente.
+			Para encontrar este archivo, tienes que ir al “root” ó a la carpeta principal de usuario. Puedes llegar ahí con el carácter tilde (~)
+			~/.gitconfig
+			Para hacer modificaciones al registro de GIT en User, debes utilizar en terminal:
+			git config --global [variable] “[descripción de variable]"
+
+		Project -->  git config
+			Puedes generar una configuración específica para un proyecto puntual. Si por ejemplo, para ese proyecto necesitas utilizar otro correo ó un nombre diferente.
+
+			Con esto, determinamos que puedes crear configuraciones por proyecto.
+
+			El archivo de gitconfig (configuraciones) para un proyecto específico lo puedes encontrar en:
+			~/[Ruta del proyecto]/.git/config
+			Para hacer modificaciones al registro de GIT en un proyecto específico, debes utilizar en terminal:
+			git config [variable] “[descripción de variable]"
+			Como puedes observar, el git config se coloca directamente con la variable. Ya no utilizamos como en los anteriores algún --global ó --system
+
+			Cabe aclarar que para ejecutar configuraciones al proyecto, debemos iniciar GIT con git init. 
+
+			Esto lo veremos en los siguientes artículos.
+
+-----------------------
+
+Fork o clone en github
+
+	Te manda notificaciones cuando hay algun cambio en el proyecto.
+
+A continuacion descargamos de github del .ZIP
+
+	git help // aparecen todos los comandos que usa git
+
+	git help push // Apareceran una descripcion de lo que hace push 
+
+	Nos hubicamos en la carpeta donde estan los archivos a modificar 
+	y ejecutamos:
+	git init
+
+	El primer commit 
+
+	git add -A // quiero que guardes todos los archivos.
+
+	git commit -m "Y el mensaje que quiero que les salga"
+
+	git log // Muestra quien a registrado los commit
+
+	Cuando modificamos un archivo y solo queremos subir los cambios del mismo.
+	ejem: git add  index.html
+
+	git commit -m "Agrege foto de perfil y nombre"
+
+	Luego:
+
+	cambiamos la descripcion y agremos el commit
+
+	git add -A //agrega todo
+
+	-----------------------------------
+
+Viajar en el tiempo
+
+	Generar los commit que se han hecho:
+
+		git log > commit.txt
+
+	Usamos para viajar:
+
+		git checkout <llave publica>
+		git checkout 322cfa610d859f86335ac0f26fc32e9cfa8f2d4d
+
+	Para regresar a la rama principal:
+
+		git checkout master
+
+Para reiniciar todo y comenzar denueno de cero
+
+	git reset
+
+		git reset --soft --> es tranquilo = Mantienes los datos en el editor de archivos.
+
+		git reset --hard y-la-llave-publica
+		git reset --hard 322cfa610d859f86335ac0f26fc32e9cfa8f2d4d
+
+	git reset backup
+
+		Si por algun motivo usaste un git reset hard y borraste todo.
+
+		Puedes usar git reset hard hasta el ultimo commit para recuperarlo.
+
+
+
+
+
+
+
+
+
+
+
+
+
