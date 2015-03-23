@@ -118,7 +118,17 @@ Para reiniciar todo y comenzar denueno de cero
 		Puedes usar git reset hard hasta el ultimo commit para recuperarlo.
 
 
+Comandos extras:
+	
+	git commit -am "Llenado de datos del portafolio"
 
+Crear una rama experimental:
+
+	git branch experimental
+
+Ver las ramas creadas y la default:
+
+	git branch
 
 
 
