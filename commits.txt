@@ -1,0 +1,13 @@
+*   36b142d Merge branch 'experimental'
+|\  
+| * 7b5eb41 cambio de foto
+| * 8d731af cambio de background a verde oscuro
+| * 25d6907 Cambio de background a azul apestoso
+* | 20ec1ba cambios en portafolio
+|/  
+* a480891 agrege mis paginas y proyectos
+* 42eb3b0 Escribi mi info
+* 3781582 Ecribi mis redes
+* bf38acc escribi mi perfil
+* b906c37 Subi la foto y mi nombre
+* 0a9621a estos son los archivos base de mi repo
