@@ -1,0 +1,35 @@
+commit 4c7fba516a7e02b61213bb94d05cbcd58c8793f0
+Author: German Villamizar <german.villamizar.ara@gmail.com>
+Date:   Mon Mar 30 15:22:07 2015 -0500
+
+    Salve mi portafolio
+
+commit a48c859fa3b285dbabfef5c63f5eb767641f6895
+Author: German Villamizar <german.villamizar.ara@gmail.com>
+Date:   Mon Mar 30 15:21:05 2015 -0500
+
+    Agrege descripcion
+
+commit f93e6bc55a955d54f7aa463b8b4d1adb95b0eb72
+Author: German Villamizar <german.villamizar.ara@gmail.com>
+Date:   Mon Mar 30 15:18:13 2015 -0500
+
+    Agrege redes sociales
+
+commit 2847b979083869debf01e12497c399fd1c4033b0
+Author: German Villamizar <german.villamizar.ara@gmail.com>
+Date:   Mon Mar 30 15:14:20 2015 -0500
+
+    Perfil web escrito
+
+commit bb541a051700709b4a2047d347d6db3628ec95bf
+Author: German Villamizar <german.villamizar.ara@gmail.com>
+Date:   Mon Mar 30 15:11:48 2015 -0500
+
+    Subi foto de perfil y mi nombre
+
+commit a724ffc73cc85fbc0276ea42858091c2b35ecdde
+Author: German Villamizar <german.villamizar.ara@gmail.com>
+Date:   Mon Mar 30 15:03:44 2015 -0500
+
+    Estos son los archivos base de mi protafolio
