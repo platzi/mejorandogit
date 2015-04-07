@@ -1,0 +1,17 @@
+commit e500a098d5fdfe1a1b258323c7100b76daf2d680
+Author: Jose Millan <jimc.inf@gmail.com>
+Date:   Tue Apr 7 09:40:46 2015 -0430
+
+    Modificacion de Colores
+
+commit 1c8be3a5062dd7e1c0cd5622c1484bb28332ec7b
+Author: Jose Millan <jimc.inf@gmail.com>
+Date:   Tue Apr 7 09:08:18 2015 -0430
+
+    Editado el Perfil Web
+
+commit c425234114459e26705640dc0b9c252a021924d4
+Author: Jose Millan <jimc.inf@gmail.com>
+Date:   Mon Apr 6 16:53:10 2015 -0430
+
+    Este es mi repositorio de Prueba
