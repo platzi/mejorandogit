@@ -28,13 +28,20 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
+<<<<<<< HEAD
   background: #004455;
+=======
+  background: #E94016;
+>>>>>>> upstream/master
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;
   color: white;
   font-size: 13px;
+<<<<<<< HEAD
   font-weight:bold;
+=======
+>>>>>>> upstream/master
 }
 
 
@@ -63,7 +70,11 @@ h3
 
 header.sidebar
 {
+<<<<<<< HEAD
   background-color: #0088AA;
+=======
+  background-color: #EEEEEE;
+>>>>>>> upstream/master
   width: 30%;
   background-size: cover;
   display: inline-block;
@@ -94,9 +105,15 @@ div.sidebar_userimage img
 {
 
   border-radius: 26px;
+<<<<<<< HEAD
   background: #004455;
   width: 75px;
   padding: 7px; black; 
+=======
+  width: 75px;
+  padding: 7px;
+  border: 1px solid #ccc; 
+>>>>>>> upstream/master
 }
 
 div.comunidad-autoria
