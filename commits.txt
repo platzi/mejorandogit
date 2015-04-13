@@ -1,0 +1,35 @@
+commit 29a8e8d5328e029163012f8de4d331afc6c3cb02
+Author: David Gran <dgranh@gmail.com>
+Date:   Mon Apr 13 11:50:29 2015 +0200
+
+    datos de portafolio
+
+commit ec6e4e20594a8cc354e04330c45f999c54958d2d
+Author: David Gran <dgranh@gmail.com>
+Date:   Mon Apr 13 11:48:46 2015 +0200
+
+    agregue descripcion
+
+commit 94e32ede25bb3ad185d6d95dc9530cde5657338c
+Author: David Gran <dgranh@gmail.com>
+Date:   Mon Apr 13 11:47:48 2015 +0200
+
+    agregue redes sociales
+
+commit 4cd15581f48219bec6b656166c0232468d18473a
+Author: David Gran <dgranh@gmail.com>
+Date:   Mon Apr 13 11:44:14 2015 +0200
+
+    Perfil web
+
+commit 9ee995c1f42ef037e5294da0cd5008cf2709a94e
+Author: David Gran <dgranh@gmail.com>
+Date:   Mon Apr 13 11:41:58 2015 +0200
+
+    Subi foto de perfil y cambie nombre
+
+commit 8f42c9cbb45a55ea85b9cdfe243903920e7ef9ed
+Author: David Gran <dgranh@gmail.com>
+Date:   Mon Apr 13 11:26:46 2015 +0200
+
+    Estos son los archivos base de mi portafolio
