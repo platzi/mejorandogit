@@ -34,6 +34,7 @@ ul li a p
   text-decoration: none;
   color: white;
   font-size: 13px;
+  font-weight:bold;
 }
 
 
@@ -91,6 +92,7 @@ div.sidebar_userimage
 
 div.sidebar_userimage img
 {
+
   border-radius: 26px;
   background: #004455;
   width: 75px;
