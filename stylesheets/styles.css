@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
  background: #E2DD87;
+=======
+ background: rgb(22, 21, 20);
+>>>>>>> upstream/master
  font-size: 16px;
 }
 
@@ -11,7 +15,11 @@ a
 
 ul
 {
+<<<<<<< HEAD
   margin: 50% 0 0% 0%;
+=======
+  margin: 20% 0 0% 0%;
+>>>>>>> upstream/master
 }
 
 ul li
@@ -52,7 +60,11 @@ h1
 h3
 {
   text-transform: uppercase;
+<<<<<<< HEAD
   font-size: 21px;
+=======
+  font-size: 13px;
+>>>>>>> upstream/master
   line-height: 32px;
   border-bottom: 1px #eee solid;
   color: #FFF7F7;
@@ -129,7 +141,11 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
+<<<<<<< HEAD
 font-size: 18px;
+=======
+font-size: 15px;
+>>>>>>> upstream/master
 text-align: center;
 }
 
