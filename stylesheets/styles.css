@@ -1,7 +1,7 @@
 body
 {
- background: rgb(22, 21, 20);
- font-size: 16px;
+ background: #130F1A;
+ font-size: 21px;
 }
 
 a
@@ -11,7 +11,7 @@ a
 
 ul
 {
-  margin: 20% 0 0% 0%;
+  margin: 50% 0 0% 0%;
 }
 
 ul li
@@ -28,7 +28,7 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
-  background: #E94016;
+  background: #31B9C4;
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;
@@ -101,7 +101,7 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
-  background: black;
+  background: rgb(19, 15, 26);
   border-top: solid 1px white;
   padding: 3% 0;
   margin: 12% 0;
@@ -129,7 +129,7 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
-font-size: 15px;
+font-size: 27px;
 text-align: center;
 }
 
