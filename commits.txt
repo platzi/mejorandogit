@@ -1,0 +1,40 @@
+﻿commit 2947e7f138378792649b0ebbd282c2a348a66b6b
+Author: Christian Delgado Castañeda <christian.skuiken@gmail.com>
+Date:   Wed May 13 17:13:13 2015 -0500
+
+    Agregue los proyectos de mi portafolio
+
+
+commit aefeff7cb9c6ba354cf8005c5c635bcb4ba953dd
+Author: Christian Delgado Castañeda <christian.skuiken@gmail.com>
+Date:   Wed May 13 17:10:22 2015 -0500
+
+    Agregue la descripción de mi perfil
+
+
+commit a32f0167327a91b589903bb0fccee47181130764
+Author: Christian Delgado Castañeda <christian.skuiken@gmail.com>
+Date:   Wed May 13 17:08:15 2015 -0500
+
+    Estableci las redes sociales del portafolio
+
+
+commit 0bbe7d3c9eef0ae16565d5d8f26993199e22e1ca
+Author: Christian Delgado Castañeda <christian.skuiken@gmail.com>
+Date:   Wed May 13 17:04:16 2015 -0500
+
+    Perfil web establecido
+
+
+commit fafb012f4c3e3abad3aa94b53fbf897f0c62f0b1
+Author: Christian Delgado Castañeda <christian.skuiken@gmail.com>
+Date:   Wed May 13 17:00:40 2015 -0500
+
+    Subi foto de perfil y mi nombre
+
+
+commit fc90fd382d8888c9556b3cd621ff20e63c76d5e1
+Author: Christian Delgado Castañeda <christian.skuiken@gmail.com>
+Date:   Wed May 13 16:51:16 2015 -0500
+
+    Estos son los archivos base de mi portafolio
