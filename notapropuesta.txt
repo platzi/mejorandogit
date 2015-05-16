@@ -1,0 +1,2 @@
+Esta es una propuesta en mayo 2015 para subirlo.
+Estamos aprendiendo a realizar push, merge and remote.
