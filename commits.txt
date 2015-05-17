@@ -1,0 +1,35 @@
+commit 991353e01281fb4c3e7f3a013bda6982ac7cdf57
+Author: Papaya Blue <erik_vlt@hotmail.com>
+Date:   Tue Mar 3 22:00:47 2015 -0500
+
+    Salve mi portafolio
+
+commit 237bd6a52dfc7ea4cc0c17d1ea2d0c2a5b8fbfc7
+Author: Papaya Blue <erik_vlt@hotmail.com>
+Date:   Tue Mar 3 21:56:55 2015 -0500
+
+    Agregue Descripcion
+
+commit 45d38ded070549a200c03a187f01a7b164d1c341
+Author: Papaya Blue <erik_vlt@hotmail.com>
+Date:   Tue Mar 3 21:42:16 2015 -0500
+
+    Agregue redes sociales
+
+commit e1dd2b4c329d160ca2345a3f3aee51ebc4ad752f
+Author: Papaya Blue <erik_vlt@hotmail.com>
+Date:   Tue Mar 3 21:36:41 2015 -0500
+
+    Perfil Web escrito
+
+commit aa426729162ee1abd7fae5c0d5b01e53be9cc125
+Author: Papaya Blue <erik_vlt@hotmail.com>
+Date:   Tue Mar 3 21:28:47 2015 -0500
+
+    Estos son los archivos de mi portafolio
+
+commit b4fec8be296274e784cbbe0ea23139e8d6ca268a
+Author: Papaya Blue <erik_vlt@hotmail.com>
+Date:   Tue Mar 3 21:12:04 2015 -0500
+
+    Estos son los archivos base de mi portafolio
