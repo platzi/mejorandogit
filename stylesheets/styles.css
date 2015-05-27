@@ -7,6 +7,7 @@ body
 a
 {
   text-decoration: none;
+  color: blue;
 }
 
 ul
@@ -159,4 +160,5 @@ div.bloque p
 {
   color: rgb(255, 255, 255);
   line-height: 1.9em;
+  background-color: yellow;
 }
