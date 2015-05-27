@@ -1,4 +1,6 @@
 #Ejemplo de README
+Este es una segunda línea ;)
+Esta es una tercera línea probando post-commit
 En github se recomienda usar un archivo README.md para documentar el proyecto. Y la sintaxis preferida para escribir este texto es **Markdown**. [Ver esta pÃ¡gina](https://guides.github.com/features/mastering-markdown/)
 ##Uso bÃ¡sico de Markdown
 1. Texto: Se escribe normal y para estilos como **negrita** o *italica* se puede de dos maneras __Hola__ _mundo_
