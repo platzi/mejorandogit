@@ -1,0 +1,29 @@
+commit 07faa5d6135f199a8586e32943d303be58464a24
+Author: Emilio Cortes <emicort@outlook.com>
+Date:   Mon May 25 18:01:46 2015 -0500
+
+    Salve mi portafolio
+
+commit 4eec68e70ae61c9fd6f37d1d69a38dcb5d1d0334
+Author: Emilio Cortes <emicort@outlook.com>
+Date:   Mon May 25 17:56:20 2015 -0500
+
+    Agregue Redes Sociales
+
+commit cbcbe63ba6f9ba5204193d48e0b7701b2edd812f
+Author: Emilio Cortes <emicort@outlook.com>
+Date:   Mon May 25 17:36:51 2015 -0500
+
+    Perfil Web escrito
+
+commit 610ccdaafdc2d69f65ebc3ad21b350c692124c67
+Author: Emilio Cortes <emicort@outlook.com>
+Date:   Mon May 25 17:29:50 2015 -0500
+
+    Subi foto de perfil y mi nombre
+
+commit d3bc1eefb18286a597fc902876b2a38fae8c4be2
+Author: Emilio Cortes <emicort@outlook.com>
+Date:   Mon May 25 15:57:09 2015 -0500
+
+    Estos son los archivos base de mi portafolio
