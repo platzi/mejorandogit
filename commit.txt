@@ -1,3 +1,9 @@
+commit 647c3ede7397a7ba092ca4a262a1dd684ab8b665
+Author: alex <alexanderlopez@outlook.com>
+Date:   Sun Jun 14 18:23:35 2015 -0600
+
+    corregi portafolio
+
 commit e14e2027e78636320a0408a622fae1be895035d2
 Author: alex <alexanderlopez@outlook.com>
 Date:   Sun Jun 14 17:49:21 2015 -0600
