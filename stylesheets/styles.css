@@ -1,7 +1,7 @@
 body
 {
- background: rgb(22, 21, 20);
- font-size: 16px;
+ background: black;
+ font-size: 21px;
 }
 
 a
@@ -11,7 +11,7 @@ a
 
 ul
 {
-  margin: 20% 0 0% 0%;
+  margin: 50% 0 0% 0%;
 }
 
 ul li
@@ -28,12 +28,13 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
-  background: #E94016;
+  background: #3400ff;
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;
   color: white;
   font-size: 13px;
+  border-radius: .3em;
 }
 
 
@@ -129,7 +130,7 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
-font-size: 15px;
+font-size: 22px;
 text-align: center;
 }
 
