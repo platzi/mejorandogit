@@ -1,0 +1,41 @@
+commit 647c3ede7397a7ba092ca4a262a1dd684ab8b665
+Author: alex <alexanderlopez@outlook.com>
+Date:   Sun Jun 14 18:23:35 2015 -0600
+
+    corregi portafolio
+
+commit e14e2027e78636320a0408a622fae1be895035d2
+Author: alex <alexanderlopez@outlook.com>
+Date:   Sun Jun 14 17:49:21 2015 -0600
+
+    agregue mi portafolio
+
+commit 7748c41e6a5ff3ed0edd2c98a92936d9efecd1a5
+Author: alex <alexanderlopez@outlook.com>
+Date:   Sun Jun 14 17:47:11 2015 -0600
+
+    agregue descripcion
+
+commit dd730ed4258a0cd3df565c1bd9c87532b87343e6
+Author: alex <alexanderlopez@outlook.com>
+Date:   Sun Jun 14 17:45:43 2015 -0600
+
+    agregue redes sociales
+
+commit b915bb5dce0b935061c02bea6b1cb3d61a107417
+Author: alex <alexanderlopez@outlook.com>
+Date:   Sun Jun 14 17:41:54 2015 -0600
+
+    Perfil web escrito
+
+commit d28d31cffc3a578b165c5bd9c5e8251ef7a773b2
+Author: alex <alexanderlopez@outlook.com>
+Date:   Sun Jun 14 17:39:29 2015 -0600
+
+    Subi foto de perfil y nombre
+
+commit 4a015ae8c7af3c672426c6da274de2e54865116c
+Author: alex <alexanderlopez@outlook.com>
+Date:   Sun Jun 14 17:34:13 2015 -0600
+
+    estos son los archivos base de mi portafolio
