@@ -1,6 +1,6 @@
 body
 {
- background: rgb(22, 21, 20);
+ background: #eee;
  font-size: 16px;
 }
 
@@ -34,6 +34,8 @@ ul li a p
   text-decoration: none;
   color: white;
   font-size: 13px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 
@@ -55,7 +57,7 @@ h3
   font-size: 13px;
   line-height: 32px;
   border-bottom: 1px #eee solid;
-  color: #FFF7F7;
+  color black;
   margin-bottom: 2.5em;
   padding-bottom: .5em;
 }
@@ -100,6 +102,12 @@ div.sidebar_userimage img
 
 div.comunidad-autoria
 {
+  -webkit-border-top-right-radius: 50px;
+  -webkit-border-bottom-right-radius: 50px;
+  -moz-border-radius-topright: 50px;
+  -moz-border-radius-bottomright: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
   border-bottom: solid 1px white;
   background: black;
   border-top: solid 1px white;
@@ -156,6 +164,6 @@ div.bloque
 
 div.bloque p
 {
-  color: rgb(255, 255, 255);
+  color black;
   line-height: 1.9em;
 }
