@@ -11,7 +11,7 @@ a
 
 ul
 {
-  margin: 10% 0 0% 0%;
+  margin: 8% 0 0% 0%;
 }
 
 ul li
@@ -112,7 +112,7 @@ div.comunidad-autoria
   background: black;
   border-top: solid 1px white;
   padding: 3% 0;
-  margin: 12% 0;
+  margin: 12% 0 0;
 }
 
 div.logo
