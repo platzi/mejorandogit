@@ -1,0 +1,35 @@
+commit 0a24f43a8ec791dca58dda440ae5ea33ad25c8d1
+Author: Miguel Rodriguez <mstain3@gmail.com>
+Date:   Mon Jun 29 18:01:19 2015 +0200
+
+    Actualización de porfolio
+
+commit a8ed84a382cf86f05c85d7ebc93c2e7d9d7ea90e
+Author: Miguel Rodriguez <mstain3@gmail.com>
+Date:   Mon Jun 29 18:00:14 2015 +0200
+
+    Actualización descripcción personal
+
+commit 9087f525371d5f1a9da498d2e53de1b44ea334b1
+Author: Miguel Rodriguez <mstain3@gmail.com>
+Date:   Mon Jun 29 17:58:45 2015 +0200
+
+    Actualización redes sociales
+
+commit aec7413500c6065cadaeb5b7945074b84471c14d
+Author: Miguel Rodriguez <mstain3@gmail.com>
+Date:   Mon Jun 29 17:54:53 2015 +0200
+
+    Cambiar puesto trabajo
+
+commit 4301d952c227094185a7ab4396981338f656685a
+Author: Miguel Rodriguez <mstain3@gmail.com>
+Date:   Mon Jun 29 17:52:26 2015 +0200
+
+    Modificación nombre y img
+
+commit 4fa3c8975a18c2d20033bd948b37274d67640676
+Author: Miguel Rodriguez <mstain3@gmail.com>
+Date:   Mon Jun 29 17:47:32 2015 +0200
+
+    Archivos base de mi portafolio
