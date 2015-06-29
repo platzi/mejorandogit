@@ -1,6 +1,6 @@
 body
 {
- background: rgb(22, 21, 20);
+ background: #eee;
  font-size: 16px;
 }
 
@@ -55,7 +55,7 @@ h3
   font-size: 13px;
   line-height: 32px;
   border-bottom: 1px #eee solid;
-  color: #FFF7F7;
+  color black;
   margin-bottom: 2.5em;
   padding-bottom: .5em;
 }
@@ -156,6 +156,6 @@ div.bloque
 
 div.bloque p
 {
-  color: rgb(255, 255, 255);
+  color black;
   line-height: 1.9em;
 }
