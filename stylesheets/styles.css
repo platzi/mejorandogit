@@ -1,6 +1,6 @@
 body
 {
- background: rgb(22, 21, 20);
+ background:#fbf7d7;
  font-size: 16px;
 }
 
@@ -27,6 +27,8 @@ ul li a
 ul li a p
 {
   width: 75%;
+  height:20px;
+  border-radius:3px;
   list-style-type: none;
   background: #E94016;
   border-bottom: solid thin white;
@@ -34,6 +36,36 @@ ul li a p
   text-decoration: none;
   color: white;
   font-size: 13px;
+}
+
+ul li a p.facebook
+{
+ 
+  background: #3b5998;
+  
+}
+
+ul li a p.twitter
+{
+ 
+  background: #4099FF;
+  
+}
+
+
+ul li a p.likend
+{
+ 
+  background: #0e76a8;
+  
+}
+
+
+ul li a p.github
+{
+ 
+  background: #7fbf50;
+  
 }
 
 
@@ -46,7 +78,7 @@ h1
   padding: 5px 0 .3em;
   line-height: 32px;
   text-align: center;
-  color: black;
+  color: white;
 }
 
 h3
@@ -54,15 +86,24 @@ h3
   text-transform: uppercase;
   font-size: 13px;
   line-height: 32px;
-  border-bottom: 1px #eee solid;
-  color: #FFF7F7;
+  border-bottom: 1px #333 solid;
+  color: #333333;
   margin-bottom: 2.5em;
   padding-bottom: .5em;
 }
 
+h4
+{
+  text-transform: uppercase;
+  font-size: 13px;
+ 
+  color: #333333;
+
+}
+
 header.sidebar
 {
-  background-color: #EEEEEE;
+  background-color: #172f3d;
   width: 30%;
   background-size: cover;
   display: inline-block;
@@ -74,7 +115,7 @@ header.sidebar
 
 section.sidebar_information
 {
-  color: white;
+  color:white;
 }
 
 div.sidebar_userimage
@@ -101,7 +142,7 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
-  background: black;
+  background: #51abb4;
   border-top: solid 1px white;
   padding: 3% 0;
   margin: 12% 0;
@@ -135,7 +176,7 @@ text-align: center;
 
 div.nombre p
 {
-  color: rgb(255, 255, 255)
+  color:white;
 }
 
 div.layout-principal
@@ -156,6 +197,31 @@ div.bloque
 
 div.bloque p
 {
-  color: rgb(255, 255, 255);
+  color: #333333;
+  text-align:justify;
   line-height: 1.9em;
+}
+
+div.bloque a img{
+  border-radius:3px;
+  border:1px solid #172f3d;
+  width:325px;
+  height:225px;
+}
+
+div.habilidades{
+  
+  width:100%;
+}
+div.habilidades-circulos{
+
+  width:120px;
+  height:120px;
+  border-radius:50%;
+  background-color:white;
+}
+
+.habilidades img {
+ width:130px;
+ height:130px;
 }
