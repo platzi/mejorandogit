@@ -1,6 +1,6 @@
 body
 {
- background: rgb(22, 21, 20);
+ background: #124D59;
  font-size: 16px;
 }
 
@@ -28,7 +28,7 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
-  background: #E94016;
+  background: #007E98;
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;
@@ -36,6 +36,9 @@ ul li a p
   font-size: 13px;
 }
 
+ul li a p:hover {
+  background: #196777;
+}
 
 h1
 {
@@ -158,4 +161,8 @@ div.bloque p
 {
   color: rgb(255, 255, 255);
   line-height: 1.9em;
+}
+div.bloque p >strong{
+  font-style: oblique;
+  color: rgb(208, 208, 208);
 }
