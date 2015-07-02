@@ -1,0 +1,17 @@
+commit 5c4a21628c19cae6c5b2bd1ff9ab0a6edc7d8b8a
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Dec 1 20:25:27 2014 -0600
+
+    Create freddier.txt
+
+commit c28df02cf4c730678ab6bb52713107efc5892077
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Dec 1 13:34:12 2014 -0600
+
+    Create MENCIONOFICIAL.txt
+
+commit ea4e4a0439213ac10ae3d3aebe62590d0c0ff980
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Nov 17 10:14:38 2014 -0500
+
+    Inicio de portafolio
