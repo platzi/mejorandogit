@@ -1,0 +1,46 @@
+﻿commit 30e2effb7b107eef985aa60dbf8499058750c636
+
+Author: Seul Zarraga <ingzarragaespinosa@gmail.com>
+
+Date:   Tue Jun 30 13:37:58 2015 -0500
+
+    
+			Mis sitios
+
+
+
+commit 23fa24894a531161b9f96c6be18f9f01215f720
+a
+Author: Seul Zarraga <ingzarragaespinosa@gmail.com>
+Date:   Tue Jun 30 13:30:07 2015 -0500
+
+    
+Agregué descripcion
+
+
+commit 0aeacd6040cb3e45a8f6d9f3a20e5357c38bc7fb
+Author: Seul Zarraga <ingzarragaespinosa@gmail.com>
+Date:   Tue Jun 30 13:27:00 2015 -0500
+
+    Agregue redes sociales
+
+
+commit 785f6325091cfc2158c5a0cafe3af33601cc616d
+Author: Seul Zarraga <ingzarragaespinosa@gmail.com>
+Date:   Tue Jun 30 13:08:49 2015 -0500
+
+    Perfil Web
+
+
+commit 48ebee690e53077c7923f2382e0e7175bab99aa0
+Author: Seul Zarraga <ingzarragaespinosa@gmail.com>
+Date:   Tue Jun 30 13:02:23 2015 -0500
+
+    subi foto de perfil y mi nombre
+
+
+commit 309157620ad3d012b2bf48490e00af665a96435b
+Author: Seul Zarraga <ingzarragaespinosa@gmail.com>
+Date:   Tue Jun 30 12:54:39 2015 -0500
+
+    Estos son los archivos base de mi portafolio
