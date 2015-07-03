@@ -1,3 +1,16 @@
+commit 45d6cd63c47d83a57e8801680d2cdd029268a83d
+Merge: 2a0746a 3a1951c
+Author: Camilo Tabares <camilo.tabares.84@gmail.com>
+Date:   Thu Jul 2 18:46:11 2015 -0500
+
+    Listo el trabajo de la rama de diseño, ahora quedamos pendientes para mas cambios en la estructura
+
+commit 3a1951ce7b18a879e58b6f1b40137b406f5f76e4
+Author: Camilo Tabares <camilo.tabares.84@gmail.com>
+Date:   Thu Jul 2 17:58:22 2015 -0500
+
+    Ahora hemos realizado cambios dentro de la linea de diseño, quedamos en espera de nuevas modificaciones
+
 commit 2a0746ab1bc6d593c2f08526f385e94345feca75
 Author: Camilo Tabares <camilo.tabares.84@gmail.com>
 Date:   Thu Jul 2 17:32:42 2015 -0500
