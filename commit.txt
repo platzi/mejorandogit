@@ -1,0 +1,42 @@
+commit 45d6cd63c47d83a57e8801680d2cdd029268a83d
+Merge: 2a0746a 3a1951c
+Author: Camilo Tabares <camilo.tabares.84@gmail.com>
+Date:   Thu Jul 2 18:46:11 2015 -0500
+
+    Listo el trabajo de la rama de diseño, ahora quedamos pendientes para mas cambios en la estructura
+
+commit 3a1951ce7b18a879e58b6f1b40137b406f5f76e4
+Author: Camilo Tabares <camilo.tabares.84@gmail.com>
+Date:   Thu Jul 2 17:58:22 2015 -0500
+
+    Ahora hemos realizado cambios dentro de la linea de diseño, quedamos en espera de nuevas modificaciones
+
+commit 2a0746ab1bc6d593c2f08526f385e94345feca75
+Author: Camilo Tabares <camilo.tabares.84@gmail.com>
+Date:   Thu Jul 2 17:32:42 2015 -0500
+
+    La información del portafolio esta lista en la rama de contenido, en espera de generar un merge
+
+commit 40ab9e55ca265f150d1de4f3a3e12e8f9cc37622
+Author: Camilo Tabares <camilo.tabares.84@gmail.com>
+Date:   Wed Jul 1 23:44:11 2015 -0500
+
+    Agregado historial txt de los commits de este proyecto
+
+commit 5c4a21628c19cae6c5b2bd1ff9ab0a6edc7d8b8a
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Dec 1 20:25:27 2014 -0600
+
+    Create freddier.txt
+
+commit c28df02cf4c730678ab6bb52713107efc5892077
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Dec 1 13:34:12 2014 -0600
+
+    Create MENCIONOFICIAL.txt
+
+commit ea4e4a0439213ac10ae3d3aebe62590d0c0ff980
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Nov 17 10:14:38 2014 -0500
+
+    Inicio de portafolio
