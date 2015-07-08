@@ -89,7 +89,7 @@ div.sidebar_userimage img {
 
 div.comunidad-autoria {
     background: #bdc3c7;
-    margin: 12% 0;
+    margin: 8% 0;
     padding: 3% 0;
 }
 
@@ -108,9 +108,8 @@ div.logo img {
 }
 
 div.nombre {
-    display: inline-block;
-    font-size: 16px;
-    margin: 0% 33%;
+    font-size: 22px;
+    margin: 0% auto;
     padding: 0;
     text-align: center;
     vertical-align: top;
