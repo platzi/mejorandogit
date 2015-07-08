@@ -1,162 +1,140 @@
-body
-{
- background: #2c3e50;
- font-family: 'Open Sans Light';
- font-size: 20px;
+body {
+    background: #2c3e50;
+    font-family: 'Open Sans Light';
+    font-size: 16px;
 }
 
-a
-{
-  text-decoration: none;
+a {
+    text-decoration: none;
 }
 
-ul
-{
-  margin: 20% 0 0% 0%;
+ul {
+    margin: 20% 0 0% 0%;
 }
 
-ul li
-{
-  list-style: none;
+ul li {
+    list-style: none;
 }
 
-ul li a
-{
- text-decoration: none; 
+ul li a {
+    text-decoration: none;
 }
 
-ul li a p
-{
-  width: 75%;
-  list-style-type: none;
-  background: #E94016;
-  border-bottom: solid thin white;
-  padding: .3em 1em .3em;
-  text-decoration: none;
-  color: white;
-  font-size: 13px;
+ul li a p {
+    background: #e67e22;
+    border-radius: 10px;
+    color: white;
+    list-style-type: none;
+    padding: .3em 1em .3em;
+    text-decoration: none;
+    text-align: center;
+    transition: .2s all;
+    width: 75%;
+}
+ul li a p:hover {
+    background: #d35400;
 }
 
-
-h1
-{
-  padding-bottom: 2em;
-  border-bottom: none;
-  font-size: 16px;
-  margin: 0;
-  padding: 5px 0 .3em;
-  line-height: 32px;
-  text-align: center;
-  color: black;
+h1 {
+    border-bottom: none;
+    color: black;
+    font-size: 20px;
+    line-height: 32px;
+    margin: 0;
+    padding: 5px 0 .3em;
+    padding-bottom: 2em;
+    text-align: center;
 }
 
-h3
-{
-  text-transform: uppercase;
-  font-size: 13px;
-  line-height: 32px;
-  border-bottom: 1px #eee solid;
-  color: #FFF7F7;
-  margin-bottom: 2.5em;
-  padding-bottom: .5em;
+h3 {
+    border-bottom: 1px #eee solid;
+    color: #FFF7F7;
+    line-height: 32px;
+    margin-bottom: 2.5em;
+    padding-bottom: .5em;
+    text-transform: uppercase;
 }
 
-header.sidebar
-{
-  background-color: #EEEEEE;
-  width: 30%;
-  background-size: cover;
-  display: inline-block;
-  vertical-align: top;
-  position: absolute;
-  bottom: 0;
-  top: 0;
+header.sidebar {
+    background-color: #ecf0f1;
+    background-size: cover;
+    bottom: 0;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    vertical-align: top;
+    width: 30%;
 }
 
-section.sidebar_information
-{
-  color: white;
+section.sidebar_information {
+    color: white;
 }
 
-div.sidebar_userimage
-{
-  cursor: pointer;
-  border-radius: 80px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin: 0% 35% 0;
-  padding: 8% 0 0;
-  text-align: center;
-
+div.sidebar_userimage {
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 80px;
+    cursor: pointer;
+    margin: 0% 25% 0;
+    padding: 8% 0 0;
+    text-align: center;
 }
 
-div.sidebar_userimage img
-{
-
-  border-radius: 26px;
-  width: 75px;
-  padding: 7px;
-  border: 1px solid #ccc; 
+div.sidebar_userimage img {
+    border: 1px solid #ccc; 
+    border-radius: 26px;
+    padding: 7px;
+    width: 75px;
 }
 
-div.comunidad-autoria
-{
-  border-bottom: solid 1px white;
-  background: black;
-  border-top: solid 1px white;
-  padding: 3% 0;
-  margin: 12% 0;
+div.comunidad-autoria {
+    background: #bdc3c7;
+    margin: 12% 0;
+    padding: 3% 0;
 }
 
-div.logo
-{
-  display: inline-block;
-  width: 30%;
-  text-align: center;
-  padding: 3% 0 0;
+div.logo {
+    display: inline-block;
+    padding: 3% 0 0;
+    text-align: center;
+    width: 30%;
 }
 
-div.logo img
-{
-  width: 45px;
-  border-radius: 45px;
-  padding: 0;
-  margin: 0;
+div.logo img {
+    border-radius: 45px;
+    margin: 0;
+    padding: 0;
+    width: 45px;
 }
 
-div.nombre
-{
-display: inline-block;
-vertical-align: top;
-padding: 0;
-margin: 0% 33%;
-font-size: 15px;
-text-align: center;
+div.nombre {
+    display: inline-block;
+    font-size: 16px;
+    margin: 0% 33%;
+    padding: 0;
+    text-align: center;
+    vertical-align: top;
 }
 
-div.nombre p
-{
-  color: rgb(255, 255, 255)
+div.nombre p {
+    color: black;
 }
 
-div.layout-principal
-{
-  position: absolute; 
-  top: 0; 
-  right: 0; 
-  bottom: 0;  
-  overflow-x: auto;
-  width: 55%;
-  padding: 0% 6.5%;
+div.layout-principal {
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    bottom: 0;  
+    overflow-x: auto;
+    width: 55%;
+    padding: 0% 6.5%;
 }
 
-div.bloque
-{
-  margin: 5% 0 0;
+div.bloque {
+    margin: 5% 0 0;
 }
 
-div.bloque p
-{
-  color: rgb(255, 255, 255);
-  line-height: 1.9em;
+div.bloque p {
+    color: rgb(255, 255, 255);
+    line-height: 1.9em;
 }
