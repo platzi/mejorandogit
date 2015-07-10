@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+esta es una propuesta de mejorando la clase
+=======
+esta es mi propuesta
+>>>>>>> origin/master
