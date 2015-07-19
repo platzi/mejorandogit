@@ -24,6 +24,17 @@
   ================================================== -->
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+<!-- mostrar codigo 
+  ================================================== -->
+<link href="http://alexgorbatchev.com/pub/sh/current/styles/shThemeDefault.css" rel="stylesheet" type="text/css">
+<script src="http://alexgorbatchev.com/pub/sh/current/scripts/shCore.js" type="text/javascript"></script>
+<script src="http://alexgorbatchev.com/pub/sh/current/scripts/shAutoloader.js" type="text/javascript"></script>
+<script type="text/javascript">SyntaxHighlighter.all();</script>
+<script src="http://alexgorbatchev.com/pub/sh/current/scripts/shBrushXml.js" type="text/javascript"></script>
+<script src="http://alexgorbatchev.com/pub/sh/current/scripts/shBrushJScript.js" type="text/javascript"></script>
+<script src="http://alexgorbatchev.com/pub/sh/current/scripts/shBrushCss.js" type="text/javascript"></script>
+
 <!-- menu desplegable
   ================================================== -->
 <style type="text/css">
@@ -149,24 +160,87 @@ ET ?
 </div>
 <!-- fin menu desplegable
   ================================================== -->
-    </br>
-    </br>
-    </br>
+  </br></br></br>
     <div class="bloque">
-      <h3>¡Hola! Bienvenido</h3>
-      <p>Web Developer - Blogger - Tecnico en comercio exterior - Cocinero profesional & ...</p>
-    </div>
+      <h3>Codigo de este menu :</h3>
 
-    <div class="bloque">
-      <h3>Proyectos ></h3>
-      <a href="http://tiendablogger.com" target="_blank"><p>Plantillas bloggeer para tienda online</p></a>
-      <a href="http://tiendaonlinefacil.blogspot.com/" target="_blank"><p>Tienda online facil con blogger</p></a>
-    </div>
-    <H3></H3>
-    <div class="bloque">
-      <h3>Inspiracion ></h3>
-      "Si tu no trabajas por tus sueños , alguien te contratará para que trabajes por los suyos"<br/>
-      Steve Jobs
+ <pre class="brush: xml">
+  Antes de /head poner :
+
+<style type="text/css">
+* {
+margin:0px;
+padding:0px;
+}
+#header {
+margin:auto;
+width:500px;
+font-family:Arial, Helvetica, sans-serif;
+}
+ul, ol {
+list-style:none;
+}
+.nav > li {
+float:left;
+}
+.nav li a {
+background-color:rgb(22, 21, 20);
+color:#fff;
+text-decoration:none;
+padding:10px 12px;
+display:block;
+}
+.nav li a:hover {
+background-color:#E94016;
+}
+.nav li ul {
+display:none;
+position:absolute;
+min-width:140px;
+}
+.nav li:hover > ul {
+display:block;
+}
+.nav li ul li {
+position:relative;
+}
+.nav li ul li ul {
+right:-140px;
+top:0px;
+}
+</style>
+-------------------
+Y en el body poner :
+<div id="header">
+<ul class="nav">
+<li><a href="http://devop.in">Inicio</a></li>
+<li><a href="">Servicios</a>
+<ul>
+<li><a href="">Submenu1</a></li>
+<li><a href="">Submenu2</a></li>
+<li><a href="">Submenu3</a></li>
+<li><a href="">Submenu4</a>
+<ul>
+<li><a href="">Submenu1</a></li>
+<li><a href="">Submenu2</a></li>
+<li><a href="">Submenu3</a></li>
+<li><a href="">Submenu4</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="">Acerca de</a>
+<ul>
+<li><a href="">Submenu1</a></li>
+<li><a href="">Submenu2</a></li>
+<li><a href="">Submenu3</a></li>
+<li><a href="">Submenu4</a></li>
+</ul>
+</li>
+<li><a href="">Contacto</a></li>
+</ul>
+</div>
+ </pre>
     </div>
     <H3></H3>
     <div align="right">

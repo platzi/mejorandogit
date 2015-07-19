@@ -1,6 +1,6 @@
 body
 {
- background: rgb(22, 21, 20);
+ background-color: white;
  font-size: 16px;
 }
 
@@ -11,7 +11,8 @@ a
 
 ul
 {
-  margin: 20% 0 0% 0%;
+  margin: 0% 0% 0% 0%;
+
 }
 
 ul li
@@ -28,9 +29,9 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
-  background: #E94016;
+  background: rgb(22, 21, 20);
   border-bottom: solid thin white;
-  padding: .3em 1em .3em;
+  padding: .3em .3em .3em;
   text-decoration: none;
   color: white;
   font-size: 13px;
@@ -39,7 +40,7 @@ ul li a p
 
 h1
 {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
   border-bottom: none;
   font-size: 16px;
   margin: 0;
@@ -54,16 +55,16 @@ h3
   text-transform: uppercase;
   font-size: 13px;
   line-height: 32px;
-  border-bottom: 1px #eee solid;
-  color: #FFF7F7;
+  border-bottom: 1px #E94016 solid;
+  color: #202020;
   margin-bottom: 2.5em;
   padding-bottom: .5em;
 }
 
 header.sidebar
 {
-  background-color: #EEEEEE;
-  width: 30%;
+  background-color: white;
+  width: 25%;
   background-size: cover;
   display: inline-block;
   vertical-align: top;
@@ -101,10 +102,10 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
-  background: black;
+  background: rgb(22, 21, 20);
   border-top: solid 1px white;
   padding: 3% 0;
-  margin: 12% 0;
+  margin: 6% 0;
 }
 
 div.logo
@@ -125,10 +126,8 @@ div.logo img
 
 div.nombre
 {
-display: inline-block;
-vertical-align: top;
 padding: 0;
-margin: 0% 33%;
+margin: 0% 0% 0% 0%;
 font-size: 15px;
 text-align: center;
 }
@@ -145,7 +144,7 @@ div.layout-principal
   right: 0; 
   bottom: 0;  
   overflow-x: auto;
-  width: 55%;
+  width: 65%;
   padding: 0% 6.5%;
 }
 
@@ -156,6 +155,21 @@ div.bloque
 
 div.bloque p
 {
-  color: rgb(255, 255, 255);
+  color: #282828 ;
   line-height: 1.9em;
 }
+div.bloque2
+{
+  margin: 15% 0 0;
+  text-align: justify;
+}
+
+div.bloque2 p
+{
+  color: #282828 ;
+  line-height: 1.3em;
+}
+
+
+
+
