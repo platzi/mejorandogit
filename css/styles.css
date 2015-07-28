@@ -1,0 +1,139 @@
+body {
+    background: black;
+    font-family: 'Open Sans Light';
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    margin: 10% 0 0% 0%;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul li a p {
+    background: #e67e22;
+    border-radius: 10px;
+    color: white;
+    list-style-type: none;
+    padding: .3em 1em .3em;
+    text-decoration: none;
+    text-align: center;
+    transition: .2s all;
+    width: 75%;
+}
+ul li a p:hover {
+    background: #d35400;
+}
+
+h1 {
+    border-bottom: none;
+    color: black;
+    font-size: 20px;
+    line-height: 32px;
+    margin: 0;
+    padding: 5px 0 .3em;
+    padding-bottom: 2em;
+    text-align: center;
+}
+
+h3 {
+    border-bottom: 1px #eee solid;
+    color: #FFF7F7;
+    line-height: 32px;
+    margin-bottom: 2.5em;
+    padding-bottom: .5em;
+    text-transform: uppercase;
+}
+
+header.sidebar {
+    background-color: #ecf0f1;
+    background-size: cover;
+    bottom: 0;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    vertical-align: top;
+    width: 30%;
+}
+
+section.sidebar_information {
+    color: white;
+}
+
+div.sidebar_userimage {
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 80px;
+    cursor: pointer;
+    margin: 0% 25% 0;
+    padding: 8% 0 0;
+    text-align: center;
+}
+
+div.sidebar_userimage img {
+    border: 1px solid #ccc; 
+    border-radius: 26px;
+    padding: 7px;
+    width: 75px;
+}
+
+div.comunidad-autoria {
+    background: #bdc3c7;
+    margin: 8% 0;
+    padding: 3% 0;
+}
+
+div.logo {
+    display: inline-block;
+    padding: 3% 0 0;
+    text-align: center;
+    width: 30%;
+}
+
+div.logo img {
+    border-radius: 45px;
+    margin: 0;
+    padding: 0;
+    width: 45px;
+}
+
+div.nombre {
+    font-size: 22px;
+    margin: 0% auto;
+    padding: 0;
+    text-align: center;
+    vertical-align: top;
+}
+
+div.nombre p {
+    color: black;
+}
+
+div.layout-principal {
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    bottom: 0;  
+    overflow-x: auto;
+    width: 55%;
+    padding: 0% 6.5%;
+}
+
+div.bloque {
+    margin: 5% 0 0;
+}
+
+div.bloque p {
+    color: rgb(255, 255, 255);
+    line-height: 1.9em;
+}
