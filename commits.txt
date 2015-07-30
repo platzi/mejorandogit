@@ -1,0 +1,35 @@
+commit 8115e16c9e75dbd8f711c738033cff3c700dab9d
+Author: Paola Panasiuk <polacrc@gmail.com>
+Date:   Sat Jul 25 19:54:20 2015 -0300
+
+    Agruegue portafolio
+
+commit 9b4674fca8ab5093572c77583db7b9b52d34f678
+Author: Paola Panasiuk <polacrc@gmail.com>
+Date:   Sat Jul 25 19:51:47 2015 -0300
+
+    Agregue descripcion
+
+commit 3cb77e1e345d3d91bdf7f66f46791ce6c62d02e2
+Author: Paola Panasiuk <polacrc@gmail.com>
+Date:   Sat Jul 25 19:50:21 2015 -0300
+
+    Agregue redes sociales
+
+commit fb03ae5f8d59184cf474a2283f9fdc5a96a12d80
+Author: Paola Panasiuk <polacrc@gmail.com>
+Date:   Sat Jul 25 19:41:13 2015 -0300
+
+    Perfil web escrito
+
+commit 1f1c09ee50d66ed4a47c462c62b632b28c3aa0db
+Author: Paola Panasiuk <polacrc@gmail.com>
+Date:   Sat Jul 25 19:38:51 2015 -0300
+
+    Subi foto de perfil y mi nombre
+
+commit 802372c303fd0825c575443b460542332149842b
+Author: Paola Panasiuk <polacrc@gmail.com>
+Date:   Sat Jul 25 19:13:24 2015 -0300
+
+    Estos son los archivos base de mi portafolio
