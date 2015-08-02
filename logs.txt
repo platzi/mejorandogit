@@ -1,20 +1,11 @@
-commit 050a37d3935f04783f2e14218c7d4790c069d6f5
+commit 64c1ea563d82737a88f32bdab7fbbe8ab41a3eb5
 Author: Cesar Morales Garduño <shell.one.core@gmail.com>
-Date:   Sat Aug 1 20:56:04 2015 -0500
+Date:   Sat Aug 1 22:15:16 2015 -0500
 
-    Descripción del usuario actualizado
-
-commit 4a3c3367e772571049de814124aa6319ddd12531
-Author: Cesar Morales Garduño <shell.one.core@gmail.com>
-Date:   Sat Aug 1 19:54:43 2015 -0500
-
-    Enlace a redes sociales corregidas
-
-commit df5de0dc46f2644893f7fa90399707ed393f94b3
-Author: Cesar Morales Garduño <shell.one.core@gmail.com>
-Date:   Sat Aug 1 19:52:06 2015 -0500
-
-    Redes sociales actualizadas
+    Cambios borrados por git reset --soft recuperados:
+    
+    - Redes sociales actualizados
+    - Descripción del usuario actualizado
 
 commit c86b3584d8c6c0622a72e0a4ceeca4ecacfece1b
 Author: Cesar Morales Garduño <shell.one.core@gmail.com>
