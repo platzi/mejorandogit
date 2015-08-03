@@ -1,6 +1,6 @@
 body
 {
- background: rgb(22, 21, 20);
+ background: rgb(101, 94, 99);
  font-size: 16px;
 }
 
@@ -129,7 +129,7 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
-font-size: 15px;
+font-size: 20px;
 text-align: center;
 }
 
