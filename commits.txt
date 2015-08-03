@@ -1,0 +1,35 @@
+commit 021c19fdf5a56334225584c5bcb8dd70ccba8f33
+Author: Alex Pacheco <alex.pacheco.s@gmail.com>
+Date:   Sun Aug 2 19:37:38 2015 -0300
+
+    Mi portafolios
+
+commit ae991dc740248633d4390d39804152c095d59ec6
+Author: Alex Pacheco <alex.pacheco.s@gmail.com>
+Date:   Sun Aug 2 19:34:34 2015 -0300
+
+    Agregue descripciòn
+
+commit 3dee401229192ce67b693dd25ec72034732d882e
+Author: Alex Pacheco <alex.pacheco.s@gmail.com>
+Date:   Sun Aug 2 19:28:57 2015 -0300
+
+    Link a redes sociales
+
+commit 19321109812e8c31ea897718e3b3111ecfd033c4
+Author: Alex Pacheco <alex.pacheco.s@gmail.com>
+Date:   Sun Aug 2 19:06:10 2015 -0300
+
+    perfil Ewb
+
+commit fd7bd990830726e1a3c7a1756d2ffa14bcb3896a
+Author: Alex Pacheco <alex.pacheco.s@gmail.com>
+Date:   Sun Aug 2 18:58:27 2015 -0300
+
+    subi foto de perfil y mi mombre
+
+commit 36311946021ddcf79c146645499e8875ec6bfaaf
+Author: Alex Pacheco <alex.pacheco.s@gmail.com>
+Date:   Sun Aug 2 18:31:10 2015 -0300
+
+    Estos son los archivos base de mi portafolio
