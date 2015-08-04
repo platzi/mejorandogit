@@ -1,3 +1,9 @@
+commit 0cfacbfe6b196bc759bf3d3e5515582dccb61724
+Author: Cesar Morales Garduño <shell.one.core@gmail.com>
+Date:   Sat Aug 1 22:17:36 2015 -0500
+
+    Archivo logs.txt actualizado (menos el log actual)
+
 commit 64c1ea563d82737a88f32bdab7fbbe8ab41a3eb5
 Author: Cesar Morales Garduño <shell.one.core@gmail.com>
 Date:   Sat Aug 1 22:15:16 2015 -0500
