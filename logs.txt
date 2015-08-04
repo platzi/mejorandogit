@@ -1,3 +1,73 @@
+commit e0f7144efffcf9ab595882aad49ea5c5a78969b8
+Merge: fb07853 1d4ee5a
+Author: Cesar Morales Garduño <shell.one.core@gmail.com>
+Date:   Tue Aug 4 07:37:30 2015 -0500
+
+    Fusión ejecutada
+    Combinación con avatar de facebook
+
+commit fb078538b5ffae33a6daa86fd1d3b5be0a96e187
+Author: Cesar Morales Garduño <shell.one.core@gmail.com>
+Date:   Tue Aug 4 07:32:26 2015 -0500
+
+    Avatar de Android
+
+commit 1d4ee5a4bb4eeafe8f52bbea9be3e81910e6c174
+Author: Cesar Morales Garduño <shell.one.core@gmail.com>
+Date:   Tue Aug 4 07:30:33 2015 -0500
+
+    Avatar de facebook
+
+commit 213dec5377670e24d7836206493df124e4860b24
+Merge: e7ad39a 49baac4
+Author: Cesar Morales Garduño <shell.one.core@gmail.com>
+Date:   Tue Aug 4 07:26:49 2015 -0500
+
+    Consolidado la fuente con la rama principal seria del proyecto
+
+commit 49baac43cbc28e9bc6d5ae3eaacaed1cc0ea4e82
+Author: Cesar Morales Garduño <shell.one.core@gmail.com>
+Date:   Tue Aug 4 07:25:36 2015 -0500
+
+    Aumento de tamaño de fuente a 21 px
+
+commit e7ad39ac1a263908b875983f0ba7632f0f7e2141
+Author: Cesar Morales Garduño <shell.one.core@gmail.com>
+Date:   Tue Aug 4 07:24:26 2015 -0500
+
+    Agregado nuevo enlace
+
+commit 146541e152c5ece6f00bc9624a476ceb7b6e917f
+Merge: 923f796 aa0cda3
+Author: Cesar Morales Garduño <shell.one.core@gmail.com>
+Date:   Tue Aug 4 07:16:33 2015 -0500
+
+    Merge branch 'experimental'
+
+commit aa0cda3bfda3548264f1dfd08c45891c6b3b0260
+Author: Cesar Morales Garduño <shell.one.core@gmail.com>
+Date:   Tue Aug 4 06:32:52 2015 -0500
+
+    Cambio de color en el perfil del usuario
+
+commit 923f796942acdcbbcf6e53bae81e8d3ed15c8c76
+Author: Cesar Morales Garduño <shell.one.core@gmail.com>
+Date:   Tue Aug 4 06:29:38 2015 -0500
+
+    Se agregó dirección de prueba en vinculos
+
+commit 2bb220c5c12a2bba1761e3b312b09126c86652c9
+Author: Cesar Morales Garduño <shell.one.core@gmail.com>
+Date:   Tue Aug 4 06:23:28 2015 -0500
+
+    Cambio de color a azul acero
+
+commit bc670995d9ccf3f75638892ffeeae627a400c0c7
+Author: Cesar Morales Garduño <shell.one.core@gmail.com>
+Date:   Tue Aug 4 06:19:23 2015 -0500
+
+    Cambio en título
+
 commit 0cfacbfe6b196bc759bf3d3e5515582dccb61724
 Author: Cesar Morales Garduño <shell.one.core@gmail.com>
 Date:   Sat Aug 1 22:17:36 2015 -0500
