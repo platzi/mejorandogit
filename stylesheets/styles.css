@@ -1,7 +1,7 @@
 body
 {
- background: black;
- font-size: 21px;
+ background: rgb(22, 21, 20);
+ font-size: 16px;
 }
 
 a
@@ -11,7 +11,7 @@ a
 
 ul
 {
-  margin: 60% 0 0% 0%;
+  margin: 20% 0 0% 0%;
 }
 
 ul li
@@ -101,7 +101,7 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
-  background: rgb(62, 65, 97);
+  background: black;
   border-top: solid 1px white;
   padding: 3% 0;
   margin: 12% 0;
@@ -129,7 +129,7 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
-font-size: 25px;
+font-size: 15px;
 text-align: center;
 }
 
