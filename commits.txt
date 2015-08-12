@@ -1,0 +1,63 @@
+commit 0edb791050e509c8a354c016a1264e1f542c70c6
+
+Author: Valeria Reyes <vale.reyes.garcia@gmail.com>
+
+Date: 	Tue Aug 11 09:22:19 2015 -0500
+
+    
+Salve mi portafolio
+
+
+
+commit 8ba720e2aa1df08fca4a4dc480014377dc3ccdf9
+
+Author: Valeria Reyes <vale.reyes.garcia@gmail.com>
+
+Date:   Tue Aug 11 09:20:58 2015 -0500
+
+    
+Agregue descripcion
+
+
+
+commit 7d36d40eeb86eacaf3626b180e70cfce948d8401
+
+Author: Valeria Reyes <vale.reyes.garcia@gmail.com>
+
+Date:   Tue Aug 11 09:19:37 2015 -0500
+
+    
+Agregue redes sociales
+
+
+
+commit 4b55264a95ce6a327e1d10d96289b0fae99302e6
+
+Author: Valeria Reyes <vale.reyes.garcia@gmail.com>
+
+Date:   Tue Aug 11 09:16:13 2015 -0500
+
+    
+Perfil web escrito
+
+
+
+commit d857b4631f1012985b352421efbff6b2f5ca7f6d
+
+Author: Valeria Reyes <vale.reyes.garcia@gmail.com>
+
+Date:   Mon Aug 10 16:56:25 2015 -0500
+
+    
+Subi foto de perfil y mi nombre
+
+
+
+commit 468f1d7511042a6fea754d83c71802b6459fb98e
+
+Author: Valeria Reyes <vale.reyes.garcia@gmail.com>
+
+Date:   Mon Aug 10 16:46:52 2015 -0500
+
+    
+Estos son los archivos base de mi portafolio
