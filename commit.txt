@@ -1,0 +1,45 @@
+commit 22b4f2913c9363037052070843f97b0279b9c303
+Author: Julio López <ju.lopez73@gmail.com>
+Date:   Thu Aug 13 13:05:29 2015 +0000
+
+    Agregue mi portafolio
+
+
+
+commit ecf58b1b6c6ee392f7d6d07fcf44ded2631389b6
+Author: Julio López <ju.lopez73@gmail.com>
+Date:   Thu Aug 13 13:02:59 2015 +0000
+
+    Agregue descripcion
+
+
+
+commit de54cd4c3f5bcf510ded9ff775cb97e4fc335d1f
+Author: Julio López <ju.lopez73@gmail.com>
+Date:   Thu Aug 13 12:58:33 2015 +0000
+
+    Agregue las redes sociales
+
+
+
+commit c4c1c8ff5f4670413c3b9b92a106b34db2727c7d
+Author: Julio López <ju.lopez73@gmail.com>
+Date:   Thu Aug 13 12:48:55 2015 +0000
+
+    Subiendo mi perfil web
+
+
+
+commit 83532b151cde17bdd5965a8f3847d205466b36c9
+Author: Julio López <ju.lopez73@gmail.com>
+Date:   Thu Aug 13 12:43:36 2015 +0000
+
+    Ingresado mi nombre y foto
+
+
+
+commit 031e43a59ddb07a9ad0496817da88835ee125005
+Author: Julio López <ju.lopez73@gmail.com>
+Date:   Thu Aug 13 12:38:59 2015 +0000
+
+    Esto son los archivos base de mi repositorio
