@@ -1,0 +1,47 @@
+commit cfb3d6bb55b6329c59a6151c035302b0e51553a1
+Author: WALR <wilfred.lean.15@gmail.com>
+Date:   Sat Aug 15 17:25:14 2015 -0600
+
+    se agrego portafolio
+
+commit 0e213b016cbad33cf5dc1b9f414cac6167d2afa7
+Author: WALR <wilfred.lean.15@gmail.com>
+Date:   Sat Aug 15 17:24:03 2015 -0600
+
+    se agrego descripcion
+
+commit 99a30e32a477a371cd0de70a26d77466ee2be8a5
+Author: WALR <wilfred.lean.15@gmail.com>
+Date:   Sat Aug 15 17:22:44 2015 -0600
+
+    se agrego redes sociales
+
+commit dd5cda3a0c9bc9403f7460f7fa259a8e31efde5d
+Author: WALR <wilfred.lean.15@gmail.com>
+Date:   Sat Aug 15 17:19:23 2015 -0600
+
+    agregar perfil
+
+commit f31fe0e4c8e979c2877c66300bd07ed60c01fd8a
+Author: WALR <wilfred.lean.15@gmail.com>
+Date:   Sat Aug 15 17:16:20 2015 -0600
+
+    cambio de foto y nombre
+
+commit 5c4a21628c19cae6c5b2bd1ff9ab0a6edc7d8b8a
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Dec 1 20:25:27 2014 -0600
+
+    Create freddier.txt
+
+commit c28df02cf4c730678ab6bb52713107efc5892077
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Dec 1 13:34:12 2014 -0600
+
+    Create MENCIONOFICIAL.txt
+
+commit ea4e4a0439213ac10ae3d3aebe62590d0c0ff980
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Nov 17 10:14:38 2014 -0500
+
+    Inicio de portafolio
