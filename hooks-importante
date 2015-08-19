@@ -1,0 +1,4 @@
+Dar permisos para que los archivos sh se ejecuten en la terminal debemos escribir los siguientes comandos:
+chmod +x [Nombre del archivo]
+Ejemplo:
+chmod +x post-commit
