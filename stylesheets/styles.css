@@ -11,7 +11,7 @@ a
 
 ul
 {
-  margin: 50% 0 0% 0%;
+  margin: 20% 0 0% 0%;
 }
 
 ul li
@@ -129,7 +129,11 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
+<<<<<<< HEAD
 font-size: 27px;
+=======
+font-size: 15px;
+>>>>>>> upstream/master
 text-align: center;
 }
 
