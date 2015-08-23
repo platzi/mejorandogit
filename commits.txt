@@ -1,0 +1,35 @@
+commit ff3c33b1768d2781be15e5c6b99d6ac78d81c1cd
+Author: alexballera <alexballera@gmail.com>
+Date:   Sat Aug 22 09:30:33 2015 -0430
+
+    Agregado portafolio
+
+commit 3978de1ecd3978f2104e6f3371be15fcb08a2ef2
+Author: alexballera <alexballera@gmail.com>
+Date:   Sat Aug 22 09:24:37 2015 -0430
+
+    Modificado titulo
+
+commit 275a9895a072c8679d0444339094b5c682446477
+Author: alexballera <alexballera@gmail.com>
+Date:   Sat Aug 22 09:22:26 2015 -0430
+
+    Agregada redes sociales
+
+commit d97c3b62b7668b6e50120fa2fbf7477a493c78f8
+Author: alexballera <alexballera@gmail.com>
+Date:   Sat Aug 22 09:19:53 2015 -0430
+
+    Agregado perfil web
+
+commit c1446b8397087c814f67b589f172c0b2f8f8cfee
+Author: alexballera <alexballera@gmail.com>
+Date:   Sat Aug 22 09:17:42 2015 -0430
+
+    Modifiqué nombre y foto de perfil
+
+commit b276ca9ef350edff1a18e21449644c76785c5c74
+Author: alexballera <alexballera@gmail.com>
+Date:   Sat Aug 22 09:12:54 2015 -0430
+
+    Commit inicial
