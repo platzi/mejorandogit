@@ -1,7 +1,7 @@
 body
 {
- background: rgb(22, 21, 20);
- font-size: 16px;
+ background: #171515;
+ font-size: 21px;
 }
 
 a
@@ -129,7 +129,11 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
+<<<<<<< HEAD
+font-size: 27px;
+=======
 font-size: 15px;
+>>>>>>> upstream/master
 text-align: center;
 }
 
