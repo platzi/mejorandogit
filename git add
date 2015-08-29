@@ -1,0 +1,7 @@
+git add
+
+git add -A  Guarda todos los archivos y cambios
+
+git add.  Igual que -A pero no guarda los cambios en los archivos traqueados
+
+git add [archivo(s)] Puedes agregar un archivo individual y agregar otros a ese archivo
