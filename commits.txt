@@ -1,0 +1,35 @@
+commit af42fb28807e839a168398fac2267a50b8831b20
+Author: Keriroso <keriroso@gmail.com>
+Date:   Sat Aug 29 17:50:48 2015 -0500
+
+    Agregue lista de portafolios
+
+commit 950ccaa19e010c12aee5a76069a967e2ac2b4dbe
+Author: Keriroso <keriroso@gmail.com>
+Date:   Sat Aug 29 17:47:51 2015 -0500
+
+    Agregue descripcion
+
+commit 9cf93b37c51d32524cae8c33bdb390df345c5f73
+Author: Keriroso <keriroso@gmail.com>
+Date:   Sat Aug 29 17:46:18 2015 -0500
+
+    agregue redes sociales
+
+commit 816d335729f7fd3735df5ab8e9976ca5574ba419
+Author: Keriroso <keriroso@gmail.com>
+Date:   Sat Aug 29 17:44:22 2015 -0500
+
+    Perfil
+
+commit 0cf140228569d9035d2c552f183f5ace206abfe8
+Author: Keriroso <keriroso@gmail.com>
+Date:   Sat Aug 29 17:40:14 2015 -0500
+
+    Cambie  foto de perfil
+
+commit 20491acd1bb149ee6be91210c145eef8d5c2b82d
+Author: Keriroso <keriroso@gmail.com>
+Date:   Sat Aug 29 16:34:21 2015 -0500
+
+    Estos son los archivos del curso
