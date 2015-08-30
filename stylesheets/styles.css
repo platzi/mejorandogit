@@ -1,7 +1,12 @@
 body
 {
+<<<<<<< HEAD
  background: rgb(218, 64, 215);
  font-size: 14px;
+=======
+ background: rgb(22, 21, 20);
+ font-size: 16px;
+>>>>>>> upstream/master
 }
 
 a
@@ -128,10 +133,15 @@ div.nombre
 display: inline-block;
 vertical-align: top;
 padding: 0;
+<<<<<<< HEAD
 
 margin: 0% 50%;
 font-size: 15px;
 
+=======
+margin: 0% 33%;
+font-size: 15px;
+>>>>>>> upstream/master
 text-align: center;
 }
 
