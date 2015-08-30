@@ -1,7 +1,10 @@
 body
 {
- background: rgb(22, 21, 20);
- font-size: 16px;
+ background: #807E7C;
+ margin: 0;
+ padding: 0;
+ font-size: 100%;
+ line-height: 1.5em;
 }
 
 a
@@ -21,7 +24,7 @@ ul li
 
 ul li a
 {
- text-decoration: none; 
+ text-decoration: none;
 }
 
 ul li a p
@@ -91,11 +94,9 @@ div.sidebar_userimage
 
 div.sidebar_userimage img
 {
-
   border-radius: 26px;
   width: 75px;
   padding: 7px;
-  border: 1px solid #ccc; 
 }
 
 div.comunidad-autoria
@@ -125,12 +126,12 @@ div.logo img
 
 div.nombre
 {
-display: inline-block;
-vertical-align: top;
-padding: 0;
-margin: 0% 33%;
-font-size: 15px;
-text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  padding: 0;
+  margin: 0% 33%;
+  font-size: 1.3em;
+  text-align: center;
 }
 
 div.nombre p
@@ -140,10 +141,10 @@ div.nombre p
 
 div.layout-principal
 {
-  position: absolute; 
-  top: 0; 
-  right: 0; 
-  bottom: 0;  
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
   overflow-x: auto;
   width: 55%;
   padding: 0% 6.5%;
