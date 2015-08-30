@@ -1,7 +1,9 @@
 body
 {
- background: rgb(22, 21, 20);
- font-size: 16px;
+
+ background: rgb(218, 64, 215);
+ font-size: 14px;
+
 }
 
 a
@@ -128,8 +130,11 @@ div.nombre
 display: inline-block;
 vertical-align: top;
 padding: 0;
-margin: 0% 33%;
+
+
+margin: 0% 50%;
 font-size: 15px;
+
 text-align: center;
 }
 
