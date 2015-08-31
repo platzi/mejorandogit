@@ -1,0 +1,35 @@
+commit 2195d8c91f75f1cc3d6e7af2d9b69388d1ce7064
+Author: LucasVillarreal <lucasvillarreal42@gmail.com>
+Date:   Sat Aug 29 15:01:27 2015 -0300
+
+    Agregue mi portafolio
+
+commit 0d2be9f1ad03de4a5a1ffcd55d9bca6a0c18dba2
+Author: LucasVillarreal <lucasvillarreal42@gmail.com>
+Date:   Sat Aug 29 14:58:16 2015 -0300
+
+    Agregue descripcion
+
+commit ca892a005e8985f21f99e0f761f5cc9cbc812213
+Author: LucasVillarreal <lucasvillarreal42@gmail.com>
+Date:   Sat Aug 29 14:56:42 2015 -0300
+
+    Ingresando Redes Sociales
+
+commit 201065738a1cf4109ed082c271c591e2eaf0af2e
+Author: LucasVillarreal <lucasvillarreal42@gmail.com>
+Date:   Sat Aug 29 14:52:54 2015 -0300
+
+    Perfil Web escrito
+
+commit c35da589b90514a55eb67979012c05405a10a29a
+Author: LucasVillarreal <lucasvillarreal42@gmail.com>
+Date:   Sat Aug 29 14:50:24 2015 -0300
+
+    Subi foto de perfil y mi nombre
+
+commit 174fd2f69aa63474d6469a2304e181eee20de411
+Author: LucasVillarreal <lucasvillarreal42@gmail.com>
+Date:   Sat Aug 29 14:44:36 2015 -0300
+
+    Estos son los archivos bases de mi portafolio
