@@ -1,0 +1,47 @@
+commit 0bf94dfdd265b72e18ef08b802348b5e3e007f3f
+Author: Juan Esteban <juan.acevedo.gallego@gmail.com>
+Date:   Sat Aug 29 19:59:41 2015 -0500
+
+    Ultima guardada.
+
+commit 70324669ff433359f12cbdd9d932e0f65a1c4125
+Author: Juan Esteban <juan.acevedo.gallego@gmail.com>
+Date:   Sat Aug 29 19:58:02 2015 -0500
+
+    Agregando pagina web
+
+commit 76d9efac5d574ed5475d4f4a32832aa00c9ed40b
+Author: Juan Esteban <juan.acevedo.gallego@gmail.com>
+Date:   Sat Aug 29 19:56:52 2015 -0500
+
+    Agregue descripcion
+
+commit 110c327f3e4e41506e5a7eebe879938dbbcb68fc
+Author: Juan Esteban <juan.acevedo.gallego@gmail.com>
+Date:   Sat Aug 29 19:55:25 2015 -0500
+
+    Agregando redes sociales
+
+commit 6fdf03936fba707a8e3da5402005b9ffdcbd4944
+Author: Juan Esteban <juan.acevedo.gallego@gmail.com>
+Date:   Sat Aug 29 19:37:09 2015 -0500
+
+    Nombre del perfil escrito
+
+commit d212af73e7fe2c22b917e671741bcfdd51728420
+Author: Juan Esteban <juan.acevedo.gallego@gmail.com>
+Date:   Sat Aug 29 19:35:04 2015 -0500
+
+    Subi foto de perfil y nombre
+
+commit 6e76434231e786adbeef6bcbce53aa4b458d93ff
+Author: Juan Esteban <juan.acevedo.gallego@gmail.com>
+Date:   Sat Aug 29 19:34:02 2015 -0500
+
+    Dejando el archivo como estaba originalmente
+
+commit 8dff387652ceafee9d85b7a0c854341a78ef0ed8
+Author: Juan Esteban <juan.acevedo.gallego@gmail.com>
+Date:   Sat Aug 29 19:33:32 2015 -0500
+
+    Estos son los archivos base del proyecto
