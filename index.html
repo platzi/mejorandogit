@@ -16,8 +16,9 @@
 
 <!-- CSS
   ================================================== -->
-  <link rel="stylesheet" href="stylesheets/normalize.css">
-  <link rel="stylesheet" href="stylesheets/styles.css">
+  <link rel="stylesheet" href="static/css/materialize.css">
+  <link rel="stylesheet" href="static/css/styles.css">
+
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
 <!-- Favicons
@@ -26,62 +27,87 @@
 <link rel="shortcut icon" href="https://pbs.twimg.com/profile_images/2934163501/96e40d28cba0cf7081fc941818489cc8_bigger.jpeg">
 </head>
 
-<body>
+<body >
+  <header>
+    <nav class="dark-primary-color">
+      <ul id="slide-out" class="side-nav fixed default-primary-color ">
+        <li class="">
+            <div class="card-panel dark-primary-color lighten-5 z-depth-1 ">
+              <div class="row valign-wrapper">
+                <div class="col s5">
+                  <img class="circle responsive-img" src="https://pbs.twimg.com/profile_images/2934163501/96e40d28cba0cf7081fc941818489cc8_bigger.jpeg">
 
-  <header class="sidebar">
-    <section class="sidebar_information">
-      <div class="sidebar_userimage">
-        <img src="https://pbs.twimg.com/profile_images/2934163501/96e40d28cba0cf7081fc941818489cc8_bigger.jpeg">
-        <h1 class="sidebar_information_title">
-          Erick Brito
-        </h1>
-      </div>
-      <div class="comunidad-autoria dark-primary-color">
-        <div class="nombre">
-          <!-- 2º Commit - Tu perfil Web -->
-          <p>Desarrollador web - Frontend, Backend</p>
-        </div>
-      </div>
-    </section>
-    <ul>
-      <li>
-        <a href="https://facebook.com/erick.dbrito" target="_blank">
-          <!-- 3º Commit - Redes Sociales -->
-          <p>Facebook</p>
-        </a>
-      </li>
-      <li>
-        <a href="https://twitter.com/erick_dbrito" target="_blank">
-          <p>Twitter</p>
-        </a>
-      </li>
+                </div>
+                <div class="col s7 ">
+                  <h1 class="text-primary-color ">
+                    Erick Brito
+                  </h1>
+                </div>
+              </div>
+            </div>
+        </li>
+        <li class="light-primary-color">
+            <div class="nombre">
+              <!-- 2º Commit - Tu perfil Web -->
+              <p class="text-primary-color">Desarrollador web - Frontend, Backend</p>
+            </div>
+        </li>
+        <li>
+          <a href="https://facebook.com/erick.dbrito" target="_blank" class="text-primary-color ">
+            <!-- 3º Commit - Redes Sociales -->
+            Facebook
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/erick_dbrito" target="_blank" class="text-primary-color ">
+            Twitter
+          </a>
+        </li>
 
-      <li>
-        <a href="http://github.com/erickdbrito" target="_blank">
-          <p>GitHub</p>
-        </a>
-      </li>
-    </ul>
+        <li>
+          <a href="http://github.com/erickdbrito" target="_blank" class="text-primary-color ">
+            GitHub
+          </a>
+        </li>
+      </ul>
+      <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+    </nav>
   </header>
 
-  <div class="layout-principal">
-    <div class="bloque">
-      <!-- 4º Commit - Tu presentación -->
-      <h3>¡Hola! Bienvenido</h3>
-      <p>Desarrollador web especializado en el desarrollo backend con el framework Laravel <br>
-         Lider de proyecto en CS Group, Dearrollador web en uaem.mx
-      </p>
-    </div>
 
-    <div class="bloque">
-      <!-- 5º Commit - Tu portafolio -->
-      <h3>Proyectos</h3>
-      <a href="#"><p>Kardia</p></a>
-      <a href="#"><p>Obibaby</p></a>
-      <a href="#"><p>Voztok</p></a>
-      <a href="#"><p>UAEM</p></a>
-    </div>
-  </div>
 
+<div class="row ">
+
+
+
+    <div class="col offset-m3 s12 primary-text-color">
+        <div class="card-panel hoverable container">
+          <!-- 4º Commit - Tu presentación -->
+          <h3>¡Hola! Bienvenido</h3>
+          <p>Desarrollador web especializado en el desarrollo backend con el framework Laravel <br>
+             Lider de proyecto en CS Group, Dearrollador web en uaem.mx
+          </p>
+        </div>
+
+        <div class="card-panel hoverable collection container" >
+          <!-- 5º Commit - Tu portafolio -->
+          <h3>Proyectos</h3>
+          <a class="collection-item" href="#"><p>Kardia</p></a>
+          <a class="collection-item" href="#"><p>Obibaby</p></a>
+          <a class="collection-item" href="#"><p>Voztok</p></a>
+          <a class="collection-item" href="#"><p>UAEM</p></a>
+        </div>
+      </div>
+</div>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script type="text/javascript" src="static/js/materialize.min.js"></script>
+  <script type="text/javascript">
+  $('.button-collapse').sideNav({
+       menuWidth: 300
+     }
+   );
+
+
+  </script>
 </body>
 </html>

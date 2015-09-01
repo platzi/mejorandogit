@@ -1,0 +1,10 @@
+h1{font-size: 23px}
+
+.dark-primary-color    { background: #00796B !important; }
+.default-primary-color { background: #009688 !important; }
+.light-primary-color   { background: #B2DFDB !important; }
+.text-primary-color    { color: #FFFFFF !important; }
+.accent-color          { background: #448AFF !important; }
+.primary-text-color    { color: #212121 !important; }
+.secondary-text-color  { color: #727272 !important; }
+.divider-color         { border-color: #B6B6B6 !important; }
