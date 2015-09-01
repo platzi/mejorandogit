@@ -1,0 +1,40 @@
+commit dd91289d611a23e6e37c9ed3bfd83125f1b2bb25
+Author: jhon toxqui <jhon.rt.1992@gmail.com>
+Date:   Sun Aug 23 01:00:14 2015 -0500
+
+    se agrego el portafolio
+
+
+commit 24aed8c9e07aa9a2dd4e174146b11008e12fcd86
+Author: jhon toxqui <jhon.rt.1992@gmail.com>
+Date:   Sun Aug 23 00:58:42 2015 -0500
+
+    agregamos la presentacion
+
+
+commit d0a57fde5f74d79f3eb0a807f1a03a3b2001be24
+Author: jhon toxqui <jhon.rt.1992@gmail.com>
+Date:   Sun Aug 23 00:55:59 2015 -0500
+
+    agregamos las redes sociales
+
+
+commit 40ca02474c7555449bca862f9d1e95ab55625e22
+Author: jhon toxqui <jhon.rt.1992@gmail.com>
+Date:   Sat Aug 22 00:12:19 2015 -0500
+
+    cambie mi descripcion a desarrollador frontend
+
+
+commit 525ab65bf0e78856811f446771e87d2e06225e90
+Author: jhon toxqui <jhon.rt.1992@gmail.com>
+Date:   Sat Aug 22 00:10:01 2015 -0500
+
+    subi foto de perfil y cambie nombre
+
+
+commit 8c40ac04c85cbd37d542a3567743d6a995cc2506
+Author: jhon toxqui <jhon.rt.1992@gmail.com>
+Date:   Fri Aug 21 23:58:15 2015 -0500
+
+    estos son los archivos basse de mi portafolio
