@@ -1,0 +1,35 @@
+commit 57bddf778463efd513d3253f30b38d100826729d
+Author: Nicolas Velasquez <nicolas.velasquez531@gmail.com>
+Date:   Tue Sep 1 08:43:49 2015 -0500
+
+    Paginas web agregadas
+
+commit 3f0179365c311bfce68b2e1b89812127638da872
+Author: Nicolas Velasquez <nicolas.velasquez531@gmail.com>
+Date:   Tue Sep 1 08:42:01 2015 -0500
+
+    Descripcion agregada
+
+commit 0b9c81f27031a72842a25eb31af50656a7558f3a
+Author: Nicolas Velasquez <nicolas.velasquez531@gmail.com>
+Date:   Tue Sep 1 08:40:40 2015 -0500
+
+    Redes sociales agregadas
+
+commit 3e8bf5a98ed7fee3845835361ad4c3dd01d11dae
+Author: Nicolas Velasquez <nicolas.velasquez531@gmail.com>
+Date:   Tue Sep 1 08:38:14 2015 -0500
+
+    Título incluido
+
+commit 225decfe8446ef9e5673b1ed039b9c039f53ad19
+Author: Nicolas Velasquez <nicolas.velasquez531@gmail.com>
+Date:   Tue Sep 1 08:35:28 2015 -0500
+
+    foto y nombre agregada
+
+commit 078fa55775cd10a75276c925b82e21dd174f6951
+Author: Nicolas Velasquez <nicolas.velasquez531@gmail.com>
+Date:   Tue Sep 1 08:28:29 2015 -0500
+
+    archivos base de portafolio
