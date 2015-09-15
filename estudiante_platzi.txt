@@ -1,0 +1,5 @@
+Hola Comunidad
+
+Este txt, es una propuesta con el fin de dejar nuestro nombre, nick y un breve comentario del curso, para todos los que estamos aprendiendo GitHub. Ademas nos sirve, para hacer pruebas mientras vamos aprendiendo.
+
+Juan Soto | @juksoto | Agradezco a platzi y a @mikenieva por tan excelente explicacion de este tema. Me ha ayudado mucho a crecer profesionalmente.
