@@ -1,0 +1,137 @@
+commit fff9252ccd811f3dbeec62ee75fd142cdcad49a1
+Merge: 55da56f 2d0e99a
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:56:51 2015 -0500
+
+    Merge branch 'black'
+
+commit 55da56fad1b5eaf1bf645ff3a6f32fbba2e1e15f
+Merge: 82223aa 4be2022
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:56:04 2015 -0500
+
+    Merge branch 'fontfun'
+
+commit 82223aac2bdc6f2bbfdd72587af27c94dc40a2be
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:52:49 2015 -0500
+
+    prueba
+
+commit d61a85bad5f9b5b25d29ae285fc2a7c825f9f16f
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:49:14 2015 -0500
+
+    Fondo
+
+commit 2d0e99aa4fb829ec728198030e27c81dec248d1c
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:44:36 2015 -0500
+
+    Margen arreglado
+
+commit 4be2022425dd2a7099eb786808a6a455fdbadc8b
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:42:46 2015 -0500
+
+    Resuelto la fuente
+
+commit a5ab4647cd2547e38ba5b961b6b0dd0e1056020d
+Merge: e025bf2 08b6372
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:37:21 2015 -0500
+
+    Fusion ejecutada
+
+commit e025bf291febe8bbab31a1c3ce25707d642ab0f2
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:33:38 2015 -0500
+
+    Agregue chancla
+
+commit 08b6372d82ddb3ec4b812d6cc87d41dc24884cc9
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:30:47 2015 -0500
+
+    Agregue foto
+
+commit 556d5afe878f07650a643b7b9e75538537500d48
+Merge: 61edff7 d9ae517
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:25:53 2015 -0500
+
+    Merge branch 'font'
+
+commit d9ae517263d879bc193129d3f21f0bae141fa723
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:25:11 2015 -0500
+
+    aumento de fuente a 21 px
+
+commit 61edff7000b67890ec92decfb48e693d60526d0b
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:24:20 2015 -0500
+
+    Faceboock
+
+commit 8e140f583ad21b2f3badd39c300c6d90ba84c551
+Merge: b887863 f5c9a74
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:16:49 2015 -0500
+
+    Merge branch 'experimental'
+
+commit f5c9a74aed775e07a28639d7280c7b62dbdd2493
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:04:20 2015 -0500
+
+     Cambio a grisesito
+
+commit b8878636b8e936ce00cc3c59d3533dff4db4b579
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 23:01:51 2015 -0500
+
+    Llenado de datos portafolio
+
+commit 229eb8a8700c063d7afec652bafb4b46661f05bb
+Author: German Canela <germein1495@hotmail.com>
+Date:   Tue Sep 15 22:59:13 2015 -0500
+
+    Cambiode fondo
+
+commit 2544f827878902c5ac300eae4a909bb5f4ffa6ae
+Author: German Canela <germein1495@hotmail.com>
+Date:   Sun Sep 13 20:34:00 2015 -0500
+
+    Salve mi portafolio
+
+commit 7dcf474d74ed8f8321b7b633cbf17687b484b38b
+Author: German Canela <germein1495@hotmail.com>
+Date:   Sun Sep 13 20:32:38 2015 -0500
+
+    Agregue descripcion
+
+
+commit d1b87b208822bc776e0d4362835f30a36ea69933
+Author: German Canela <germein1495@hotmail.com>
+Date:   Sun Sep 13 20:30:42 2015 -0500
+
+    Agregue redes sociales
+
+commit 0d680b9cb43cbef9892c176681c0b728c3a3e679
+Author: German Canela <germein1495@hotmail.com>
+Date:   Sun Sep 13 20:25:42 2015 -0500
+
+    Perfil WEB escrito
+
+commit 7164000db35faf1f13f54b94b685eef219d9419d
+Author: German Canela <germein1495@hotmail.com>
+Date:   Sun Sep 13 20:21:19 2015 -0500
+
+    Subi foto de perfil y minombre
+
+commit f611e491f744d17aae2ca0d42afca053754e7a7c
+Author: German Canela <germein1495@hotmail.com>
+Date:   Sun Sep 13 20:07:01 2015 -0500
+
+    Estos son los archivos ase de mi portafolio
