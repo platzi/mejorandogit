@@ -1,0 +1,35 @@
+commit 2544f827878902c5ac300eae4a909bb5f4ffa6ae
+Author: German Canela <germein1495@hotmail.com>
+Date:   Sun Sep 13 20:34:00 2015 -0500
+
+    Salve mi portafolio
+
+commit 7dcf474d74ed8f8321b7b633cbf17687b484b38b
+Author: German Canela <germein1495@hotmail.com>
+Date:   Sun Sep 13 20:32:38 2015 -0500
+
+    Agregue descripcion
+
+commit d1b87b208822bc776e0d4362835f30a36ea69933
+Author: German Canela <germein1495@hotmail.com>
+Date:   Sun Sep 13 20:30:42 2015 -0500
+
+    Agregue redes sociales
+
+commit 0d680b9cb43cbef9892c176681c0b728c3a3e679
+Author: German Canela <germein1495@hotmail.com>
+Date:   Sun Sep 13 20:25:42 2015 -0500
+
+    Perfil WEB escrito
+
+commit 7164000db35faf1f13f54b94b685eef219d9419d
+Author: German Canela <germein1495@hotmail.com>
+Date:   Sun Sep 13 20:21:19 2015 -0500
+
+    Subi foto de perfil y minombre
+
+commit f611e491f744d17aae2ca0d42afca053754e7a7c
+Author: German Canela <germein1495@hotmail.com>
+Date:   Sun Sep 13 20:07:01 2015 -0500
+
+    Estos son los archivos ase de mi portafolio
