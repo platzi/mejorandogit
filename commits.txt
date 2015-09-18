@@ -1,0 +1,35 @@
+commit 64f6f49371396e1a23d3af464efbfb519afbf22f
+Author: Abraham Escamilla Pinelo <abraham_1992@hotmail.com>
+Date:   Sun Sep 13 20:05:29 2015 -0500
+
+    Agregue un portafolio
+
+commit 3358f743b74919c6eeddf95622bffc7ed2adfe4e
+Author: Abraham Escamilla Pinelo <abraham_1992@hotmail.com>
+Date:   Sun Sep 13 20:04:03 2015 -0500
+
+    Cambie la presentacion del portafolio
+
+commit 8839d3a757e6a52e7afe42bf672805e747d6455a
+Author: Abraham Escamilla Pinelo <abraham_1992@hotmail.com>
+Date:   Sun Sep 13 19:58:25 2015 -0500
+
+    Agregue redes sociales
+
+commit f51daf292cb09c947162674f969d7515e5b97269
+Author: Abraham Escamilla Pinelo <abraham_1992@hotmail.com>
+Date:   Sun Sep 13 19:56:44 2015 -0500
+
+    Perfil Web escrito
+
+commit 8f01da89730cb9aa6a9564c0109b397de9698684
+Author: Abraham Escamilla Pinelo <abraham_1992@hotmail.com>
+Date:   Sun Sep 13 19:54:20 2015 -0500
+
+    Subi foto de perfil y mi nombre
+
+commit 1a9bf302f3b7de1f32b6b3025f8bc55cff206016
+Author: Abraham Escamilla Pinelo <abraham_1992@hotmail.com>
+Date:   Sun Sep 13 19:43:05 2015 -0500
+
+    Estos son los archivos base de mi portafolio
