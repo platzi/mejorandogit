@@ -1,0 +1,35 @@
+commit 93e750a7948cde0d5ccd26905c85c66f92526cdc
+Author: visego <visego@gmail.com>
+Date:   Mon Sep 21 16:04:56 2015 +0200
+
+    Guarde mi portafolio
+
+commit cb22480d08b058fb99f0d13ba97b10e172a85939
+Author: visego <visego@gmail.com>
+Date:   Mon Sep 21 16:04:24 2015 +0200
+
+    Agregue descripcion
+
+commit 7091753fe31848e5e8490db83565f2c43a145cf3
+Author: visego <visego@gmail.com>
+Date:   Mon Sep 21 16:03:13 2015 +0200
+
+    Agregue redes sociales
+
+commit 7fa05c98562e48b1346f7598d45b8629f33ccece
+Author: visego <visego@gmail.com>
+Date:   Mon Sep 21 16:00:43 2015 +0200
+
+    Perfil web escrito
+
+commit 381b6cc696636d8756d8c2b9592939173df9a313
+Author: visego <visego@gmail.com>
+Date:   Mon Sep 21 15:58:18 2015 +0200
+
+    Subi foto de perfil y mi nombre
+
+commit 97e4dea2d0b67ce07c4d81996e44b0b188f130c1
+Author: visego <visego@gmail.com>
+Date:   Mon Sep 21 15:53:26 2015 +0200
+
+    Estos son los archivos base de mi portafolio
