@@ -1,0 +1,35 @@
+commit fd7ebd2e0069a9c7ca2f9a782aba0e09ac79a6bd
+Author: Javier Hernandez <javihego23@gmail.com>
+Date:   Wed Sep 23 23:56:16 2015 -0500
+
+    portafolio
+
+commit f947f2c09d33fc671b5bb9a78f33c90da9946c45
+Author: Javier Hernandez <javihego23@gmail.com>
+Date:   Wed Sep 23 23:55:30 2015 -0500
+
+    descripcion
+
+commit f75eb6e74a8af97378698b4cd30f15af50b6b069
+Author: Javier Hernandez <javihego23@gmail.com>
+Date:   Wed Sep 23 23:54:17 2015 -0500
+
+    redes sociales
+
+commit 07c1e1bcbf4e846a7db5a68c4f3cabaa442f06fd
+Author: Javier Hernandez <javihego23@gmail.com>
+Date:   Wed Sep 23 23:52:38 2015 -0500
+
+    perfil web
+
+commit 8e77ae569153341c880a09df3bbe3c77325d6de5
+Author: Javier Hernandez <javihego23@gmail.com>
+Date:   Wed Sep 23 23:50:21 2015 -0500
+
+    subi foto y nombre
+
+commit 0d18aa03b04ceef8873def664cb8b1f7374aba4e
+Author: Javier Hernandez <javihego23@gmail.com>
+Date:   Wed Sep 23 23:45:31 2015 -0500
+
+    esta es la base
