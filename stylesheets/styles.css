@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
  background: rgb(0, 20, 2);
+=======
+ background: rgb(22, 21, 20);
+>>>>>>> upstream/master
  font-size: 16px;
 }
 
