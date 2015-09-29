@@ -1,0 +1,35 @@
+commit 0ffe7696f520e1e744a192912325a084b01f561a
+Author: Dorian Lopez <ingdorianlopez11@gmail.com>
+Date:   Thu Sep 24 10:47:39 2015 -0500
+
+    Agregue el portafolio
+
+commit 38800d06014b6a48cbd6d3f079e62fb10836fd0d
+Author: Dorian Lopez <ingdorianlopez11@gmail.com>
+Date:   Thu Sep 24 10:40:47 2015 -0500
+
+    Agregue descripcion
+
+commit 0b7f27ae643b5bc7dc8c640f2870a0339a17b33a
+Author: Dorian Lopez <ingdorianlopez11@gmail.com>
+Date:   Thu Sep 24 10:37:54 2015 -0500
+
+    Agregue redes sociales
+
+commit de1cec55fe73fa03f2b1e1fe8f479aab99e0136a
+Author: Dorian Lopez <ingdorianlopez11@gmail.com>
+Date:   Thu Sep 24 10:32:23 2015 -0500
+
+    Perfil web escrito
+
+commit 21a36650df76742256273fbd0aba54474a9819b6
+Author: Dorian Lopez <ingdorianlopez11@gmail.com>
+Date:   Thu Sep 24 10:24:14 2015 -0500
+
+    Actualize foto de perfil y mi nombre
+
+commit 93e9bdef26a1762f9a990688574678b565de0764
+Author: Dorian Lopez <ingdorianlopez11@gmail.com>
+Date:   Thu Sep 24 10:17:54 2015 -0500
+
+    Estos son los archivos base de mi portafolio
