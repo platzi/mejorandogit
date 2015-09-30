@@ -1,0 +1,35 @@
+commit b275cae957fad325bb1f7f09e8d3e5df0471f85a
+Author: Cristian Villatoro <criistiianvs@gmail.com>
+Date:   Wed Sep 30 09:23:55 2015 -0600
+
+    Agregue el portafolio
+
+commit 83c0298f162e954a9af67fa32a4f86971458caee
+Author: Cristian Villatoro <criistiianvs@gmail.com>
+Date:   Wed Sep 30 09:22:44 2015 -0600
+
+    Agregue la presentacion
+
+commit 537047535822e2c35368e770ff68c8b43d92db84
+Author: Cristian Villatoro <criistiianvs@gmail.com>
+Date:   Wed Sep 30 09:20:33 2015 -0600
+
+    Se agregaron las redes sociales
+
+commit bc6cfff5347ae94df6e7afdae7aac8beafe7899d
+Author: Cristian Villatoro <criistiianvs@gmail.com>
+Date:   Wed Sep 30 09:17:37 2015 -0600
+
+    Perfil web escrito
+
+commit 331b843d0dece23064bdc43ddc7a676653b5b2c1
+Author: Cristian Villatoro <criistiianvs@gmail.com>
+Date:   Wed Sep 30 09:15:23 2015 -0600
+
+    Subi foto de perfil y mi nombre
+
+commit 93519b2d97158d721fa15f6352a76dde57d56a8d
+Author: Cristian Villatoro <criistiianvs@gmail.com>
+Date:   Wed Sep 30 09:07:22 2015 -0600
+
+    Estos son los archivos base de mi portafolio
