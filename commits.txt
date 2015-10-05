@@ -1,8 +1,8 @@
-commit b275cae957fad325bb1f7f09e8d3e5df0471f85a
+commit 68527e35c5094c77a5c22626e6e87812a3c0ab66
 Author: Cristian Villatoro <criistiianvs@gmail.com>
-Date:   Wed Sep 30 09:23:55 2015 -0600
+Date:   Wed Sep 30 09:49:09 2015 -0600
 
-    Agregue el portafolio
+    Restablecida la version eliminada con reset --soft
 
 commit 83c0298f162e954a9af67fa32a4f86971458caee
 Author: Cristian Villatoro <criistiianvs@gmail.com>
