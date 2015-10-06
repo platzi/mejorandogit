@@ -1,0 +1,35 @@
+commit 893dc472b87334bc1ab8d87487e0d731ce45164f
+Author: Mauricio Cano <lcanogiraldo@gmail.com>
+Date:   Mon Oct 5 10:42:09 2015 -0500
+
+    Escribí mi portafolio web
+
+commit fd573ceeb828951f2457faff82cbd110f1402253
+Author: Mauricio Cano <lcanogiraldo@gmail.com>
+Date:   Mon Oct 5 10:36:24 2015 -0500
+
+    Escribí mi resumen de perfil profesional
+
+commit f2695a36e4fc4a76e2ec1ae7723e68ed25071bc5
+Author: Mauricio Cano <lcanogiraldo@gmail.com>
+Date:   Mon Oct 5 10:31:30 2015 -0500
+
+    Agregué links de redes sociales
+
+commit e11b291630b700d3d937200596d6db4426edbb77
+Author: Mauricio Cano <lcanogiraldo@gmail.com>
+Date:   Fri Oct 2 21:15:14 2015 -0500
+
+    Perfil web lo escribí
+
+commit a17b58dbf930b4358786b6af0d3a0400eb0a3a57
+Author: Mauricio Cano <lcanogiraldo@gmail.com>
+Date:   Fri Oct 2 21:11:02 2015 -0500
+
+    Subí foto de perfil y mi nombre
+
+commit 81f66357f95a0eea2257636dd030dffcfd51d7a1
+Author: Mauricio Cano <lcanogiraldo@gmail.com>
+Date:   Fri Oct 2 20:50:40 2015 -0500
+
+    Estos son mis primeros archivos base del protafolio
