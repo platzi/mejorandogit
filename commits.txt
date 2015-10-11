@@ -1,0 +1,17 @@
+commit 2c1c1239aecd7946175bde17bb26fa6b4550e431
+Author: Dayan Betancourt <dkbetancourt@gmail.com>
+Date:   Fri Oct 9 10:20:45 2015 -0430
+
+    Presentacion y Portafolio
+
+commit d228b459a76fdb04ef401a84462c12d3164beaa6
+Author: Dayan Betancourt <dkbetancourt@gmail.com>
+Date:   Fri Oct 9 10:16:42 2015 -0430
+
+    Redes sociales
+
+commit 38b7a5b4e2ecf88a072df110f59369288889fa13
+Author: Dayan Betancourt <dkbetancourt@gmail.com>
+Date:   Fri Oct 9 10:14:46 2015 -0430
+
+    PErfil modificado
