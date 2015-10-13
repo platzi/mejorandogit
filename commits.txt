@@ -1,0 +1,35 @@
+commit c4e7297f2cef21334b304317490ca97cd20c7f7d
+Author: alexanderpabon7 <alex312-@hotmail.com>
+Date:   Tue Oct 13 16:32:09 2015 -0500
+
+    Modifique mi portafolio
+
+commit 6ee2325ff7d1c07eab868a6c2c92df4f62fa1734
+Author: alexanderpabon7 <alex312-@hotmail.com>
+Date:   Tue Oct 13 16:30:27 2015 -0500
+
+    Modifique mi descripcion
+
+commit 4e136b39a75f7ba3ec67dbd4716621d71c0991b0
+Author: alexanderpabon7 <alex312-@hotmail.com>
+Date:   Tue Oct 13 16:29:24 2015 -0500
+
+    Modifique mis redes sociales
+
+commit 5e8a480e67602ffc1619adfdac75064eeecea19d
+Author: alexanderpabon7 <alex312-@hotmail.com>
+Date:   Tue Oct 13 16:27:08 2015 -0500
+
+    Modifique mi perfil
+
+commit 9996ede5c851dea6c204793134ae2517602b408f
+Author: alexanderpabon7 <alex312-@hotmail.com>
+Date:   Tue Oct 13 16:23:54 2015 -0500
+
+    Modifique mi foto y mi nombre
+
+commit c0f9cac5a9994425a7bba8c792250479bd5bd12f
+Author: alexanderpabon7 <alex312-@hotmail.com>
+Date:   Tue Oct 13 16:19:22 2015 -0500
+
+    Cargue los archivos base
