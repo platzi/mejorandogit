@@ -1,0 +1,35 @@
+commit c083668903ebca7becefa4643574d9956882909c
+Author: Jonathan Alaniz <jon.alaniz89@gmail.com>
+Date:   Sun Oct 25 11:44:50 2015 -0600
+
+    Salve mi portafolio
+
+commit d64b26476259a50d91a825f9c13781a53fcdf418
+Author: Jonathan Alaniz <jon.alaniz89@gmail.com>
+Date:   Sun Oct 25 11:43:03 2015 -0600
+
+    Agregue descripcion
+
+commit 06f9c9039a49bda087c080e3908670df76280658
+Author: Jonathan Alaniz <jon.alaniz89@gmail.com>
+Date:   Sun Oct 25 11:37:23 2015 -0600
+
+    Agregue redes sociales
+
+commit 3396c5ef0d1c1c81ffa28382455366a485546233
+Author: Jonathan Alaniz <jon.alaniz89@gmail.com>
+Date:   Sun Oct 25 11:33:09 2015 -0600
+
+    perfil web escrito
+
+commit 95413d52418ff0eceecc75473e5c0aedaee7d8d4
+Author: Jonathan Alaniz <jon.alaniz89@gmail.com>
+Date:   Sun Oct 25 11:30:52 2015 -0600
+
+    subi foto de perfil y mi nombre
+
+commit 95321d16f11c93ec8dd72b741ba0d574f552fd34
+Author: Jonathan Alaniz <jon.alaniz89@gmail.com>
+Date:   Sun Oct 25 11:23:14 2015 -0600
+
+    Estos son los archivos base del portafolio
