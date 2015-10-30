@@ -1,0 +1,29 @@
+commit d4a3be74afe8188e20ad0d740dfa7b4278a09458
+Author: Francisco Campos <sasasamaes13@gmail.com>
+Date:   Fri Oct 16 20:43:29 2015 -0600
+
+    Agregue una descripcion
+
+commit 05625e15e9b06ed5e3f73a408dc61a64c5b7e436
+Author: Francisco Campos <sasasamaes13@gmail.com>
+Date:   Fri Oct 16 20:42:32 2015 -0600
+
+    Agregue mis redes sociales
+
+commit 14b16de1be314cdbd93c3f904bad766d181554a1
+Author: Francisco Campos <sasasamaes13@gmail.com>
+Date:   Fri Oct 16 20:40:29 2015 -0600
+
+    Perfil web escrito
+
+commit 02b1ca38e19f4b2457af9b1f456f15db01a3c5f0
+Author: Francisco Campos <sasasamaes13@gmail.com>
+Date:   Fri Oct 16 20:38:06 2015 -0600
+
+    Subi foto de perfil y mi nombre
+
+commit 9dc874370cc90b0fb581b971d1b2b7598c4a04ed
+Author: Francisco Campos <sasasamaes13@gmail.com>
+Date:   Fri Oct 16 20:33:28 2015 -0600
+
+    Estos son los archivos base de mi portafolio
