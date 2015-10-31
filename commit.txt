@@ -1,0 +1,35 @@
+giclacommit 18afd0bdc0c6d82b853e27192be4c365b00be2ae
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Sat Oct 31 10:52:34 2015 -0500
+
+    Trabajando en mi portafilio
+
+commit 98d809e5e3a21f22cad59e12b19265aec909905e
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Sat Oct 31 10:50:17 2015 -0500
+
+    Actualize mi perfil
+
+commit e5c54e3743523664fc6764f0eed6c18df1d26e37
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Sat Oct 31 10:46:33 2015 -0500
+
+    Actualize mis redes Sociales
+
+commit 6f968d5c89131505bff1a10af89dcdc40d5fd94b
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Sat Oct 31 10:40:11 2015 -0500
+
+    Actualize mi perfil
+
+commit 80b942828cc307488c730e5ad2e07b86f0ad01fc
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Sat Oct 31 10:37:19 2015 -0500
+
+    Subi foto del perfil y mi nombre al index.html
+
+commit caa36e7dc0cfa6ae815dade7e77677810a684681
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Fri Oct 30 17:34:37 2015 -0500
+
+    Estos son los archivos base de mi portafolio
