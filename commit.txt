@@ -1,4 +1,22 @@
-giclacommit 18afd0bdc0c6d82b853e27192be4c365b00be2ae
+commit 42f7576b1962e2c635b72e0f3bb37f2211d7f706
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Mon Nov 2 17:17:01 2015 -0500
+
+    Actualice el link al perfil de Facebook
+
+commit 1b8e2a80ea985db1aeddd81235a1f8b1dc82e261
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Sat Oct 31 16:22:14 2015 -0500
+
+    cerre e inicie gitBash con un cambio de color en el index
+
+commit 90b7bb8f17d1af27a42015c46d0651f5a1654745
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Sat Oct 31 15:23:02 2015 -0500
+
+    Cambie la foto de mi perfil de twitter
+
+commit 18afd0bdc0c6d82b853e27192be4c365b00be2ae
 Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
 Date:   Sat Oct 31 10:52:34 2015 -0500
 
