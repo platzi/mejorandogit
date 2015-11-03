@@ -1,0 +1,35 @@
+commit ee1a777a560fc150dfd850fc617bb63817e811ae
+Author: Victor Brea <victorbrea@gmail.com>
+Date:   Tue Nov 3 09:10:57 2015 +0100
+
+    Secrea portfolio y fichero de commits
+
+commit 4b32c487cc536116b45945c77bb4fe427a10e5a9
+Author: Victor Brea <victorbrea@gmail.com>
+Date:   Tue Nov 3 09:07:35 2015 +0100
+
+    He agregado la presentacion
+
+commit 0702c019c5b5eaacee76d5099328b7696cb16c22
+Author: Victor Brea <victorbrea@gmail.com>
+Date:   Tue Nov 3 09:05:57 2015 +0100
+
+    He agregado las redes sociales
+
+commit e00b3ef9287751d417248223e3417312268c7eed
+Author: Victor Brea <victorbrea@gmail.com>
+Date:   Tue Nov 3 08:54:30 2015 +0100
+
+    Perfil web escrito
+
+commit 23713ba795ac830348eb40df7aec9c17bc9e7073
+Author: Victor Brea <victorbrea@gmail.com>
+Date:   Tue Nov 3 08:50:20 2015 +0100
+
+    Subi foto de perfil y mi nombre
+
+commit 3e42f7e53748adb3a42f5f88f393cc05d502238a
+Author: Victor Brea <victorbrea@gmail.com>
+Date:   Tue Nov 3 08:40:22 2015 +0100
+
+    Estos son los archivos base de mi portafolio
