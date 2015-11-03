@@ -1,3 +1,21 @@
+commit a06e0052054734b50607b36714de2794e92ed388
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Mon Nov 2 19:00:09 2015 -0500
+
+    Se elimino la informacion de la U
+
+commit 9b4d71ddca3c454bce50a750f42b339dcae0f05e
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Mon Nov 2 18:30:11 2015 -0500
+
+    Agrege informacion de la U en el perfil
+
+commit 4a90bfd38592c44bd3f6bb5846962e8242b6d308
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Mon Nov 2 17:54:15 2015 -0500
+
+    Cambio a color Azul del background - body, ul li a p, div comunidad autoria
+
 commit 42f7576b1962e2c635b72e0f3bb37f2211d7f706
 Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
 Date:   Mon Nov 2 17:17:01 2015 -0500
