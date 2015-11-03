@@ -1,3 +1,9 @@
+commit a034dedd1eb3b73560f9c4c4b1091a4d00b26691
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Mon Nov 2 20:04:42 2015 -0500
+
+    Actualizacion del linkEdIn
+
 commit a06e0052054734b50607b36714de2794e92ed388
 Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
 Date:   Mon Nov 2 19:00:09 2015 -0500
