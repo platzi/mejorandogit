@@ -1,0 +1,29 @@
+commit 7bda67be9abf9b3f36f1f221c15c287d1140639f
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Thu Nov 5 00:49:25 2015 -0800
+
+    cambie titulo de doc. index.html
+
+commit a9484613f1f443ae83e2b88cd34dac145527102f
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Sun Oct 25 23:27:53 2015 -0700
+
+    Agrege descripcion de mi Perfil
+
+commit 6da6c2034b26052150da2878b49ecce9d2ff30d9
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Sun Oct 25 23:03:22 2015 -0700
+
+    Perfil Web escrito
+
+commit 1baecd44dc1bb935792ee7a120f9ee9cb59dd179
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Thu Oct 22 02:14:36 2015 -0700
+
+    Subi foto de perfil (no funciono el url) y mi nombre
+
+commit 848fd5b195a9a767c8e6b4a78d0df8eda39a2126
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Thu Oct 22 01:43:14 2015 -0700
+
+    Estos son los archivos base de mi portafolio
