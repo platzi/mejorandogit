@@ -1,0 +1,111 @@
+commit 8ac3872982daac5e88538e9cb936ff18a6f5f621
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Mon Nov 16 00:42:46 2015 -0800
+
+    Cambie tamano de icono a 100px
+
+commit e09b09762a8bf5fb6f5de90ae82272dee8ffce20
+Merge: c079f8f 748ccca
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Mon Nov 16 00:12:27 2015 -0800
+
+    Merge branch 'blackbackground'
+
+commit c079f8f23050374b64e5806e328a76100d5a1691
+Merge: 7975702 6d0e4df
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Mon Nov 16 00:09:42 2015 -0800
+
+    Merge branch 'fontjob'
+
+commit 797570200b8c00fd41718e2e89fa4582d731bfaa
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Mon Nov 16 00:02:32 2015 -0800
+
+    Margen arreglado
+
+commit 748ccca63d18c2f32ae6eddecb407f8cd1ed0aac
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Sun Nov 15 23:48:59 2015 -0800
+
+    Restaurar a fondo original ejecutado
+
+commit 6d0e4df8b60aa86e84fb4a6a793893e7bb7f5d77
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Sun Nov 15 23:43:03 2015 -0800
+
+    Resuelto la fuente en tamano
+
+commit 3109d7c09a8b6817c47f4b47d2b3125fa672b547
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Wed Nov 11 23:29:13 2015 -0800
+
+    Puse avatar de ubuntu
+
+commit 2d4cf15fa6f2580f3d6026077d028e5234895b23
+Merge: 64177e0 d278b14
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Wed Nov 11 23:15:34 2015 -0800
+
+    Fusion con Rama Font: Consolidando tamano de fuente
+
+commit d278b14d28235c8bc3e084196f143e4bb1be8cea
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Wed Nov 11 23:04:28 2015 -0800
+
+    Aumento a 21 pixeles
+
+commit 64177e041058b17e3efd7a064c02ea68b9d7e8c5
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Wed Nov 11 22:47:35 2015 -0800
+
+    Fusion ejecutada con branch Experimental
+
+commit 90fa298b2cfc2cdc57a2d4a24517a153007f180c
+Merge: 7bda67b d53460c
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Tue Nov 10 00:24:34 2015 -0800
+
+    Agrege facebook
+
+commit d53460cf71e05de4ee69da605bee6fdb7776083f
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Thu Nov 5 01:29:57 2015 -0800
+
+    Cambie color de background de doc. index.html a verde raro
+
+commit 7bda67be9abf9b3f36f1f221c15c287d1140639f
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Thu Nov 5 00:49:25 2015 -0800
+
+    cambie titulo de doc. index.html
+
+commit 951db6a1dfddeeeb616ceeabd601a874131ed8c2
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Thu Nov 5 00:23:55 2015 -0800
+
+    cambio titulo del file 'index.html'
+
+commit a9484613f1f443ae83e2b88cd34dac145527102f
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Sun Oct 25 23:27:53 2015 -0700
+
+    Agrege descripcion de mi Perfil
+
+commit 6da6c2034b26052150da2878b49ecce9d2ff30d9
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Sun Oct 25 23:03:22 2015 -0700
+
+    Perfil Web escrito
+
+commit 1baecd44dc1bb935792ee7a120f9ee9cb59dd179
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Thu Oct 22 02:14:36 2015 -0700
+
+    Subi foto de perfil (no funciono el url) y mi nombre
+
+commit 848fd5b195a9a767c8e6b4a78d0df8eda39a2126
+Author: Jerry Ponce <jerrysvy9@gmail.com>
+Date:   Thu Oct 22 01:43:14 2015 -0700
+
+    Estos son los archivos base de mi portafolio
