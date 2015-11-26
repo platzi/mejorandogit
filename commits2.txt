@@ -1,0 +1,27 @@
+* 8ac3872 (HEAD -> master) Cambie tamano de icono a 100px
+*   e09b097 Merge branch 'blackbackground'
+|\  
+| * 748ccca (blackbackground) Restaurar a fondo original ejecutado
+* |   c079f8f Merge branch 'fontjob'
+|\ \  
+| * | 6d0e4df (fontjob) Resuelto la fuente en tamano
+| |/  
+* | 7975702 Margen arreglado
+|/  
+* 3109d7c (carita) Puse avatar de ubuntu
+*   2d4cf15 Fusion con Rama Font: Consolidando tamano de fuente
+|\  
+| * d278b14 (Font) Aumento a 21 pixeles
+* | 64177e0 Fusion ejecutada con branch Experimental
+* |   90fa298 Agrege facebook
+|\ \  
+| |/  
+|/|   
+| * d53460c (experimental) Cambie color de background de doc. index.html a verde raro
+| * 951db6a cambio titulo del file 'index.html'
+* | 7bda67b cambie titulo de doc. index.html
+|/  
+* a948461 Agrege descripcion de mi Perfil
+* 6da6c20 Perfil Web escrito
+* 1baecd4 Subi foto de perfil (no funciono el url) y mi nombre
+* 848fd5b Estos son los archivos base de mi portafolio
