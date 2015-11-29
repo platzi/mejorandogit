@@ -1,0 +1,35 @@
+commit 5980ed708c36688bccbeaa5f6d471bf49ac2be8b
+Author: Ignacio Martin <imartinportillo@gmail.com>
+Date:   Sun Nov 22 11:24:13 2015 +0100
+
+    tu porfolio
+
+commit 81994000a90d9ff087e643444382a918bec54798
+Author: Ignacio Martin <imartinportillo@gmail.com>
+Date:   Sun Nov 22 11:22:21 2015 +0100
+
+    Añadido descripción
+
+commit db6aec32f245db779d54b54c3b497174bf2ae0b3
+Author: Ignacio Martin <imartinportillo@gmail.com>
+Date:   Sun Nov 22 11:18:30 2015 +0100
+
+    Añadido redes sociales
+
+commit fdd0a9dd63827efb9c31e42cba36bcdd76a8b449
+Author: Ignacio Martin <imartinportillo@gmail.com>
+Date:   Sun Nov 22 11:13:59 2015 +0100
+
+    cambio perfil web
+
+commit 4913bb72d702976b84fd2affb77e212949f6c791
+Author: Ignacio Martin <imartinportillo@gmail.com>
+Date:   Sun Nov 22 11:09:33 2015 +0100
+
+    cambio de foto y de nombre
+
+commit aa63a5f847cc710f07894af0cb452ec89b8d0952
+Author: Ignacio Martin <imartinportillo@gmail.com>
+Date:   Sun Nov 22 11:00:24 2015 +0100
+
+    estos son mis archivos
