@@ -1,0 +1,35 @@
+commit ebe94df191429333d49879a474a524b7820a1aba
+Author: Fredy Laverde <fredy88x@yahoo.es>
+Date:   Sat Dec 5 20:51:15 2015 -0500
+
+    Coloque mi sitios
+
+commit 7aa789327e6a7019b728e8e04c1ac6e4ac365982
+Author: Fredy Laverde <fredy88x@yahoo.es>
+Date:   Sat Dec 5 20:50:48 2015 -0500
+
+    Coloque mi presentacione
+
+commit 19d82bdb6b9e18536f34c4d9a97593dcd2c64e3a
+Author: Fredy Laverde <fredy88x@yahoo.es>
+Date:   Sat Dec 5 20:49:40 2015 -0500
+
+    Coloque mi redes
+
+commit 91f21a5367c2f38a1178cc5b8856dac7fe652a8d
+Author: Fredy Laverde <fredy88x@yahoo.es>
+Date:   Sat Dec 5 20:47:32 2015 -0500
+
+    Coloque mi perfil
+
+commit e95a1070b09cfd94aa4d46c26aceab49a5d07aac
+Author: Fredy Laverde <fredy88x@yahoo.es>
+Date:   Sat Dec 5 20:45:22 2015 -0500
+
+    Coloque mi nombre
+
+commit 2924e67969c6430068a38b5204810414583f0172
+Author: Fredy Laverde <fredy88x@yahoo.es>
+Date:   Sat Dec 5 20:40:23 2015 -0500
+
+    Estos son los archivos base de mi portafolio
