@@ -1,0 +1,35 @@
+commit 232dbf8154d0b6436157cd80d4f213ba5ab05a15
+Author: Francisco Llanquipichun <francisco.llanquipichun@gmail.com>
+Date:   Tue Dec 8 00:19:41 2015 -0300
+
+    agregado portafolio
+
+commit 10ac77be998572cb00d13b88fbca83c874cba29a
+Author: Francisco Llanquipichun <francisco.llanquipichun@gmail.com>
+Date:   Tue Dec 8 00:13:05 2015 -0300
+
+    agregada descripcion de perfil
+
+commit a7aab2d8275e383440c38ed3d3a4d0cbc43921a6
+Author: Francisco Llanquipichun <francisco.llanquipichun@gmail.com>
+Date:   Tue Dec 8 00:09:47 2015 -0300
+
+    Agregados enlaces de redes sociales
+
+commit 58fd58cb72c80a0b589194eadc6a83028cf55730
+Author: Francisco Llanquipichun <francisco.llanquipichun@gmail.com>
+Date:   Tue Dec 8 00:05:08 2015 -0300
+
+    perfil web actualizado
+
+commit 4cf07ca4bd7c560c13f59995857bbe46fe118e50
+Author: Francisco Llanquipichun <francisco.llanquipichun@gmail.com>
+Date:   Tue Dec 8 00:02:49 2015 -0300
+
+    subi foto de perfil y nombre
+
+commit 08c617608c71106cecd6520363116fb90be3d7f1
+Author: Francisco Llanquipichun <francisco.llanquipichun@gmail.com>
+Date:   Mon Dec 7 23:56:50 2015 -0300
+
+    estos son los archivos base de mi portafolio
