@@ -1,0 +1,35 @@
+commit 8d52934285e5184763933525504b7992166419d2
+Author: Alberto <albertoo_3c@hotmail.com>
+Date:   Wed Dec 9 09:52:21 2015 -0600
+
+    last save
+
+commit f9a16659f18a8172c96f8a42eaab6b90926d733f
+Author: Alberto <albertoo_3c@hotmail.com>
+Date:   Wed Dec 9 09:49:03 2015 -0600
+
+    add description
+
+commit 2332ffc4cbb464f457b0a05db79df5c2c576db76
+Author: Alberto <albertoo_3c@hotmail.com>
+Date:   Wed Dec 9 09:46:35 2015 -0600
+
+    add social networks
+
+commit fd721b726438d3a366a20bcb316cd10c95ac3db0
+Author: Alberto <albertoo_3c@hotmail.com>
+Date:   Wed Dec 9 09:40:39 2015 -0600
+
+    add profile
+
+commit c751114973934b7bbb8f6676555ff54fdef2610a
+Author: Alberto <albertoo_3c@hotmail.com>
+Date:   Wed Dec 9 09:37:49 2015 -0600
+
+    add image and name
+
+commit 33351a3d874eca23deeb397a7616ad1abe9182cc
+Author: Alberto <albertoo_3c@hotmail.com>
+Date:   Wed Dec 9 09:32:03 2015 -0600
+
+    files base
