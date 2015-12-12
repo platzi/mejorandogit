@@ -1,0 +1,41 @@
+commit 33fdffd74415b830e30df1827b6771a7ab8d9a1c
+Author: jose molina <josmoli@gmail.com>
+Date:   Sat Dec 12 11:03:50 2015 -0500
+
+    otra version
+
+commit b0e156cef14944ca0f8ecdc3881be21479a359d6
+Author: jose molina <josmoli@gmail.com>
+Date:   Fri Dec 11 21:51:54 2015 -0500
+
+    portafolio
+
+commit c2014163c9b5b8d25ee92b695cc76c89d8d2c11c
+Author: jose molina <josmoli@gmail.com>
+Date:   Fri Dec 11 21:49:56 2015 -0500
+
+    descripcion
+
+commit 6c3c03f8e71f7898ad67b0c1de854f294d83ddac
+Author: jose molina <josmoli@gmail.com>
+Date:   Fri Dec 11 21:47:36 2015 -0500
+
+    se agregaron redes sociales
+
+commit 280fbe1ab96fd11470ba0331e064a02a9ba8ef5f
+Author: jose molina <josmoli@gmail.com>
+Date:   Fri Dec 11 21:39:09 2015 -0500
+
+    perfil web
+
+commit 58eb26cf2df35dfddc6f53b2a405a9cd6bfefd8e
+Author: jose molina <josmoli@gmail.com>
+Date:   Fri Dec 11 21:36:30 2015 -0500
+
+    se agregemo mi nombre y foto de perfil twiter
+
+commit 513978fb3d0ef5a1d915e6c2e3e287a6626bc6b3
+Author: jose molina <josmoli@gmail.com>
+Date:   Fri Dec 11 21:28:39 2015 -0500
+
+    archivos del primer commit
