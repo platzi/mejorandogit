@@ -1,6 +1,6 @@
 body
 {
- background: rgb(22, 21, 20);
+ background: rgb(0, 102, 204);
  font-size: 16px;
 }
 
@@ -28,7 +28,7 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
-  background: #E94016;
+  background: rgb(0, 102, 204);
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;
@@ -101,7 +101,7 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
-  background: black;
+  background: rgb(0, 102, 204);
   border-top: solid 1px white;
   padding: 3% 0;
   margin: 12% 0;

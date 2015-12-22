@@ -1,0 +1,77 @@
+commit a034dedd1eb3b73560f9c4c4b1091a4d00b26691
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Mon Nov 2 20:04:42 2015 -0500
+
+    Actualizacion del linkEdIn
+
+commit a06e0052054734b50607b36714de2794e92ed388
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Mon Nov 2 19:00:09 2015 -0500
+
+    Se elimino la informacion de la U
+
+commit 9b4d71ddca3c454bce50a750f42b339dcae0f05e
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Mon Nov 2 18:30:11 2015 -0500
+
+    Agrege informacion de la U en el perfil
+
+commit 4a90bfd38592c44bd3f6bb5846962e8242b6d308
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Mon Nov 2 17:54:15 2015 -0500
+
+    Cambio a color Azul del background - body, ul li a p, div comunidad autoria
+
+commit 42f7576b1962e2c635b72e0f3bb37f2211d7f706
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Mon Nov 2 17:17:01 2015 -0500
+
+    Actualice el link al perfil de Facebook
+
+commit 1b8e2a80ea985db1aeddd81235a1f8b1dc82e261
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Sat Oct 31 16:22:14 2015 -0500
+
+    cerre e inicie gitBash con un cambio de color en el index
+
+commit 90b7bb8f17d1af27a42015c46d0651f5a1654745
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Sat Oct 31 15:23:02 2015 -0500
+
+    Cambie la foto de mi perfil de twitter
+
+commit 18afd0bdc0c6d82b853e27192be4c365b00be2ae
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Sat Oct 31 10:52:34 2015 -0500
+
+    Trabajando en mi portafilio
+
+commit 98d809e5e3a21f22cad59e12b19265aec909905e
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Sat Oct 31 10:50:17 2015 -0500
+
+    Actualize mi perfil
+
+commit e5c54e3743523664fc6764f0eed6c18df1d26e37
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Sat Oct 31 10:46:33 2015 -0500
+
+    Actualize mis redes Sociales
+
+commit 6f968d5c89131505bff1a10af89dcdc40d5fd94b
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Sat Oct 31 10:40:11 2015 -0500
+
+    Actualize mi perfil
+
+commit 80b942828cc307488c730e5ad2e07b86f0ad01fc
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Sat Oct 31 10:37:19 2015 -0500
+
+    Subi foto del perfil y mi nombre al index.html
+
+commit caa36e7dc0cfa6ae815dade7e77677810a684681
+Author: Juan Ricardo Martin Guio <ricardomartin67@gmail.com>
+Date:   Fri Oct 30 17:34:37 2015 -0500
+
+    Estos son los archivos base de mi portafolio
