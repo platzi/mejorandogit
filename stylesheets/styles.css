@@ -28,12 +28,13 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
-  background: #E94016;
+  background: #004455;
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;
   color: white;
   font-size: 13px;
+  font-weight:bold;
 }
 
 
@@ -62,7 +63,7 @@ h3
 
 header.sidebar
 {
-  background-color: #EEEEEE;
+  background-color: #0088AA;
   width: 30%;
   background-size: cover;
   display: inline-block;
@@ -93,9 +94,9 @@ div.sidebar_userimage img
 {
 
   border-radius: 26px;
+  background: #004455;
   width: 75px;
-  padding: 7px;
-  border: 1px solid #ccc; 
+  padding: 7px; black; 
 }
 
 div.comunidad-autoria
