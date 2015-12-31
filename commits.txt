@@ -1,0 +1,35 @@
+commit 8a685f2f6bc33916cfab67f405c3c4d0c0778818
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Wed Dec 30 21:16:23 2015 +0000
+
+    Agregue mi sitio web
+
+commit e69c32fa2e4dc78457b2bd5ef9980689e25dfbc7
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Wed Dec 30 21:11:58 2015 +0000
+
+    Agregue descripcion
+
+commit 4f41c7fa2e6492a8fb2770dfc808315594feb03d
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Wed Dec 30 21:08:11 2015 +0000
+
+    Ingresadas las Redes Sociales
+
+commit 24dc30ee277467abd59cad0f0397632d5f268055
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Wed Dec 30 20:48:22 2015 +0000
+
+    Ingresado mi perfil web
+
+commit 3e5198e6563dd8de56a7a2de8c722eeaac428c08
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Wed Dec 30 20:20:27 2015 +0000
+
+    Subi foto de perfil y mi nombre
+
+commit f5224ce3dd6852c6b69bd0f1062ab2c9cf9e27bd
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Wed Dec 30 20:01:44 2015 +0000
+
+    Estos son los archivos bases del portafolio
