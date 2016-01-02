@@ -1,3 +1,24 @@
+commit 2813e9e29523152155514335de2a0f6ba611d9d1
+Merge: 5e00f11 dfc342b
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Fri Jan 1 16:52:32 2016 +0000
+
+    Merge branch 'fontredsocial' into font
+    
+    Arreglo de la separacion de las redes sociales,fuentes se volvieron a 16px
+
+commit 5e00f11ac2af258abb57ed7f577c055daaedb382
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Fri Jan 1 16:48:46 2016 +0000
+
+    Arreglo de las fuentes,ahora las fuentes tienen 16px
+
+commit dfc342bae99b4c9db283d763fc745efeec50ca88
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Fri Jan 1 16:42:29 2016 +0000
+
+    Arreglado la separacion de las redes sociales
+
 commit 78759e293dd6afdf5af02d322ff026773ebb7642
 Merge: 3b1cbef 7cb02a7
 Author: Julio Lopez <ju.lopez73@gmail.com>
