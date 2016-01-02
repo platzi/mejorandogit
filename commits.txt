@@ -1,0 +1,147 @@
+commit 2813e9e29523152155514335de2a0f6ba611d9d1
+Merge: 5e00f11 dfc342b
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Fri Jan 1 16:52:32 2016 +0000
+
+    Merge branch 'fontredsocial' into font
+    
+    Arreglo de la separacion de las redes sociales,fuentes se volvieron a 16px
+
+commit 5e00f11ac2af258abb57ed7f577c055daaedb382
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Fri Jan 1 16:48:46 2016 +0000
+
+    Arreglo de las fuentes,ahora las fuentes tienen 16px
+
+commit dfc342bae99b4c9db283d763fc745efeec50ca88
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Fri Jan 1 16:42:29 2016 +0000
+
+    Arreglado la separacion de las redes sociales
+
+commit 78759e293dd6afdf5af02d322ff026773ebb7642
+Merge: 3b1cbef 7cb02a7
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Thu Dec 31 17:36:54 2015 +0000
+
+    Merge branch 'backgroundblack'
+    Fondo negro cool en mi proyecto
+
+commit 3b1cbefd21ba59ce49369604f1c81930ad0ac653
+Merge: 05f70bc 5637476
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Thu Dec 31 17:30:51 2015 +0000
+
+    Merge branch 'fontjob'
+    Fuente de descripcion de trabajo arreglado
+
+commit 05f70bcb05b1f3e1173cdc7fc7b491824b314819
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Thu Dec 31 17:28:59 2015 +0000
+
+    Margen arreglado
+
+commit 7cb02a7f8c0b685e5146a029599b886ef7dcbdc7
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Thu Dec 31 17:24:17 2015 +0000
+
+    Cambio de fondo a negro
+
+commit 563747608f71132a8d8e604d83dd435d178fc2a9
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Thu Dec 31 17:21:07 2015 +0000
+
+    Resuelto la fuente en tamano
+
+commit f3ef81752da4314f81865e6b91090d8afe8e5609
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Thu Dec 31 14:21:15 2015 +0000
+
+    Cambio de avatar por mi imagen
+
+commit dde57937621c7787d42aa3ec4a11e43c7ecf0a0a
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Thu Dec 31 14:16:57 2015 +0000
+
+    Cambio de avatar
+
+commit be33152bfe65d3bc808dffdbc3c1607842bc55d5
+Merge: a3df42f 66d69d8
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Thu Dec 31 11:09:15 2015 +0000
+
+    Merge branch 'fuente'
+    
+    Cambio de fuente a 21px
+
+commit 66d69d80f79a52fd8c50e050f791b8389c5b5540
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Thu Dec 31 11:01:36 2015 +0000
+
+    Cambio del tamaño de la fuente
+
+commit a3df42fc5d7b16ab0981ed3f313e297ac147054e
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Thu Dec 31 10:58:31 2015 +0000
+
+    Cambio de nuevo el titulo para no tener problemas con el merge
+
+commit c03c91627149f252cffaaef28b0b4f6708c71d4e
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Thu Dec 31 10:45:47 2015 +0000
+
+    Agregado el Tito
+
+commit 42106fc41dd9287d2509febbcbae206cd43d88e8
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Thu Dec 31 10:10:36 2015 +0000
+
+    Cambio de background a grisesito
+
+commit b2a5fa17d6e599d088cdfb5aa336572cff468ef1
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Thu Dec 31 10:03:26 2015 +0000
+
+    Cambio de background a rosa mexicano
+
+commit dff605ebac30d71ad8ff7d683e18f063b5121ed5
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Thu Dec 31 09:29:21 2015 +0000
+
+    listado de commits
+
+commit 8a685f2f6bc33916cfab67f405c3c4d0c0778818
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Wed Dec 30 21:16:23 2015 +0000
+
+    Agregue mi sitio web
+
+commit e69c32fa2e4dc78457b2bd5ef9980689e25dfbc7
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Wed Dec 30 21:11:58 2015 +0000
+
+    Agregue descripcion
+
+commit 4f41c7fa2e6492a8fb2770dfc808315594feb03d
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Wed Dec 30 21:08:11 2015 +0000
+
+    Ingresadas las Redes Sociales
+
+commit 24dc30ee277467abd59cad0f0397632d5f268055
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Wed Dec 30 20:48:22 2015 +0000
+
+    Ingresado mi perfil web
+
+commit 3e5198e6563dd8de56a7a2de8c722eeaac428c08
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Wed Dec 30 20:20:27 2015 +0000
+
+    Subi foto de perfil y mi nombre
+
+commit f5224ce3dd6852c6b69bd0f1062ab2c9cf9e27bd
+Author: Julio Lopez <ju.lopez73@gmail.com>
+Date:   Wed Dec 30 20:01:44 2015 +0000
+
+    Estos son los archivos bases del portafolio
