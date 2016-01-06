@@ -1,0 +1,35 @@
+commit f950060894321bfbedfc10fe8d385e263ac15ab0
+Author: Elias Rodelo <eliasrodelo@digitalcenter.com.co>
+Date:   Fri Dec 11 11:46:07 2015 -0500
+
+    Agregué mi sitio en github
+
+commit 01a3df3c7e1102847c69fd1adf3fd927b8fe4a42
+Author: Elias Rodelo <eliasrodelo@digitalcenter.com.co>
+Date:   Fri Dec 11 11:44:43 2015 -0500
+
+    Agregué mi descripción
+
+commit d036b67e8833ab6a74663f30f3291c40a2899af8
+Author: Elias Rodelo <eliasrodelo@digitalcenter.com.co>
+Date:   Fri Dec 11 11:42:50 2015 -0500
+
+    Agregué redes sociales
+
+commit 005e75e7be3315ab670080c3522c081fe6ecae22
+Author: Elias Rodelo <eliasrodelo@digitalcenter.com.co>
+Date:   Fri Dec 11 11:39:54 2015 -0500
+
+    Cambíe mi perfil web
+
+commit a8098c623792addf03f6dc4238f154f52375eb08
+Author: Elias Rodelo <eliasrodelo@digitalcenter.com.co>
+Date:   Fri Dec 11 11:37:48 2015 -0500
+
+    Subí foto de perfil y mi nombre en la página
+
+commit a696f525b78dd08132386f0ce89f16b546a6ab5a
+Author: Elias Rodelo <eliasrodelo@digitalcenter.com.co>
+Date:   Fri Dec 11 11:33:00 2015 -0500
+
+    Estos son los archivos base de mi portafolio
