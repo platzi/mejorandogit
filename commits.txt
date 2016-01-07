@@ -1,8 +1,14 @@
-commit ed5d5c9d2cece76cae7e41563619525b24b7ddea
+commit cbac679c09568a1f168aa13c57c7dba368b6f254
 Author: Pablo Mesa <pmesa48@gmail.com>
-Date:   Thu Jan 7 16:18:36 2016 -0500
+Date:   Thu Jan 7 18:37:43 2016 -0500
 
-    Portafolio se añadio rockmap
+    Cambio de fondo
+
+commit 0698b71e0c44f54a4a29e0e5915299a96f94cb26
+Author: Pablo Mesa <pmesa48@gmail.com>
+Date:   Thu Jan 7 16:30:28 2016 -0500
+
+    lo que habia borrado
 
 commit e324574b4d71e5c827c9006fe86448964c659cb2
 Author: Pablo Mesa <pmesa48@gmail.com>
