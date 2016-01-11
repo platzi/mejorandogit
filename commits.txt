@@ -1,0 +1,35 @@
+commit d2d7496facab9f50e598b6f2e880ba65f9123b16
+Author: Oscar Vadillo <oscar.vadillog@gmail.com>
+Date:   Sat Jan 9 14:07:02 2016 +0100
+
+    Añadimos portfolio
+
+commit 169f8d8ef68a4baa2aa9272b3f26d2485e561614
+Author: Oscar Vadillo <oscar.vadillog@gmail.com>
+Date:   Sat Jan 9 14:06:16 2016 +0100
+
+    Añadimos descripcion
+
+commit fe994c81b87a575a43e756da124760348fc2304c
+Author: Oscar Vadillo <oscar.vadillog@gmail.com>
+Date:   Sat Jan 9 14:05:28 2016 +0100
+
+    Añadimos redes sociales
+
+commit 804a9cf694ed27f7393efd32ffcb9b57c6365df7
+Author: Oscar Vadillo <oscar.vadillog@gmail.com>
+Date:   Sat Jan 9 14:03:09 2016 +0100
+
+    Añadimos perfil del usuario
+
+commit 9dcd4e1ba2b8f7820b78e144f78f8639aabf59fd
+Author: Oscar Vadillo <oscar.vadillog@gmail.com>
+Date:   Sat Jan 9 14:01:03 2016 +0100
+
+    Añadimos foto y nombre del perfil
+
+commit b230304932705d18fd32c7f6a722aef65ee19ea3
+Author: Oscar Vadillo <oscar.vadillog@gmail.com>
+Date:   Sat Jan 9 13:47:57 2016 +0100
+
+    Estos son los archivos base de mi portfolio
