@@ -91,7 +91,7 @@ div.sidebar_userimage
 
 div.sidebar_userimage img
 {
-
+  background: black;
   border-radius: 26px;
   width: 75px;
   padding: 7px;
