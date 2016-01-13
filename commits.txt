@@ -1,0 +1,29 @@
+commit a12ae0d04be270072444a3bedfb22ad6dca2ea5e
+Author: GabrielAttila <gabrieljmorenot@gmail.com>
+Date:   Sat Jan 9 08:44:26 2016 -0430
+
+    Salve mi portafolio
+
+commit b7d6207a2ff4c923e5cef633232fce563db544ed
+Author: GabrielAttila <gabrieljmorenot@gmail.com>
+Date:   Sat Jan 9 08:41:23 2016 -0430
+
+    Agregue redes Sociales
+
+commit 126280c2f0a952ddc7b4f5bac9e26887e94f9d3f
+Author: GabrielAttila <gabrieljmorenot@gmail.com>
+Date:   Sat Jan 9 07:37:31 2016 -0430
+
+    Perfil web
+
+commit a1c39994e7793f0821725d49e96b5d4adae03999
+Author: GabrielAttila <gabrieljmorenot@gmail.com>
+Date:   Sat Jan 9 07:32:59 2016 -0430
+
+    Subi foto de perfil y nombre
+
+commit 56c20caea7d0c74b7525f8ec8c8b87a28df7ba68
+Author: GabrielAttila <gabrieljmorenot@gmail.com>
+Date:   Sat Jan 9 07:31:03 2016 -0430
+
+    Estos son los archivos base de mi portafolio
