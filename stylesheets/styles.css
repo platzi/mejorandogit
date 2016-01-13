@@ -1,7 +1,12 @@
 body
 {
+<<<<<<< HEAD
  background: black; /*rgb(22, 21, 20);*/
  font-size: 21px;
+=======
+ background: rgb(22, 21, 20);
+ font-size: 16px;
+>>>>>>> upstream/master
 }
 
 a
@@ -11,7 +16,11 @@ a
 
 ul
 {
+<<<<<<< HEAD
   margin: 50% 0 0% 0%;
+=======
+  margin: 20% 0 0% 0%;
+>>>>>>> upstream/master
 }
 
 ul li
@@ -21,7 +30,11 @@ ul li
 
 ul li a
 {
+<<<<<<< HEAD
  text-decoration: none;
+=======
+ text-decoration: none; 
+>>>>>>> upstream/master
 }
 
 ul li a p
@@ -91,10 +104,18 @@ div.sidebar_userimage
 
 div.sidebar_userimage img
 {
+<<<<<<< HEAD
   border-radius: 26px;
   width: 75px;
   padding: 7px;
   border: 1px solid #ccc;
+=======
+
+  border-radius: 26px;
+  width: 75px;
+  padding: 7px;
+  border: 1px solid #ccc; 
+>>>>>>> upstream/master
 }
 
 div.comunidad-autoria
@@ -128,7 +149,11 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
+<<<<<<< HEAD
 font-size: 27px;
+=======
+font-size: 15px;
+>>>>>>> upstream/master
 text-align: center;
 }
 
@@ -139,10 +164,17 @@ div.nombre p
 
 div.layout-principal
 {
+<<<<<<< HEAD
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
+=======
+  position: absolute; 
+  top: 0; 
+  right: 0; 
+  bottom: 0;  
+>>>>>>> upstream/master
   overflow-x: auto;
   width: 55%;
   padding: 0% 6.5%;
@@ -157,4 +189,8 @@ div.bloque p
 {
   color: rgb(255, 255, 255);
   line-height: 1.9em;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> upstream/master
