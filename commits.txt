@@ -1,0 +1,41 @@
+commit cbac679c09568a1f168aa13c57c7dba368b6f254
+Author: Pablo Mesa <pmesa48@gmail.com>
+Date:   Thu Jan 7 18:37:43 2016 -0500
+
+    Cambio de fondo
+
+commit 0698b71e0c44f54a4a29e0e5915299a96f94cb26
+Author: Pablo Mesa <pmesa48@gmail.com>
+Date:   Thu Jan 7 16:30:28 2016 -0500
+
+    lo que habia borrado
+
+commit e324574b4d71e5c827c9006fe86448964c659cb2
+Author: Pablo Mesa <pmesa48@gmail.com>
+Date:   Thu Jan 7 16:15:58 2016 -0500
+
+    Descripcion terminada
+
+commit 567d3c2c7828e9c8aa034e1cb2f1ab25bb284de6
+Author: Pablo Mesa <pmesa48@gmail.com>
+Date:   Thu Jan 7 16:14:36 2016 -0500
+
+    Redes sociales completadas
+
+commit d6114abfc0affd61563542ed4817f0859fbb5857
+Author: Pablo Mesa <pmesa48@gmail.com>
+Date:   Thu Jan 7 16:12:14 2016 -0500
+
+    Perfil web completado
+
+commit c9e9dc4910ad3ab593ba2aa00a0e35b1d7cacb98
+Author: Pablo Mesa <pmesa48@gmail.com>
+Date:   Thu Jan 7 16:09:58 2016 -0500
+
+    Acabo de subir mi foto de perfil y mi nombre
+
+commit 1dbecc483d6c7d61389b8cce45251412b946e21a
+Author: Pablo Mesa <pmesa48@gmail.com>
+Date:   Thu Jan 7 16:04:34 2016 -0500
+
+    Estos son los archivos de mi portafolio
