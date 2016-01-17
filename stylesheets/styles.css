@@ -26,9 +26,9 @@ ul li a
 
 ul li a p
 {
-  width: 75%;
+  width: 60%;
   list-style-type: none;
-  background: #E94016;
+  background: #1640E9;
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;
