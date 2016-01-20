@@ -1,12 +1,8 @@
 body
 {
-<<<<<<< HEAD
+
  background: black;
  font-size: 21px;
-=======
- background: rgb(22, 21, 20);
- font-size: 16px;
->>>>>>> origin/master
 }
 
 a
@@ -16,11 +12,7 @@ a
 
 ul
 {
-<<<<<<< HEAD
-  margin: 50% 0 0% 0%;
-=======
   margin: 20% 0 0% 0%;
->>>>>>> origin/master
 }
 
 ul li
@@ -138,11 +130,7 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
-<<<<<<< HEAD
-font-size: 27px;
-=======
 font-size: 15px;
->>>>>>> origin/master
 text-align: center;
 }
 
@@ -171,4 +159,4 @@ div.bloque p
 {
   color: rgb(255, 255, 255);
   line-height: 1.9em;
-}
+} 
