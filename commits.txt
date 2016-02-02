@@ -1,0 +1,35 @@
+commit 6de60ab434af0b57a3f8752fc4b0b25a66626950
+Author: Mynor Morales <mynormh@outlook.com>
+Date:   Sun Jan 31 22:21:27 2016 -0600
+
+    Agregue portafolio
+
+commit e131036a97717c001cafabfa307b1d0a5fabf0ba
+Author: Mynor Morales <mynormh@outlook.com>
+Date:   Sun Jan 31 22:20:05 2016 -0600
+
+    Descripcion
+
+commit f5522e75a7ae9bfbd90a6379f1a339d9374ee4e8
+Author: Mynor Morales <mynormh@outlook.com>
+Date:   Sun Jan 31 22:18:49 2016 -0600
+
+    Agregue redes sociales
+
+commit deeb0a28cb65c6c030868a71540564c734ccfe55
+Author: Mynor Morales <mynormh@outlook.com>
+Date:   Sun Jan 31 22:09:56 2016 -0600
+
+    Perfil escrito
+
+commit 00ee65db11ca9d0d7e2a230eb0f30905d2608638
+Author: Mynor Morales <mynormh@outlook.com>
+Date:   Sun Jan 31 22:06:36 2016 -0600
+
+    Subí foto de perfil y mi nombre
+
+commit ba8d8ff9e532bed52c88c044f02c1ec950b8abb9
+Author: Mynor Morales <mynormh@outlook.com>
+Date:   Sun Jan 31 21:53:41 2016 -0600
+
+    Estos son los archivos base de mi portafolio
