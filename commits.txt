@@ -1,0 +1,29 @@
+commit 0a7999bd905da9a3523b896303a50df144f1329a
+Author: xhinox <augusto.ferriz@gmail.com>
+Date:   Wed Feb 3 19:44:03 2016 -0700
+
+    Se modifico la bienvenida
+
+commit 1027e57f57e154f7cc905b1b856bea51e58c39e7
+Author: xhinox <augusto.ferriz@gmail.com>
+Date:   Tue Feb 2 22:04:42 2016 -0700
+
+    Se actualizaron los enlaces a las redes sociales
+
+commit b099531be6e66d6beedd77f767597de1cf0aa75d
+Author: xhinox <augusto.ferriz@gmail.com>
+Date:   Tue Feb 2 21:53:53 2016 -0700
+
+    Perfil web actualizado
+
+commit 49f5375f67846308f57fe1c952d22ff4efa07654
+Author: xhinox <augusto.ferriz@gmail.com>
+Date:   Tue Feb 2 21:47:31 2016 -0700
+
+    Se actualizo la foto de perfil y el nombre
+
+commit c988fe1dc0841985ee7ca20c71b0d9da96ceb543
+Author: xhinox <augusto.ferriz@gmail.com>
+Date:   Tue Feb 2 21:31:18 2016 -0700
+
+    Estos son archivos originales
