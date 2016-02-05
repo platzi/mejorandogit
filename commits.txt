@@ -1,0 +1,35 @@
+commit fc00c385f7516aaa73b90075c7e0f526c759396d
+Author: Gibran <gibran@briocreativo.com>
+Date:   Wed Feb 3 10:19:13 2016 -0600
+
+    Agregue portafolio
+
+commit e88d27b61d362ebc60177203eb685782046c8516
+Author: Gibran <gibran@briocreativo.com>
+Date:   Wed Feb 3 10:17:20 2016 -0600
+
+    agregue descripción
+
+commit 5056f533501f9cbffb4ca8f7fbbeb8bb98fc35b2
+Author: Gibran <gibran@briocreativo.com>
+Date:   Wed Feb 3 10:16:28 2016 -0600
+
+    agregue redes sociales
+
+commit 6d9c19be6101901fe5f48f9d5180eb64ce1a6844
+Author: Gibran <gibran@briocreativo.com>
+Date:   Wed Feb 3 10:14:22 2016 -0600
+
+    Perfil web escrito
+
+commit 232d69d4ab66b564f443df10d425feeffab8299b
+Author: Gibran <gibran@briocreativo.com>
+Date:   Wed Feb 3 10:12:07 2016 -0600
+
+    Subi foto de pefil y mi nombre
+
+commit 25cf11ad3583a558450b11da9322e700c7486b9f
+Author: Gibran <gibran@briocreativo.com>
+Date:   Wed Feb 3 10:07:00 2016 -0600
+
+    estos son los archivos base de mi portafolio
