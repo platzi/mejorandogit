@@ -1,3 +1,27 @@
+commit 327c9eebe56456cbe7d4d5a4f190d2ff77a6aa49
+Author: xhinox <augusto.ferriz@gmail.com>
+Date:   Sat Feb 6 15:54:33 2016 -0700
+
+    cambio del titulo again
+
+commit 757e6e66108a8d24419ffd16e4eee42aa0bd92f0
+Author: xhinox <augusto.ferriz@gmail.com>
+Date:   Sat Feb 6 15:40:37 2016 -0700
+
+    cambio de background
+
+commit cca52563c5875db06befc5fd955e58ad611eb0bf
+Author: xhinox <augusto.ferriz@gmail.com>
+Date:   Sat Feb 6 15:35:16 2016 -0700
+
+    cambio el titulo
+
+commit 99adaad9d1c398a16fb818d2a19b043f7722cade
+Author: xhinox <augusto.ferriz@gmail.com>
+Date:   Wed Feb 3 20:01:23 2016 -0700
+
+    Subiendo portafolio
+
 commit 0a7999bd905da9a3523b896303a50df144f1329a
 Author: xhinox <augusto.ferriz@gmail.com>
 Date:   Wed Feb 3 19:44:03 2016 -0700
