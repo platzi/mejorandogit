@@ -1,7 +1,8 @@
 body
 {
- background: rgb(22, 21, 20);
- font-size: 16px;
+
+ background: black;
+ font-size: 21px;
 }
 
 a
@@ -158,4 +159,4 @@ div.bloque p
 {
   color: rgb(255, 255, 255);
   line-height: 1.9em;
-}
+} 
