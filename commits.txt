@@ -1,0 +1,29 @@
+commit 8d4df469dc7f173e2d00942f9581cbe041f236ee
+Author: luis mogollon <waltri.2513@hotmail.com>
+Date:   Sat Dec 12 13:07:54 2015 -0800
+
+    cambio de actividad
+
+commit a40e773f7f91feaa06e026e3ebe4b02535c8a7db
+Author: luis mogollon <waltri.2513@hotmail.com>
+Date:   Sat Dec 12 13:04:56 2015 -0800
+
+    cambios de dierreccione sociales
+
+commit 8affb2ea9a920ee393d5d08e9aa995d40d2f69ca
+Author: luis mogollon <waltri.2513@hotmail.com>
+Date:   Sat Dec 12 12:57:16 2015 -0800
+
+    perfil wep
+
+commit 377817d4eb87e2dc8a144db2464dcb813bdaaace
+Author: luis mogollon <waltri.2513@hotmail.com>
+Date:   Sat Dec 12 12:52:44 2015 -0800
+
+    subi foto y nombre
+
+commit 9271a92d2d2783ac2ea37348ab2abc50b59c50b0
+Author: luis mogollon <waltri.2513@hotmail.com>
+Date:   Sat Dec 12 12:29:40 2015 -0800
+
+    Estos son los archivos base de mi portafolio
