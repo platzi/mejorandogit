@@ -129,7 +129,11 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
+<<<<<<< HEAD
 font-size: 27px;
+=======
+font-size: 15px;
+>>>>>>> origin/master
 text-align: center;
 }
 
