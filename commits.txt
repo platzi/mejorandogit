@@ -1,0 +1,29 @@
+commit 99ea5deb60cf989431ca983f98aa2a4a844688b6
+Author: williampv <williampv@gmail.com>
+Date:   Thu Mar 3 11:21:46 2016 -0500
+
+    creacion de propuesta
+
+commit 522bb38c495da1fa026b7f6345587505e89f64e4
+Author: williampv <williampv@gmail.com>
+Date:   Tue Mar 1 13:08:12 2016 -0500
+
+    subi foto de perfil y nombre
+
+commit 5c4a21628c19cae6c5b2bd1ff9ab0a6edc7d8b8a
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Dec 1 20:25:27 2014 -0600
+
+    Create freddier.txt
+
+commit c28df02cf4c730678ab6bb52713107efc5892077
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Dec 1 13:34:12 2014 -0600
+
+    Create MENCIONOFICIAL.txt
+
+commit ea4e4a0439213ac10ae3d3aebe62590d0c0ff980
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Nov 17 10:14:38 2014 -0500
+
+    Inicio de portafolio
