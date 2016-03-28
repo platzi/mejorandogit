@@ -1,6 +1,6 @@
 body
 {
- background: rgb(22, 21, 20);
+ background: #222;
  font-size: 16px;
 }
 
@@ -11,7 +11,7 @@ a
 
 ul
 {
-  margin: 20% 0 0% 0%;
+  margin: 50% 0 0% 0%;
 }
 
 ul li
@@ -41,7 +41,7 @@ h1
 {
   padding-bottom: 2em;
   border-bottom: none;
-  font-size: 16px;
+  font-size: 20px;
   margin: 0;
   padding: 5px 0 .3em;
   line-height: 32px;
@@ -52,18 +52,18 @@ h1
 h3
 {
   text-transform: uppercase;
-  font-size: 13px;
+  font-size: 18px;
   line-height: 32px;
   border-bottom: 1px #eee solid;
   color: #FFF7F7;
-  margin-bottom: 2.5em;
+  margin-bottom: .5em;
   padding-bottom: .5em;
 }
 
 header.sidebar
 {
   background-color: #EEEEEE;
-  width: 30%;
+  width: 25%;
   background-size: cover;
   display: inline-block;
   vertical-align: top;
@@ -83,12 +83,10 @@ div.sidebar_userimage
   border-radius: 80px;
   background-repeat: no-repeat;
   background-size: cover;
-  margin: 0% 35% 0;
+  margin: 25% 20%;
   padding: 8% 0 0;
   text-align: center;
-
 }
-
 div.sidebar_userimage img
 {
 
@@ -100,9 +98,9 @@ div.sidebar_userimage img
 
 div.comunidad-autoria
 {
-  border-bottom: solid 1px white;
-  background: black;
-  border-top: solid 1px white;
+  /*border-bottom: solid 1px white;*/
+  background: #111;
+  /*border-top: solid 1px white;*/
   padding: 3% 0;
   margin: 12% 0;
 }
@@ -129,7 +127,7 @@ display: inline-block;
 vertical-align: top;
 padding: 0;
 margin: 0% 33%;
-font-size: 15px;
+font-size: 26px;
 text-align: center;
 }
 
