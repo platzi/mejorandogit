@@ -1,6 +1,6 @@
 body
 {
- background: rgb(22, 21, 20);
+ background: rgb(218, 60, 215);
  font-size: 16px;
 }
 
@@ -21,7 +21,7 @@ ul li
 
 ul li a
 {
- text-decoration: none; 
+ text-decoration: none;
 }
 
 ul li a p
@@ -95,7 +95,7 @@ div.sidebar_userimage img
   border-radius: 26px;
   width: 75px;
   padding: 7px;
-  border: 1px solid #ccc; 
+  border: 1px solid #ccc;
 }
 
 div.comunidad-autoria
@@ -140,10 +140,10 @@ div.nombre p
 
 div.layout-principal
 {
-  position: absolute; 
-  top: 0; 
-  right: 0; 
-  bottom: 0;  
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
   overflow-x: auto;
   width: 55%;
   padding: 0% 6.5%;

@@ -48,9 +48,7 @@ Date:   Thu Jun 9 13:59:36 2016 -0500
 
 
 
-commit 903be879e4c3df5e10a5908f36b651b250b0c612
-
-Author: Isaac Cantun <izakntun@gmail.com>
+commit  Author: Isaac Cantun <izakntun@gmail.com>
 
 Date:   Thu Jun 9 13:43:31 2016 -0500
 
