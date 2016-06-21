@@ -1,0 +1,55 @@
+﻿commit 9cf441d2fe337aa1d1525b9846827eb367a6fda4
+
+Author: Isaac Cantun <izakntun@gmail.com>
+
+Date:   Thu Jun 9 14:27:20 2016 -0500
+
+    Agregué mi portafolio
+
+
+
+commit f83711613b02122e2efc7884cda3cb7abaf6e5f0
+
+Author: Isaac Cantun <izakntun@gmail.com>
+
+Date:   Thu Jun 9 14:25:53 2016 -0500
+
+    Agregué una descripción a mi perfil
+
+
+
+commit 50f46aed1399e7c4aa01ab1d9e4456433b9ee193
+
+Author: Isaac Cantun <izakntun@gmail.com>
+
+Date:   Thu Jun 9 14:20:47 2016 -0500
+
+    Agregué redes sociales
+
+
+
+commit 70819a3e699807fc1e63639e6401662702b41b2d
+
+Author: Isaac Cantun <izakntun@gmail.com>
+
+Date:   Thu Jun 9 14:11:02 2016 -0500
+
+    Perfil web escrito
+
+
+
+commit 0e89e3891b80a417db43f83415d7e4fc6a2d6a54
+
+Author: Isaac Cantun <izakntun@gmail.com>
+
+Date:   Thu Jun 9 13:59:36 2016 -0500
+
+    Foto de perfil y nombre
+
+
+
+commit  Author: Isaac Cantun <izakntun@gmail.com>
+
+Date:   Thu Jun 9 13:43:31 2016 -0500
+
+    Estos son los archivos base de mi portafolio
