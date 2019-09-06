@@ -1,0 +1,35 @@
+commit 377508ba7c2714d82c4693b1daae3ead521a5469
+Author: Augusto Gonzalez <aagg83556@hotmail.com>
+Date:   Tue Apr 26 19:05:49 2016 -0430
+
+    Salve mi portafolio
+
+commit 5687630f2b9f89f636a847604ea6aeac099a1f82
+Author: Augusto Gonzalez <aagg83556@hotmail.com>
+Date:   Tue Apr 26 18:58:59 2016 -0430
+
+    Agregue descripcion
+
+commit 64bf5b4fcf225e9eae6c04cd334f0276c13b178a
+Author: Augusto Gonzalez <aagg83556@hotmail.com>
+Date:   Tue Apr 26 16:28:45 2016 -0430
+
+    Agregue redes sociales
+
+commit 2cccaacc7e7ca95c7de95d962283b9e687e23f4a
+Author: Augusto Gonzalez <aagg83556@hotmail.com>
+Date:   Tue Apr 26 16:23:18 2016 -0430
+
+    Perfil Web escrito
+
+commit e48020e0a39f63f7b1c3b8caf47285ebcc210b2a
+Author: Augusto Gonzalez <aagg83556@hotmail.com>
+Date:   Tue Apr 26 16:20:45 2016 -0430
+
+    Subi foto de perfil y mi nombre
+
+commit 95890097ed894521393748163819df8852fb7a2f
+Author: Augusto Gonzalez <aagg83556@hotmail.com>
+Date:   Tue Apr 26 16:11:37 2016 -0430
+
+    Estos son los archivos base de mi portafolio
