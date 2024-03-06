@@ -1,0 +1,47 @@
+commit 43e95e6746626561f4d4ab477021ef595e959853
+Author: Julian Acosta <julian.acosta.76@gmail.com>
+Date:   Thu Jan 18 11:27:03 2024 -0500
+
+    Subida portafolio
+
+commit 858050565865fc9e1cec9f60482e051213ef4e78
+Author: Julian Acosta <julian.acosta.76@gmail.com>
+Date:   Thu Jan 18 11:08:22 2024 -0500
+
+    Agregua descripción
+
+commit 58f52dd89429eaaee0b1694635966c001ddaa837
+Author: Julian Acosta <julian.acosta.76@gmail.com>
+Date:   Wed Jan 17 20:50:41 2024 -0500
+
+    Agregué redes sociales
+
+commit 0e2f23a15dd0e93a69f9b2724da940c8aa37a6ad
+Author: Julian Acosta <julian.acosta.76@gmail.com>
+Date:   Wed Jan 17 19:07:28 2024 -0500
+
+    perfil web escrito
+
+commit 00711a165f6dcd9df129c67867f2572ca82e648b
+Author: Julian Acosta <julian.acosta.76@gmail.com>
+Date:   Wed Jan 17 19:02:11 2024 -0500
+
+    Subí foto de perfil y mi nombre
+
+commit 5c4a21628c19cae6c5b2bd1ff9ab0a6edc7d8b8a
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Dec 1 20:25:27 2014 -0600
+
+    Create freddier.txt
+
+commit c28df02cf4c730678ab6bb52713107efc5892077
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Dec 1 13:34:12 2014 -0600
+
+    Create MENCIONOFICIAL.txt
+
+commit ea4e4a0439213ac10ae3d3aebe62590d0c0ff980
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Nov 17 10:14:38 2014 -0500
+
+    Inicio de portafolio
